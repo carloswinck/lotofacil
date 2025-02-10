@@ -1,17 +1,17 @@
 Relatório:
-Números Previstos: 3pfx 6x 7p 9x 12x 13pf 15x 18x 21fx 22
-Concursos Testados: 3216 até 3315
+Números Previstos: 1f 2pf 6x 7p 8f 9x 15x 16 17p 18x
+Concursos Testados: 0 até 3315
 Números do Concurso Anterior: 1 5 10 13 15 16 19 20 22 23
-Repetidas no Concurso Anterior: 13 15
-Números Primos: 3pfx 7p 13pf
-Números de Fibonacci: 3pfx 13pf 21fx
-Números Múltiplos de 3: 3pfx 6x 9x
-Números Pares: 6x 12x 18x 22
-Números Ímpares: 3pfx 7p 9x 13pf 15x 21fx
-Números no Miolo: 7 9 12 13 18
-Números na Moldura: 3 6 15 21 22
-Soma dos Números: 126
-Dezenas por Linha: 0 0 0 0 1 1 1 1 2 2
-Dezenas por Coluna: 3 6 7 9 2 3 5 8 1 2
-Sequência Grande de Números: 3pfx 6x 7p 9x 12x 13pf 15x 18x 21fx 22
-Sequência Grande de Saltos: 3 1 8 2 5 4 6 10 7 11 9
+Repetidas no Concurso Anterior: 1 15
+Números Primos: 2pf 7p 17p
+Números de Fibonacci: 1f 2pf 8f
+Números Múltiplos de 3: 6x 9x 15x 18x
+Números Pares: 2pf 6x 8f 16 18x
+Números Ímpares: 1f 7p 9x 15x 17p
+Números no Miolo: 7 8 9 17 18
+Números na Moldura: 1 2 6 15 16
+Soma dos Números: 99
+Dezenas por Linha: 0 0 0 0 0 0 1 1 1 1
+Dezenas por Coluna: 1 2 6 7 8 9 5 6 7 8
+Sequência Grande de Números: 1f 2pf 6x 7p 8f 9x 15x 16 17p 18x
+Sequência Grande de Saltos: 3 1 4 2 5 6 8 7 9 10 11 13 12 15

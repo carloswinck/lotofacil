@@ -48,8 +48,10 @@ def ler_csv(file_path):
         return list(reader)
 
 # Função para calcular o resumo do último concurso
-def calcular_resumo(ultimo_concurso, numeros_escolhidos, penultimo_concurso, antepenultimo_concurso):
-    ausentes = ' '.join(map(rotular_numero, [num for num in range(1, 26) if num not in ultimo_concurso]))
+def calcular_resumo(ultimo_concurso, numeros_escolhidos, penultimo_concurso, antepenultimo_concurso, numeros_ausentes=None):
+    if numeros_ausentes is None:
+        numeros_ausentes = [num for num in range(1, 26) if num not in ultimo_concurso]
+    ausentes = ' '.join(map(rotular_numero, numeros_ausentes))
     sorteados = ' '.join(map(rotular_numero, ultimo_concurso))
     acertei = ' '.join(map(rotular_numero, [num for num in numeros_escolhidos if num in ultimo_concurso]))
     repetidos = ' '.join(map(rotular_numero, [num for num in penultimo_concurso if num in ultimo_concurso]))
@@ -103,10 +105,10 @@ def calcular_resumo(ultimo_concurso, numeros_escolhidos, penultimo_concurso, ant
         'Múltiplo de 3': multiplos_de_3,
         'Miolo': miolo,
         'Moldura': moldura,
-        'Primos no miolo': primos_miolo,
-        'Fibonacci no miolo': fibonacci_miolo,
-        'Mágicos no miolo': magicos_miolo,
-        'Múltiplo de 3 no miolo': multiplos_de_3_miolo,
+        'Qtd. Primos no miolo': len(primos_miolo.split()),
+        'Qtd. Fibonacci no miolo': len(fibonacci_miolo.split()),
+        'Qtd. Mágicos no miolo': len(magicos_miolo.split()),
+        'Qtd. Múltiplo de 3 no miolo': len(multiplos_de_3_miolo.split()),
         'Qtd. Acertos': len(acertei_list),
         'Qtd. Repetidos': len(repetidos.split()),
         'Qtd. Primos': len(primos.split()),
@@ -115,10 +117,6 @@ def calcular_resumo(ultimo_concurso, numeros_escolhidos, penultimo_concurso, ant
         'Qtd. Múltiplo de 3': len(multiplos_de_3.split()),
         'Qtd. Miolo': len(miolo.split()),
         'Qtd. Moldura': len(moldura.split()),
-        'Qtd. Primos no miolo': len(primos_miolo.split()),
-        'Qtd. Fibonacci no miolo': len(fibonacci_miolo.split()),
-        'Qtd. Mágicos no miolo': len(magicos_miolo.split()),
-        'Qtd. Múltiplo de 3 no miolo': len(multiplos_de_3_miolo.split()),
         'Qtd. Primos nos ausentes': len(primos_ausentes.split()),
         'Qtd. Fibonacci nos ausentes': len(fibonacci_ausentes.split()),
         'Qtd. Mágicos nos ausentes': len(magicos_ausentes.split()),
@@ -159,23 +157,51 @@ def main():
                 numero_concurso = linhas[i][0]
                 data_concurso = linhas[i][1]
 
-                # Perguntar ao usuário quais números ele escolheu
-                numeros_escolhidos = input("Quais números você escolheu? (separados por espaço): ").strip()
-                if not numeros_escolhidos:
-                    print("Erro: A lista de números não pode ser vazia.")
+                # Perguntar ao usuário se ele quer passar os números sorteados ou os números ausentes
+                escolha = input("Você quer passar os números sorteados (1) ou os números ausentes (2)? ").strip()
+                if escolha not in ['1', '2']:
+                    print("Erro: Escolha inválida. Digite '1' para sorteados ou '2' para ausentes.")
                     continue
 
-                try:
-                    numeros_escolhidos = list(map(int, numeros_escolhidos.split()))
-                except ValueError:
-                    print("Erro: Todos os números escolhidos devem ser inteiros.")
-                    continue
+                if escolha == '1':
+                    numeros_escolhidos = input("Quais números você escolheu? (separados por espaço): ").strip()
+                    if not numeros_escolhidos:
+                        print("Erro: A lista de números não pode ser vazia.")
+                        continue
+
+                    try:
+                        numeros_escolhidos = list(map(int, numeros_escolhidos.split()))
+                    except ValueError:
+                        print("Erro: Todos os números escolhidos devem ser inteiros.")
+                        continue
+
+                    numeros_ausentes = None
+
+                elif escolha == '2':
+                    numeros_ausentes = input("Quais números serão ausentes? (separados por espaço): ").strip()
+                    if not numeros_ausentes:
+                        print("Erro: A lista de números ausentes não pode ser vazia.")
+                        continue
+
+                    try:
+                        numeros_ausentes = list(map(int, numeros_ausentes.split()))
+                    except ValueError:
+                        print("Erro: Todos os números ausentes devem ser inteiros.")
+                        continue
+
+                    if len(numeros_ausentes) != 10:
+                        print("Erro: A lista de números ausentes deve conter exatamente 10 números.")
+                        continue
+
+                    numeros_escolhidos = [num for num in range(1, 26) if num not in numeros_ausentes]
 
                 # Calcular o resumo do último concurso
-                resumo = calcular_resumo(ultimo_concurso, numeros_escolhidos, penultimo_concurso, antepenultimo_concurso)
+                resumo = calcular_resumo(ultimo_concurso, numeros_escolhidos, penultimo_concurso, antepenultimo_concurso, numeros_ausentes)
 
                 # Gerar o relatório de resumo
                 print(f"\nRESUMO DO CONCURSO {numero_concurso} DA DATA {data_concurso}:\n")
+                print(f"Escolhidos:".ljust(40) + ' '.join(map(str, numeros_escolhidos)))
+                print("---")
                 print(f"Soma:".ljust(40) + str(resumo['Soma']))
                 print(f"Par/Impar:".ljust(40) + resumo['Par/Impar'])
                 print("---")
@@ -195,10 +221,10 @@ def main():
                 print(f"Miolo:".ljust(40) + resumo['Miolo'])
                 print(f"Moldura:".ljust(40) + resumo['Moldura'])
                 print("---")
-                print(f"Primos no miolo:".ljust(40) + resumo['Primos no miolo'])
-                print(f"Fibonacci no miolo:".ljust(40) + resumo['Fibonacci no miolo'])
-                print(f"Mágicos no miolo:".ljust(40) + resumo['Mágicos no miolo'])
-                print(f"Múltiplo de 3 no miolo:".ljust(40) + resumo['Múltiplo de 3 no miolo'])
+                print(f"Primos no miolo:".ljust(40) + str(resumo['Qtd. Primos no miolo']))
+                print(f"Fibonacci no miolo:".ljust(40) + str(resumo['Qtd. Fibonacci no miolo']))
+                print(f"Mágicos no miolo:".ljust(40) + str(resumo['Qtd. Mágicos no miolo']))
+                print(f"Múltiplo de 3 no miolo:".ljust(40) + str(resumo['Qtd. Múltiplo de 3 no miolo']))
                 print("---")
                 print(f"Qtd. Acertos:".ljust(40) + str(resumo['Qtd. Acertos']))
                 print(f"Qtd. Repetidos:".ljust(40) + str(resumo['Qtd. Repetidos']))
@@ -208,11 +234,6 @@ def main():
                 print(f"Qtd. Múltiplo de 3:".ljust(40) + str(resumo['Qtd. Múltiplo de 3']))
                 print(f"Qtd. Miolo:".ljust(40) + str(resumo['Qtd. Miolo']))
                 print(f"Qtd. Moldura:".ljust(40) + str(resumo['Qtd. Moldura']))
-                print("---")
-                print(f"Qtd. Primos no miolo:".ljust(40) + str(resumo['Qtd. Primos no miolo']))
-                print(f"Qtd. Fibonacci no miolo:".ljust(40) + str(resumo['Qtd. Fibonacci no miolo']))
-                print(f"Qtd. Mágicos no miolo:".ljust(40) + str(resumo['Qtd. Mágicos no miolo']))
-                print(f"Qtd. Múltiplo de 3 no miolo:".ljust(40) + str(resumo['Qtd. Múltiplo de 3 no miolo']))
                 print("---")
                 print(f"Qtd. Primos nos ausentes:".ljust(40) + str(resumo['Qtd. Primos nos ausentes']))
                 print(f"Qtd. Fibonacci nos ausentes:".ljust(40) + str(resumo['Qtd. Fibonacci nos ausentes']))
