@@ -4,7 +4,9 @@ Sorteados:          02pf 03pfx 04 06mx 07pm 08f 09x 11p 12mx 14m 17p 18x 21fmx 2
 Acertei:            02pf 03pfx 04 06mx 07pm 08f 09x 11p 12mx 14m
 ---
 Repetidos:          02pf 03pfx 06mx 07pm 08f 14m 17p 25
+Rept. dos Repetidos:06mx 07pm 14m 17p
 Ausentes:           01f 05pfm 10 13pfm 15x 16 19pm 20m 22 23p
+Rept. dos Ausentes: 16 20m 23p
 ---
 Primos:             02pf 03pfx 07pm 11p
 Fibonacci:          02pf 03pfx 08f
@@ -32,8 +34,3 @@ Qtd. Primos no miolo:1
 Qtd. Fibonacci no miolo:1
 Qtd. Mágicos no miolo:3
 Qtd. Múltiplo de 3 no miolo:2
-
-
-
--------------------------------------------------
--------------------------------------------------
