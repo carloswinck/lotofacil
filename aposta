@@ -1,0 +1,493 @@
+DICAS:
+No miolo escolha nos ausentes: 1 primo, 0 Fibonacci, 1 magico e 1 múltiplo de 3
+
+Medias no miolo:
+Primos          = 1.65 (2)
+Fibonacci       = 0.81 (1)
+Mágicos         = 2.01 (2)
+Múltiplos de 3  = 1.18 (1)
+PFMX            = 3.62 (4)
+
+pfmx miolo = 07pm 08f 12mx 13pfm 14m 17p 18x 19pm (4 Primos, 2 Fibonacci, 5 Mágicos, 2 Múltiplos de 3)
+
+--------------------------------------------------
+
+01 02 03 04 05
+06 07 08 09 10
+11 12 13 14 15
+16 17 18 19 20
+21 22 23 24 25
+
+01f	    02pf    03pfx 	04 	    05pfm
+06mx 	|07pm 	08f 	09x | 	10
+11p 	|12mx 	13pfm 	14  |	15x
+16 	    |17p 	18x 	19pm| 	20m
+21fmx 	22 	    23p 	24x 	25
+
+
+Números Primos: 		    02 03 05 07 11 13 17 19 23
+Números de Fibonacci: 		01 02 03 05 08 13 21
+Números Mágicos: 		    05 06 07 12 13 14 19 20 21
+Números Múltiplos de 03:  	03 06 09 12 15 18 21 24
+
+
+pfmx = 		    01f 02pf 03pfx 05pfm 06mx 07pm 08f 09x 11p 12mx 14m 15x 17p 18x 19pm 20m 21fmx 23p 24x = 20
+pfmx miolo = 	07pm 08f 12mx 13pfm 14m 17p 18x 19pm (4 Primos, 2 Fibonacci, 5 Mágicos)
+
+
+Moldura do cartão: 	01 02 03 04 05 - 06 10 - 11 15 - 16 20 - 21 22 23 24 25
+Miolo do cartão: 	07 08 09 - 12 13 14 - 17 18 19
+
+
+- Números Sorteados:                            01 04 05 06 07 14 15 16 17 19 20 21 22 23 25
+- Números Repetidos:                            01 06 14 15 19 20 22 25
+- Números Repetidos 2x:                         01 06 14 20 22 25
+- Números Ausentes:                             02 03 08 09 10 11 12 13 18 24
+- Números Repetidos Ausentes:                   02 08 18
+- Números Repetidos dos repetidos Ausentes:     08
+- Números do ciclo de sorteados:                08
+
+
+prox seq de 2 : 02pf 03pfx 08f 09x [12mx] 18x 24x
+prox seq de 3 : 04 05pfm 17p
+prox seq de 4 : 15x 19pm
+prox seq de 5 : 06mx
+prox seq de 6 : 22
+prox seq de 8 : 25
+
+prox seq ausente de 2 : 01f [07pm] 14m 16 20m 21fmx 23p
+prox seq ausente de 3 : 10 11p 13pfm
+prox seq ausente de 4 :
+prox seq ausente de 5 :
+
+
+- Escolhidas Ausentes:
+1) [03pfx] 07pm 12mx 17p [21fmx] 25
+2)
+3)
+
+
+Nas ausentes:
+Moldura:
+Miolo: 07pm
+
+Nas sorteadas:
+Moldura: 03pfx 25
+Miolo: 12mx 17p
+
+- resultado ausentes:
+01 03 05 06 09 13 14 19 21 23
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+RESUMO DO CONCURSO 3321 DA DATA 15/02/2025:
+
+- Escolhidas Ausentes:
+1) [03pfx] 07pm 12mx 17p [21fmx] 25
+2)
+3)
+
+Nas ausentes:
+Moldura:
+Miolo: 07pm
+
+Nas sorteadas:
+Moldura: 03pfx 25
+Miolo: 12mx 17p
+
+- escolhidos PFM dos ausentes:
+Primos: 	 3	-> [03pfx] 07pm 17p
+Fibonacci: 	 2	-> [03pfx] [21fmx]
+Mágico: 	 3	-> 07pm 12mx [21fmx]
+Múltiplo: 	 3	-> [03pfx] 12mx [21fmx]
+
+- resultado ausentes:
+01 03 05 06 09 13 14 19 21 23
+
+Escolhidos:                             1 2 6 8 9 10 11 13 14 15 16 18 20 23 24
+---
+Soma:                                   211
+Par/Impar:                              10/5
+---
+Sorteados:                              02pf*** 04 07pm 08f*** 10*** 11p*** 12mx 15x*** 16*** 17p 18x*** 20m*** 22 24x*** 25
+Acertei:                                02pf 08f 10 11p 15x 16 18x 20m 24x
+---
+Repetidos:                              02pf*** 04 08f*** 12mx 15x*** 17p 18x*** 22 24x*** 25
+Rept. dos Repetidos:                    04 15x*** 17p 22 25
+---
+Primos:                                 4
+Fibonacci:                              2
+Mágicos:                                3
+Múltiplo de 3:                          4
+---
+Miolo:                                  07pm 08f*** 12mx 17p 18x***
+Moldura:                                02pf*** 04 10*** 11p*** 15x*** 16*** 20m*** 22 24x*** 25
+---
+Primos no miolo:                        2
+Fibonacci no miolo:                     1
+Mágicos no miolo:                       2
+Múltiplo de 3 no miolo:                 2
+---
+Qtd. Acertos:                           9
+Qtd. Repetidos:                         10
+Qtd. Primos:                            4
+Qtd. Fibonacci:                         2
+Qtd. Mágicos:                           3
+Qtd. Múltiplo de 3:                     4
+Qtd. Miolo:                             5
+Qtd. Moldura:                           10
+---
+Ausentes:                               01f 03pfx 05pfm 06mx 09x 13pfm 14m 19pm 21fmx 23p
+Rept. dos Ausentes:                     01f 13pfm 14m 21fmx 23p
+---
+Miolo dos ausentes:                     09x 13pfm 14m 19pm
+Moldura dos ausentes:                   01f 03pfx 05pfm 06mx 21fmx 23p
+---
+Qtd. Primos nos ausentes:               5
+Qtd. Fibonacci nos ausentes:            5
+Qtd. Mágicos nos ausentes:              6
+Qtd. Múltiplo de 3 nos ausentes:        4
+Qtd. Miolo nos ausentes:                4
+Qtd. Moldura nos ausentes:              6
+---
+Qtd. Primos no miolo dos ausentes:      2
+Qtd. Fibonacci no miolo dos ausentes:   1
+Qtd. Mágicos no miolo dos ausentes:     3
+Qtd. Múltiplo de 3 no miolo dos ausentes:1
+
+--------------------------------------------------
+
+RESUMO DO CONCURSO 3320 DA DATA 14/02/2025:
+
+- Escolhidas Ausentes:
+1) [07pm] [10] [14m] 17p 24x 25
+2) [01f] 04 [14m] 17p 18x [23p]
+3) [01f] 04 [07pm] 09x [11p] 12xm
+
+Nas ausentes:
+Moldura: [10] 24x
+Miolo:
+
+Nas sorteadas:
+Moldura: 25
+Miolo: [07pm] [14m] 17p
+
+- escolhidos PFM dos ausentes:
+Primos: 	 2	-> [07pm] 17p
+Fibonacci: 	 0	->
+Mágico: 	 2	-> [07pm] [14m]
+Múltiplo: 	 1	-> 24x
+
+- resultado ausentes:
+[07pm] [10] [14m] 17p 24x 25 01f 04 18x 23p
+
+RESUMO DO CONCURSO 3320 DA DATA 14/02/2025:
+
+Escolhidos:                             11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+---
+Soma:                                   189
+Par/Impar:                              8/7
+---
+Sorteados:                              02pf 03pfx 04 05pfm 06mx 08f 09x 12mx*** 15x*** 17p*** 18x*** 19pm*** 22*** 24x*** 25***
+Acertei:                                12mx 15x 17p 18x 19pm 22 24x 25
+---
+Repetidos:                              04 05pfm 06mx 15x*** 17p*** 19pm*** 22*** 25***
+Rept. dos Repetidos:                    06mx 15x*** 19pm*** 22*** 25***
+---
+Primos:                                 5
+Fibonacci:                              4
+Mágicos:                                4
+Múltiplo de 3:                          7
+---
+Miolo:                                  08f 09x 12mx*** 17p*** 18x*** 19pm***
+Moldura:                                02pf 03pfx 04 05pfm 06mx 15x*** 22*** 24x*** 25***
+---
+Primos no miolo:                        2
+Fibonacci no miolo:                     1
+Mágicos no miolo:                       2
+Múltiplo de 3 no miolo:                 3
+---
+Qtd. Acertos:                           8
+Qtd. Repetidos:                         8
+Qtd. Primos:                            5
+Qtd. Fibonacci:                         4
+Qtd. Mágicos:                           4
+Qtd. Múltiplo de 3:                     7
+Qtd. Miolo:                             6
+Qtd. Moldura:                           9
+---
+Ausentes:                               01f 07pm 10 11p 13pfm 14m 16 20m 21fmx 23p
+Rept. dos Ausentes:                     10 11p 13pfm
+---
+Miolo dos ausentes:                     07pm 13pfm 14m
+Moldura dos ausentes:                   01f 10 11p 16 20m 21fmx 23p
+---
+Qtd. Primos nos ausentes:               4
+Qtd. Fibonacci nos ausentes:            3
+Qtd. Mágicos nos ausentes:              5
+Qtd. Múltiplo de 3 nos ausentes:        1
+Qtd. Miolo nos ausentes:                3
+Qtd. Moldura nos ausentes:              7
+---
+Qtd. Primos no miolo dos ausentes:      2
+Qtd. Fibonacci no miolo dos ausentes:   1
+Qtd. Mágicos no miolo dos ausentes:     3
+Qtd. Múltiplo de 3 no miolo dos ausentes:0
+
+--------------------------------------------------
+
+Process finished with exit code 0
+
+
+RESUMO DO CONCURSO 3319 DA DATA 13/02/2025:
+
+ESCOLHAS:
+
+- Escolhidas Ausentes:
+[03pfx] [11p] [12mx] 14 17p 22
+
+Nas ausentes:
+Moldura: [12mx]
+Miolo: 17p
+
+Nas sorteadas:
+Moldura: [03pfx] [11p] 22
+Miolo: 14
+
+- escolhidos PFM dos ausentes:
+Primos: 	 2	-> [03pfx] [11p] 17p
+Fibonacci: 	 1	-> [03pfx]
+Mágico: 	 1	-> [12mx]
+Múltiplo: 	 2	-> [03pfx] [12mx]
+
+- resultado ausentes:
+02 03 08 09 10 11 12 13 18 24
+
+Escolhidos:                             1 2 4 5 6 7 9 10 15 16 18 19 20 21 24
+---
+Soma:                                   215
+Par/Impar:                              6/9
+---
+Sorteados:                              01f*** 04*** 05pfm*** 06mx*** 07pm*** 14m 15x*** 16*** 17p 19pm*** 20m*** 21fmx*** 22 23p 25
+Acertei:                                01f 04 05pfm 06mx 07pm 15x 16 19pm 20m 21fmx
+---
+Repetidos:                              05pfm*** 06mx*** 14m 16*** 20m*** 23p 25
+Rept. dos Repetidos:                    05pfm*** 06mx*** 16*** 20m*** 23p
+Ausentes:                               03pfx 11p 12mx 14m 17p 22 08f 13pfm 23p 25
+Rept. dos Ausentes:                     08f 12mx
+---
+Primos:                                 5
+Fibonacci:                              3
+Mágicos:                                7
+Múltiplo de 3:                          3
+---
+Miolo:                                  07pm*** 14m 17p 19pm***
+Moldura:                                01f*** 04*** 05pfm*** 06mx*** 15x*** 16*** 20m*** 21fmx*** 22 23p 25
+---
+Primos no miolo:                        3
+Fibonacci no miolo:                     0
+Mágicos no miolo:                       3
+Múltiplo de 3 no miolo:                 0
+---
+Qtd. Acertos:                           10
+Qtd. Repetidos:                         7
+Qtd. Primos:                            5
+Qtd. Fibonacci:                         3
+Qtd. Mágicos:                           7
+Qtd. Múltiplo de 3:                     3
+Qtd. Miolo:                             4
+Qtd. Moldura:                           11
+---
+Qtd. Primos nos ausentes:               5
+Qtd. Fibonacci nos ausentes:            3
+Qtd. Mágicos nos ausentes:              3
+Qtd. Múltiplo de 3 nos ausentes:        2
+Qtd. Miolo nos ausentes:                5
+Qtd. Moldura nos ausentes:              5
+
+--------------------------------------------------
+
+RESUMO DO CONCURSO 3318 DA DATA 12/02/2025:
+
+Escolhidos:                             1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+---
+Soma:                                   204
+Par/Impar:                              7/8
+---
+Sorteados:                              01f*** 03pfx*** 06mx*** 09x*** 10*** 11p*** 12mx*** 13pfm*** 14m*** 15x*** 19pm 20m 22 24x 25
+Acertei:                                01f 03pfx 06mx 09x 10 11p 12mx 13pfm 14m 15x
+---
+Repetidos:                              03pfx*** 06mx*** 09x*** 10*** 11p*** 13pfm*** 14m*** 20m 24x 25
+Rept. dos Repetidos:                    06mx*** 09x*** 11p*** 13pfm*** 20m 24x
+Ausentes:                               02pf 04 05pfm 07pm 08f 16 17p 18x 21fmx 23p
+Rept. dos Ausentes:                     04 07pm 08f 17p 21fmx
+---
+Primos:                                 4
+Fibonacci:                              3
+Mágicos:                                6
+Múltiplo de 3:                          6
+---
+Miolo:                                  09x*** 12mx*** 13pfm*** 14m*** 19pm
+Moldura:                                01f*** 03pfx*** 06mx*** 10*** 11p*** 15x*** 20m 22 24x 25
+---
+Primos no miolo:                        2
+Fibonacci no miolo:                     1
+Mágicos no miolo:                       4
+Múltiplo de 3 no miolo:                 2
+---
+Qtd. Acertos:                           10
+Qtd. Repetidos:                         10
+Qtd. Primos:                            4
+Qtd. Fibonacci:                         3
+Qtd. Mágicos:                           6
+Qtd. Múltiplo de 3:                     6
+Qtd. Miolo:                             5
+Qtd. Moldura:                           10
+---
+Qtd. Primos nos ausentes:               5
+Qtd. Fibonacci nos ausentes:            4
+Qtd. Mágicos nos ausentes:              3
+Qtd. Múltiplo de 3 nos ausentes:        2
+Qtd. Miolo nos ausentes:                4
+Qtd. Moldura nos ausentes:              6
+
+--------------------------------------------------
+
+RESUMO DO CONCURSO 3317 DA DATA 11/02/2025:
+
+Escolhidos:                             1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+---
+Soma:                                   177
+Par/Impar:                              8/7
+---
+Sorteados:                              01f*** 02pf*** 03pfx*** 04*** 05pfm*** 06mx*** 11p*** 12mx*** 13pfm*** 14m*** 18x 20m 21fmx 22 25
+Acertei:                                01f 02pf 03pfx 04 05pfm 06mx 11p 12mx 13pfm 14m
+---
+Repetidos:                              01f*** 03pfx*** 06mx*** 11p*** 12mx*** 13pfm*** 14m*** 20m 22 25
+Rept. dos Repetidos:                    03pfx*** 06mx*** 11p*** 13pfm*** 14m*** 20m 25
+Ausentes:                               07pm 08f 09x 10 15x 16 17p 19pm 23p 24x
+Rept. dos Ausentes:                     07pm 08f 16 17p 23p
+---
+Primos:                                 5
+Fibonacci:                              6
+Mágicos:                                7
+Múltiplo de 3:                          5
+---
+Miolo:                                  12mx*** 13pfm*** 14m*** 18x
+Moldura:                                01f*** 02pf*** 03pfx*** 04*** 05pfm*** 06mx*** 11p*** 20m 21fmx 22 25
+---
+Primos no miolo:                        1
+Fibonacci no miolo:                     1
+Mágicos no miolo:                       3
+Múltiplo de 3 no miolo:                 2
+---
+Qtd. Acertos:                           10
+Qtd. Repetidos:                         10
+Qtd. Primos:                            5
+Qtd. Fibonacci:                         6
+Qtd. Mágicos:                           7
+Qtd. Múltiplo de 3:                     5
+Qtd. Miolo:                             4
+Qtd. Moldura:                           11
+---
+Qtd. Primos nos ausentes:               4
+Qtd. Fibonacci nos ausentes:            1
+Qtd. Mágicos nos ausentes:              2
+Qtd. Múltiplo de 3 nos ausentes:        3
+Qtd. Miolo nos ausentes:                5
+Qtd. Moldura nos ausentes:              5
+
+--------------------------------------------------
+
+RESUMO DO CONCURSO 3316 DA DATA 10/02/2025:
+
+Escolhidos:                             1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+---
+Soma:                                   224
+Par/Impar:                              7/8
+---
+Sorteados:                              02pf*** 03pfx*** 07pm*** 10*** 11p*** 14m*** 15x*** 16 17p 18x 20m 21fmx 22 23p 25
+Acertei:                                02pf 03pfx 07pm 10 11p 14m 15x
+---
+Repetidos:                              02pf*** 03pfx*** 11p*** 14m*** 18x 20m 21fmx 22 25
+Rept. dos Repetidos:                    03pfx*** 11p*** 14m*** 20m 22 25
+Ausentes:                               01f 04 05pfm 06mx 08f 09x 12mx 13pfm 19pm 24x
+Rept. dos Ausentes:                     08f 09x 19pm 24x
+---
+Primos:                                 6
+Fibonacci:                              3
+Mágicos:                                4
+Múltiplo de 3:                          4
+---
+Miolo:                                  07pm*** 14m*** 17p 18x
+Moldura:                                02pf*** 03pfx*** 10*** 11p*** 15x*** 16 20m 21fmx 22 23p 25
+---
+Primos no miolo:                        2
+Fibonacci no miolo:                     0
+Mágicos no miolo:                       2
+Múltiplo de 3 no miolo:                 1
+---
+Qtd. Acertos:                           7
+Qtd. Repetidos:                         9
+Qtd. Primos:                            6
+Qtd. Fibonacci:                         3
+Qtd. Mágicos:                           4
+Qtd. Múltiplo de 3:                     4
+Qtd. Miolo:                             4
+Qtd. Moldura:                           11
+---
+Qtd. Primos nos ausentes:               3
+Qtd. Fibonacci nos ausentes:            4
+Qtd. Mágicos nos ausentes:              5
+Qtd. Múltiplo de 3 nos ausentes:        4
+Qtd. Miolo nos ausentes:                5
+Qtd. Moldura nos ausentes:              5
+
+--------------------------------------------------
+
+RESUMO DO CONCURSO 3315 DA DATA 08/02/2025:
+
+Escolhidos:                             1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+---
+Soma:                                   181
+Par/Impar:                              8/7
+---
+Sorteados:                              02pf*** 03pfx*** 04*** 06mx*** 07pm*** 08f*** 09x*** 11p*** 12mx*** 14m*** 17p 18x 21fmx 24x 25
+Acertei:                                02pf 03pfx 04 06mx 07pm 08f 09x 11p 12mx 14m
+---
+Repetidos:                              02pf*** 03pfx*** 07pm*** 11p*** 14m*** 17p 18x 21fmx 25
+Rept. dos Repetidos:                    02pf*** 03pfx*** 11p*** 14m*** 18x 21fmx 25
+Ausentes:                               01f 05pfm 10 13pfm 15x 16 19pm 20m 22 23p
+Rept. dos Ausentes:                     01f 05pfm 13pfm 19pm
+---
+Primos:                                 5
+Fibonacci:                              4
+Mágicos:                                5
+Múltiplo de 3:                          7
+---
+Miolo:                                  07pm*** 08f*** 09x*** 12mx*** 14m*** 17p 18x
+Moldura:                                02pf*** 03pfx*** 04*** 06mx*** 11p*** 21fmx 24x 25
+---
+Primos no miolo:                        2
+Fibonacci no miolo:                     1
+Mágicos no miolo:                       3
+Múltiplo de 3 no miolo:                 3
+---
+Qtd. Acertos:                           10
+Qtd. Repetidos:                         9
+Qtd. Primos:                            5
+Qtd. Fibonacci:                         4
+Qtd. Mágicos:                           5
+Qtd. Múltiplo de 3:                     7
+Qtd. Miolo:                             7
+Qtd. Moldura:                           8
+---
+Qtd. Primos nos ausentes:               4
+Qtd. Fibonacci nos ausentes:            3
+Qtd. Mágicos nos ausentes:              4
+Qtd. Múltiplo de 3 nos ausentes:        1
+Qtd. Miolo nos ausentes:                2
+Qtd. Moldura nos ausentes:              8
+
+--------------------------------------------------

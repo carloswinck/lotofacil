@@ -1,43 +1,46 @@
-RESUMO DO CONCURSO 3315 DA DATA 08/02/2025:
+RESUMO DO CONCURSO 3316 DA DATA 10/02/2025:
 
-Escolhidos:                             4 6 7 8 10 11 12 13 15 18 19 20 21 22 23 25
+Escolhidos:                             11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
 ---
-Soma:                                   181
-Par/Impar:                              8/7
+Soma:                                   224
+Par/Impar:                              7/8
 ---
-Sorteados:                              02pf 03pfx 04*** 06mx*** 07pm*** 08f*** 09x 11p*** 12mx*** 14m 17p 18x*** 21fmx*** 24x 25***
-Acertei:                                04 06mx 07pm 08f 11p 12mx 18x 21fmx 25
+Sorteados:                              02pf 03pfx 07pm 10 11p*** 14m*** 15x*** 16*** 17p*** 18x*** 20m*** 21fmx*** 22*** 23p*** 25***
+Acertei:                                11p 14m 15x 16 17p 18x 20m 21fmx 22 23p 25
 ---
-Repetidos:                              02pf 03pfx 06mx*** 07pm*** 08f*** 14m 17p 25***
-Rept. dos Repetidos:                    06mx*** 07pm*** 14m 17p
-Ausentes:                               09x 03pfx 05pfm 14m 16 17p 24x 01f 02pf 03pfx
-Rept. dos Ausentes:                     16 20m 23p
+Repetidos:                              02pf 03pfx 07pm 11p*** 14m*** 17p*** 18x*** 21fmx*** 25***
+Rept. dos Repetidos:                    02pf 03pfx 07pm 14m*** 17p*** 25***
+Ausentes:                               01f 02pf 03pfx 04 05pfm 06mx 07pm 08f 09x 10
+Rept. dos Ausentes:                     01f 05pfm 13pfm 19pm
 ---
-Primos:                                 07pm*** 11p***
-Fibonacci:                              08f*** 21fmx***
-Mágicos:                                06mx*** 07pm*** 12mx*** 21fmx***
-Múltiplo de 3:                          06mx*** 12mx*** 18x*** 21fmx***
+Primos:                                 11p*** 17p*** 23p***
+Fibonacci:                              21fmx***
+Mágicos:                                14m*** 20m*** 21fmx***
+Múltiplo de 3:                          15x*** 18x*** 21fmx***
 ---
-Miolo:                                  07pm*** 08f*** 12mx*** 18x***
-Moldura:                                04*** 06mx*** 11p*** 21fmx*** 25***
+Miolo:                                  14m*** 17p*** 18x***
+Moldura:                                11p*** 15x*** 16*** 20m*** 21fmx*** 22*** 23p*** 25***
 ---
 Primos no miolo:                        1
-Fibonacci no miolo:                     1
-Mágicos no miolo:                       2
-Múltiplo de 3 no miolo:                 2
+Fibonacci no miolo:                     0
+Mágicos no miolo:                       1
+Múltiplo de 3 no miolo:                 1
 ---
-Qtd. Acertos:                           9
-Qtd. Repetidos:                         8
-Qtd. Primos:                            2
-Qtd. Fibonacci:                         2
-Qtd. Mágicos:                           4
-Qtd. Múltiplo de 3:                     4
-Qtd. Miolo:                             4
-Qtd. Moldura:                           5
+Qtd. Acertos:                           11
+Qtd. Repetidos:                         9
+Qtd. Primos:                            3
+Qtd. Fibonacci:                         1
+Qtd. Mágicos:                           3
+Qtd. Múltiplo de 3:                     3
+Qtd. Miolo:                             3
+Qtd. Moldura:                           8
 ---
-Qtd. Primos nos ausentes:               5
+Qtd. Primos nos ausentes:               4
 Qtd. Fibonacci nos ausentes:            5
-Qtd. Mágicos nos ausentes:              2
-Qtd. Múltiplo de 3 nos ausentes:        4
+Qtd. Mágicos nos ausentes:              3
+Qtd. Múltiplo de 3 nos ausentes:        3
 Qtd. Miolo nos ausentes:                3
 Qtd. Moldura nos ausentes:              7
+
+--------------------------------------------------
+--------------------------------------------------
