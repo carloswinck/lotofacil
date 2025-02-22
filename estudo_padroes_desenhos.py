@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import random
 from collections import Counter
 
 def carregar_arquivo():
@@ -48,7 +49,56 @@ def calcular_intervalos(concursos):
         intervalos.append(abs(concursos[i + 1] - concursos[i]))
     return intervalos
 
+def calcular_estatisticas(intervalos):
+    if intervalos:
+        minimo = min(intervalos)
+        media = np.mean(intervalos)
+        maximo = max(intervalos)
+    else:
+        minimo = media = maximo = 0
+    return minimo, media, maximo
+
+def is_prime(n):
+    if n <= 1:
+        return False
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+
+def is_fibonacci(n):
+    x1 = 5 * n * n + 4
+    x2 = 5 * n * n - 4
+    return int(x1**0.5)**2 == x1 or int(x2**0.5)**2 == x2
+
+def is_even(n):
+    return n % 2 == 0
+
+def is_odd(n):
+    return n % 2 != 0
+
+def is_multiple_of_3(n):
+    return n % 3 == 0
+
+def is_magico(n):
+    return n in {5, 6, 7, 12, 13, 14, 19, 20, 21}
+
 def main():
+
+    moldura = {1, 2, 3, 4, 5, 6, 10, 11, 15, 16, 20, 21, 22, 23, 24, 25}
+    miolo = {7, 8, 9, 12, 13, 14, 17, 18, 19}
+
+    # Define the blacklist of patterns
+    blacklist = {
+        "21 22 23 24 25",
+        "16 17 18 19 20",
+        "11 12 13 14 15",
+        "06 07 08 09 10"
+    }
+
+    # Initialize counters for each line
+    total_padroes_por_linha = [0] * 5
+
     df = carregar_arquivo()
     if df is not None:
         try:
@@ -83,19 +133,96 @@ def main():
                     padrao, vezes_str, intervalos_str, primeiro_encontrado, media_intervalos))
             print('-' * 50)
 
-        # Print all games in the range in card format
-        print("Todos os jogos no intervalo no formato de cartão:")
-        for index, row in df.iterrows():
-            concurso = list(map(int, row.iloc[2:]))
-            matriz = criar_matriz_concurso(concurso)
-            print(f"Concurso {row.iloc[0]}:")
-            for i, linha in enumerate(matriz):
-                padrao = " ".join(linha)
-                quantidade = padroes_por_linha[i][padrao]
-                intervalos = calcular_intervalos(concursos_padroes[i][padrao])
-                intervalos_str = " ".join(map(str, intervalos))
-                print(f"{padrao} = {quantidade:02} Vezes -> Freq: {intervalos_str}")
-            print('-' * 50)
+        # New section: Medias das linhas
+        print("\nMedias das linhas:")
+        for i in range(5):
+            ocorrencias = [f"{padrao}={quantidade}v" for padrao, quantidade in sorted(padroes_por_linha[i].items(), key=lambda item: item[1])]
+            print(f"Debug: Ocorrencias for linha {i + 1}: {ocorrencias}")  # Debug print
+            minimo = min(padroes_por_linha[i].values()) if padroes_por_linha[i] else 0
+            maximo = max(padroes_por_linha[i].values()) if padroes_por_linha[i] else 0
+            print(f"linha {i + 1} = Minimo: {minimo} Vezes, Maximo: {maximo} Vezes")
+
+        # New section: Generate 15 cards with specific criteria
+        cartoes = []
+        historico_jogos = [set(map(int, row.iloc[2:])) for index, row in df.iterrows()][::-1]
+        penultimo_concurso = historico_jogos[-1]
+        ausentes_penultimo_concurso = set(range(1, 26)) - penultimo_concurso
+
+        for _ in range(15):
+            while True:
+                total_numeros = 0
+                cartao = []
+                numeros_escolhidos = set()
+                for i in range(5):
+                    padroes_validos = []
+                    for padrao, quantidade in padroes_por_linha[i].items():
+                        if 20 < quantidade < 90:
+                            concursos = concursos_padroes[i][padrao]
+                            atraso = concurso_fim - concursos[0]
+                            if atraso not in range(1, 3) and atraso not in range(30, 40):
+                                padroes_validos.append(padrao)
+                    if not padroes_validos:
+                        break
+                    padrao_escolhido = random.choice(padroes_validos)
+                    if padrao_escolhido in blacklist:
+                        continue
+                    for idx, num in enumerate(padrao_escolhido.split()):
+                        if num == 'XX':
+                            numero = (i * 5) + idx + 1
+                            if numero not in numeros_escolhidos:
+                                numeros_escolhidos.add(numero)
+                                total_numeros += 1
+                    cartao.append(padrao_escolhido)
+
+                soma_numeros = sum(numeros_escolhidos)
+                primos = sum(1 for num in numeros_escolhidos if is_prime(num))
+                fibonacci = sum(1 for num in numeros_escolhidos if is_fibonacci(num))
+                magicos = sum(1 for num in numeros_escolhidos if is_magico(num))
+                pares = sum(1 for num in numeros_escolhidos if is_even(num))
+                impares = sum(1 for num in numeros_escolhidos if is_odd(num))
+                multiplos_de_3 = sum(1 for num in numeros_escolhidos if is_multiple_of_3(num))
+                repetidos = len(numeros_escolhidos & penultimo_concurso)
+                repetidos_ausentes = len(numeros_escolhidos & ausentes_penultimo_concurso)
+                if (
+                        total_numeros == 15 and
+                        10 <= repetidos <= 10 and
+                        3 <= repetidos_ausentes <= 5 and
+                        170 <= soma_numeros <= 190 and
+                        primos in [4, 5] and
+                        fibonacci in [2, 3] and
+                        multiplos_de_3 in [4, 5] and
+                        magicos in [4, 5] and
+                        pares >= 9 and
+                        len(numeros_escolhidos & miolo) >= 5 and
+                        numeros_escolhidos not in historico_jogos
+                ):
+                    for i, linha in enumerate(cartao):
+                        total_padroes_por_linha[i] += 1
+                    print(f" ")
+                    print(f"Padroes escolhidos: {cartao}")
+                    print(f"Repetidos = {repetidos}")
+                    print(f"Repetidos do Ausentes = {repetidos_ausentes}")
+                    print(f"Soma = {soma_numeros}")
+                    print(f"Primos = {primos}")
+                    print(f"Fibonacci = {fibonacci}")
+                    print(f"Multiplos  = {multiplos_de_3}")
+                    print(f"Magicos = {magicos}")
+                    print(f"Pares = {pares}, Impares = {impares}")
+                    print(f"Miolo = {len(numeros_escolhidos & miolo)}, Moldura = {len(numeros_escolhidos & moldura)}")
+                    print(f" ")
+                    print(f"---------------------------------------------")
+                    break
+            cartoes.append(cartao)
+
+        # Print the list of chosen numbers for each card
+        print("\nLista dos 15 cartões:")
+        for cartao in cartoes:
+            numeros = []
+            for i, linha in enumerate(cartao):
+                for j, num in enumerate(linha.split()):
+                    if num == 'XX':
+                        numeros.append((i * 5) + j + 1)
+            print(", ".join(map(str, sorted(numeros))))
 
 if __name__ == '__main__':
     main()

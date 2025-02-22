@@ -1,0 +1,10 @@
+Depois de imprimir tudo isso, crie um cartao que analise certos dados:
+
+Escolha um padrao da linha 1 que tenha a Freq > 5 r as vezes que ele apareceu seja na media do tamanho
+do range que o usuario escolheu.
+
+Depois vai par aos outras linhas, analisando que qunado tover as 5 linhas , o snumeros escolhidos(XX)
+nao podem passar de 15.
+
+
+
