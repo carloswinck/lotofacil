@@ -2,6 +2,15 @@ import csv
 from itertools import combinations
 from collections import Counter
 
+# Definir os números da moldura e do miolo
+moldura = {1, 2, 3, 4, 5, 6, 10, 11, 15, 16, 20, 21, 22, 23, 24, 25}
+miolo = {7, 8, 9, 12, 13, 14, 17, 18, 19}
+
+# Inicializar contadores
+total_moldura = 0
+total_miolo = 0
+num_jogos = 0
+
 # Lê os dados do arquivo CSV
 with open('jogos_invertidos.csv', 'r') as file:
     reader = csv.reader(file)
@@ -44,35 +53,23 @@ def is_fibonacci(n):
 def is_multiple_of_3(n):
     return n % 3 == 0
 
+with open('jogos_invertidos.csv', 'r') as file:
+    reader = csv.reader(file)
+    for row in reader:
+        numeros = set(map(int, row[2:]))
+        total_moldura += len(numeros & moldura)
+        total_miolo += len(numeros & miolo)
+        num_jogos += 1
 
-# Listas de números primos, de Fibonacci e múltiplos de 3
-primes = [n for n in range(1, 26) if is_prime(n)]
-fibonacci = [n for n in range(1, 26) if is_fibonacci(n)]
-multiples_of_3 = [n for n in range(1, 26) if is_multiple_of_3(n)]
+    # Calcular as médias
+    if num_jogos != 0:
+        media_moldura = total_moldura / num_jogos
+    else:
+        media_moldura = 0  # or handle the case as needed
+    if num_jogos != 0:
+        media_miolo = total_miolo / num_jogos
+    else:
+        media_miolo = 0  # or handle the case as needed
 
-# Contadores para as combinações
-prime_counter = Counter()
-fibonacci_counter = Counter()
-multiple_of_3_counter = Counter()
-
-# Iterar sobre todas as combinações de 7 números em cada jogo
-for row in data:
-    for comb in combinations(row, 10):
-        prime_count = sum(1 for num in comb if num in primes)
-        fibonacci_count = sum(1 for num in comb if num in fibonacci)
-        multiple_of_3_count = sum(1 for num in comb if num in multiples_of_3)
-
-        prime_counter[comb] = prime_count
-        fibonacci_counter[comb] = fibonacci_count
-        multiple_of_3_counter[comb] = multiple_of_3_count
-
-# Encontrar a maior combinação para cada critério
-max_prime_comb = max(prime_counter, key=prime_counter.get)
-max_fibonacci_comb = max(fibonacci_counter, key=fibonacci_counter.get)
-max_multiple_of_3_comb = max(multiple_of_3_counter, key=multiple_of_3_counter.get)
-
-print(f"Maior combinação de primos: {max_prime_comb} com {prime_counter[max_prime_comb]} primos")
-print(
-    f"Maior combinação de Fibonacci: {max_fibonacci_comb} com {fibonacci_counter[max_fibonacci_comb]} números de Fibonacci")
-print(
-    f"Maior combinação de múltiplos de 3: {max_multiple_of_3_comb} com {multiple_of_3_counter[max_multiple_of_3_comb]} múltiplos de 3")
+    print(f'Média de números na moldura: {media_moldura:.2f}')
+    print(f'Média de números no miolo: {media_miolo:.2f}')
