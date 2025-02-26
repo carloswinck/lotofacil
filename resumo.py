@@ -143,7 +143,7 @@ def calcular_resumo(ultimo_concurso, numeros_escolhidos, penultimo_concurso, ant
 
 # Função principal
 def main():
-    file_path = 'jogos.csv'
+    file_path = 'jogos_copy.csv'
     linhas = ler_csv(file_path)
 
     # Ordenar os concursos pelo número do concurso em ordem decrescente

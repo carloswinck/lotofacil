@@ -1,0 +1,28 @@
+        for _ in range(15):
+            while True:
+                total_numeros = 0
+                cartao = []
+                numeros_escolhidos = set()
+                for i in range(5):
+                    padroes_validos = []
+                    for padrao, quantidade in padroes_por_linha[i].items():
+                        concursos = concursos_padroes[i][padrao]
+                        intervalos = calcular_intervalos(concursos)
+                        media_intervalos = np.mean(intervalos) if intervalos else 0
+                        if not(1 <= quantidade <= 40) and media_intervalos <= 60:
+                            atraso = concurso_fim - concursos[-1]
+                            if (atraso not in range(1, 3)):
+                                padroes_validos.append(padrao)
+                    if not padroes_validos:
+                        break
+                    padrao_escolhido = random.choice(padroes_validos)
+                    if padrao_escolhido in blacklist:
+                        continue
+                    for idx, num in enumerate(padrao_escolhido.split()):
+                        if num == 'XX':
+                            numero = (i * 5) + idx + 1
+                            if numero not in numeros_escolhidos:
+                                numeros_escolhidos.add(numero)
+                                total_numeros += 1
+
+                    cartao.append(padrao_escolhido)
