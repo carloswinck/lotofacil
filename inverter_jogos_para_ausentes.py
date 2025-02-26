@@ -25,7 +25,7 @@ def inverter_jogos_ausentes(input_file):
         print(row)
 
 # Specify the input file name
-input_file = 'jogos.csv'
+input_file = 'jogos_copy.csv'
 
 # Call the function to invert the games and print the absent numbers
 inverter_jogos_ausentes(input_file)
