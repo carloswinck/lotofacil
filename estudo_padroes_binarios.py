@@ -43,7 +43,7 @@ def imprimir_binarios(binarios, concursos):
         print(f"Concurso {concurso}: {binario_str}")
 
 def main():
-    arquivo = 'jogos.csv'
+    arquivo = 'jogos_copy.csv'
     dados = ler_dados_arquivo(arquivo)
 
     # Ask for the interval of contests to analyze

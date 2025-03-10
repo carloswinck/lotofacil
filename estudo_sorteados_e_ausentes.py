@@ -255,7 +255,7 @@ def apresentar_numeros(numeros_fixos, numeros_ausentes):
 
 async def main():
     try:
-        arquivo = 'jogos.csv'
+        arquivo = 'jogos_copy.csv'
         dados = ler_dados_arquivo(arquivo)
         inicio, fim = obter_intervalo_concursos()
         qtd_fixos, qtd_ausentes = obter_quantidades()

@@ -32,8 +32,13 @@ def calcular_acertos(numeros_sorteados, numeros_escolhidos):
 def analisar_combinacao(linha, acertos_desejados, combinacoes_ausentes):
     try:
         resultados = []
-        numeros_sorteados = set(map(int, linha[2:]))
-        numero_concurso = linha[0]
+        # Validate and convert the values to integers
+        try:
+            numeros_sorteados = set(map(int, linha[2:]))
+            numero_concurso = int(linha[0])
+        except ValueError as e:
+            logging.error(f"Erro de valor ao converter linha: {linha} - {e}")
+            return []
 
         for qtd_ausentes in combinacoes_ausentes:
             for combinacao in combinations(range(1, 26), qtd_ausentes):

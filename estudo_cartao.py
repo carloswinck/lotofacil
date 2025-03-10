@@ -60,20 +60,36 @@ def gerar_relatorio(cartao, concursos, concurso_fim):
             print(f"{padrao:<5} = {len(concursos):02} Vezes -> Freq: {' '.join(map(str, intervalos)):<200} Atraso: {atraso:<5} Média: {media_intervalos:.2f}")
     print('-' * 50)
 
+
 def main():
     df = pd.read_csv('jogos.csv')
-    concurso_inicio = int(input("Digite o número do concurso inicial: ").strip())
-    concurso_fim = int(input("Digite o número do concurso final: ").strip())
+
+    try:
+        concurso_inicio = int(input("Digite o número do concurso inicial (2000): ").strip() or 2000)
+    except ValueError:
+        concurso_inicio = 2000
+
+    try:
+        concurso_fim = int(
+            input("Digite o número do concurso final (último concurso): ").strip() or df['jogo'].max())
+    except ValueError:
+        concurso_fim = df['jogo'].max()
+
     df = df[(df['jogo'] >= concurso_inicio) & (df['jogo'] <= concurso_fim)]
     concursos = df.iloc[:, 2:].values.tolist()
+    numeros_escolhidos = list(map(int, input("Digite 15 números separados por vírgula: ").strip().split(',')))
 
-    for concurso in range(concurso_inicio, concurso_fim + 1):
-        numeros_escolhidos = df[df['jogo'] == concurso].iloc[0, 2:].tolist()
-        cartao = criar_cartao_com_numeros(numeros_escolhidos)
-        print(f"\nAnalisando concurso {concurso}:\n")
-        for linha in cartao:
-            print(" ".join(linha))
-        gerar_relatorio(cartao, concursos, concurso)
+    if len(numeros_escolhidos) != 15:
+        print("Erro: Você deve fornecer exatamente 15 números.")
+        return
+
+    print("")
+    cartao = criar_cartao_com_numeros(numeros_escolhidos)
+    for linha in cartao:
+        print(" ".join(linha))
+
+    gerar_relatorio(cartao, concursos, concurso_fim)
+
 
 if __name__ == '__main__':
     main()

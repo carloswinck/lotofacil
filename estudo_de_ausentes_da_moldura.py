@@ -8,20 +8,15 @@ from sklearn.cluster import KMeans
 from statsmodels.tsa.arima.model import ARIMA
 import numpy as np
 
-# Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+moldura = {1, 2, 3, 4, 5, 6, 10, 11, 15, 16, 20, 21, 22, 23, 24, 25}
 
 def ler_dados_arquivo(arquivo):
     try:
         with open(arquivo, newline='', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile)
-            dados = []
-            for row in reader:
-                try:
-                    int(row[0])  # Try to convert the first column to an integer
-                    dados.append(row)
-                except ValueError:
-                    continue  # Skip rows where the first column is not an integer
+            dados = [row for row in reader if row[0].isdigit()]
         logging.info(f"Arquivo '{arquivo}' lido com sucesso.")
         return dados
     except FileNotFoundError:
@@ -32,24 +27,19 @@ def ler_dados_arquivo(arquivo):
         sys.exit(1)
 
 def calcular_primos(numeros):
-    primos = {2, 3, 5, 7, 11, 13, 17, 19, 23}
-    return len(primos & numeros)
+    return len({2, 3, 5, 7, 11, 13, 17, 19, 23} & numeros)
 
 def calcular_fibonacci(numeros):
-    fibonacci = {1, 2, 3, 5, 8, 13, 21}
-    return len(fibonacci & numeros)
+    return len({1, 2, 3, 5, 8, 13, 21} & numeros)
 
 def calcular_magicos(numeros):
-    magicos = {5, 6, 7, 12, 13, 14, 19, 20, 21}
-    return len(magicos & numeros)
+    return len({5, 6, 7, 12, 13, 14, 19, 20, 21} & numeros)
 
 def calcular_multiplos_de_3(numeros):
-    multiplos_de_3 = {3, 6, 9, 12, 15, 18, 21, 24}
-    return len(multiplos_de_3 & numeros)
+    return len({3, 6, 9, 12, 15, 18, 21, 24} & numeros)
 
 def calcular_pfmx(numeros):
-    pfmx = {1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24}
-    return len(pfmx & numeros)
+    return len({1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24} & numeros)
 
 def rotular_ausentes(ausentes):
     labels = []
@@ -57,7 +47,6 @@ def rotular_ausentes(ausentes):
     fibonacci = {1, 2, 3, 5, 8, 13, 21}
     magicos = {5, 6, 7, 12, 13, 14, 19, 20, 21}
     multiplos_de_3 = {3, 6, 9, 12, 15, 18, 21, 24}
-    pfmx = {1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24}
 
     for num in ausentes:
         label = f"{num}"
@@ -75,11 +64,10 @@ def rotular_ausentes(ausentes):
 
 def calcular_medias(dados):
     total_primos = total_fibonacci = total_magicos = total_multiplos_de_3 = total_pfmx = 0
-    miolo = {7, 8, 9, 12, 13, 14, 17, 18, 19}
 
     for linha in dados:
-        numeros = set(map(int, linha[2:])) & miolo
-        ausentes = miolo - numeros
+        numeros = set(map(int, linha[2:])) & moldura
+        ausentes = moldura - numeros
         total_primos += calcular_primos(ausentes)
         total_fibonacci += calcular_fibonacci(ausentes)
         total_magicos += calcular_magicos(ausentes)
@@ -87,22 +75,20 @@ def calcular_medias(dados):
         total_pfmx += calcular_pfmx(ausentes)
 
     n = len(dados)
-    medias = {
+    return {
         'primos': total_primos / n,
         'fibonacci': total_fibonacci / n,
         'magicos': total_magicos / n,
         'multiplos_de_3': total_multiplos_de_3 / n,
         'pfmx': total_pfmx / n
     }
-    return medias
 
 def identificar_numeros_quentes_frios(dados):
-    miolo = {7, 8, 9, 12, 13, 14, 17, 18, 19}
     frequencia = Counter()
 
     for linha in dados:
-        numeros = set(map(int, linha[2:])) & miolo
-        ausentes = miolo - numeros
+        numeros = set(map(int, linha[2:])) & moldura
+        ausentes = moldura - numeros
         frequencia.update(ausentes)
 
     quentes = [num for num, freq in frequencia.items() if freq > len(dados) / 2]
@@ -110,16 +96,15 @@ def identificar_numeros_quentes_frios(dados):
     return quentes, frios
 
 def calcular_padroes_sequencia(dados):
-    miolo = {7, 8, 9, 12, 13, 14, 17, 18, 19}
-    padroes = {num: 0 for num in miolo}
-    ultimo_concurso = {num: None for num in miolo}
+    padroes = {num: 0 for num in moldura}
+    ultimo_concurso = {num: None for num in moldura}
 
     for linha in reversed(dados):
         concurso = int(linha[0])
-        numeros = set(map(int, linha[2:])) & miolo
-        ausentes = miolo - numeros
+        numeros = set(map(int, linha[2:])) & moldura
+        ausentes = moldura - numeros
 
-        for num in miolo:
+        for num in moldura:
             if num in ausentes:
                 if ultimo_concurso[num] is None:
                     ultimo_concurso[num] = concurso
@@ -131,16 +116,15 @@ def calcular_padroes_sequencia(dados):
     return padroes
 
 def calcular_atraso_por_coluna(dados):
-    miolo = {7, 8, 9, 12, 13, 14, 17, 18, 19}
-    atraso = {num: 0 for num in miolo}
-    ultimo_concurso = {num: None for num in miolo}
+    atraso = {num: 0 for num in moldura}
+    ultimo_concurso = {num: None for num in moldura}
 
     for linha in dados:
         concurso = int(linha[0])
-        numeros = set(map(int, linha[2:])) & miolo
-        ausentes = miolo - numeros
+        numeros = set(map(int, linha[2:])) & moldura
+        ausentes = moldura - numeros
 
-        for num in miolo:
+        for num in moldura:
             if num in ausentes:
                 if ultimo_concurso[num] is not None:
                     atraso[num] = max(atraso[num], concurso - ultimo_concurso[num])
@@ -152,14 +136,13 @@ def exibir_tabela(dados):
     print(f"{'Concurso':<10}\t{'Primos':<10}\t{'Fibonacci':<10}\t{'Mágicos':<10}\t{'Múltiplos de 3':<15}\t{'PFMX':<10}\t{'Números Ausentes':<20}")
     print("-" * 125)
     total_primos = total_fibonacci = total_magicos = total_multiplos_de_3 = total_pfmx = 0
-    miolo = {7, 8, 9, 12, 13, 14, 17, 18, 19}
     combinacoes = []
     combinacao_ocorrencias = defaultdict(list)
 
     for linha in dados:
         concurso = int(linha[0])
-        numeros = set(map(int, linha[2:])) & miolo
-        ausentes = miolo - numeros
+        numeros = set(map(int, linha[2:])) & moldura
+        ausentes = moldura - numeros
         primos = calcular_primos(ausentes)
         fibonacci = calcular_fibonacci(ausentes)
         magicos = calcular_magicos(ausentes)
@@ -180,7 +163,6 @@ def exibir_tabela(dados):
     print("-" * 125)
     print(f"{'Médias':<10}\t{total_primos/n:<10.2f}\t{total_fibonacci/n:<10.2f}\t{total_magicos/n:<10.2f}\t{total_multiplos_de_3/n:<15.2f}\t{total_pfmx/n:<10.2f}")
 
-    # Display combinations and their frequencies
     combinacao_freq = Counter(combinacoes)
     sorted_combinacoes = combinacao_freq.most_common()
 
@@ -192,12 +174,10 @@ def exibir_tabela(dados):
 
 def calcular_frequencia(dados):
     numeros = [int(num) for linha in dados for num in linha[2:]]
-    frequencia = Counter(numeros)
-    return frequencia
+    return Counter(numeros)
 
 def regressao_logistica(dados):
-    X = []
-    y = []
+    X, y = [], []
     for linha in dados:
         numeros = list(map(int, linha[2:]))
         for num in range(1, 26):
@@ -216,23 +196,17 @@ def clustering(dados):
 def analise_series_temporais(dados):
     numeros = [int(num) for linha in dados for num in linha[2:]]
     model = ARIMA(numeros, order=(5, 1, 0))
-    model_fit = model.fit()
-    return model_fit
+    return model.fit()
 
 def simulacao_monte_carlo(dados, n_simulacoes=1000):
     numeros = [int(num) for linha in dados for num in linha[2:]]
-    resultados = []
-    for _ in range(n_simulacoes):
-        simulacao = np.random.choice(numeros, size=15, replace=True)
-        resultados.append(simulacao)
-    return resultados
+    return [np.random.choice(numeros, size=15, replace=True) for _ in range(n_simulacoes)]
 
 def main():
     try:
         arquivo = 'jogos_copy.csv'
         dados = ler_dados_arquivo(arquivo)
 
-        # Definir o intervalo de concursos para análise
         while True:
             try:
                 inicio = int(input("Digite o número do concurso inicial: "))
@@ -251,12 +225,9 @@ def main():
             logging.warning("Erro: O número do concurso inicial deve ser menor ou igual ao número do concurso final.")
             sys.exit(1)
 
-        # Filtrar os dados para o intervalo especificado
         dados_intervalo = [linha for linha in dados if inicio <= int(linha[0]) <= fim]
 
-        print("\n")
-        print("TABELA PFMX DOS AUSENTES")
-
+        print("\nTABELA PFMX DOS AUSENTES")
         exibir_tabela(dados_intervalo)
 
     except Exception as e:
