@@ -1,0 +1,42 @@
+Entendi. Vou criar um setup padrão para análise de números da Lotofácil, sempre utilizando os 100 concursos anteriores. Aqui estão os passos que você pode seguir para aplicar essa análise a qualquer sorteio futuro:
+
+*** Não precisa imprimir os números 100 números novamente!
+
+### Setup de Análise de Números da Lotofácil
+
+**Números Primos**
+- Identificar os números primos entre 01 e 25: 02, 03, 05, 07, 11, 13, 17, 19, 23.
+- Escolher no mínimo 3 números primos que não foram sorteados nos últimos 49 concursos.
+
+**Números de Fibonacci**
+- Identificar os números de Fibonacci entre 01 e 25: 01, 02, 03, 05, 08, 13, 21.
+- Escolher no mínimo 2 números de Fibonacci que não foram sorteados nos últimos 49 concursos.
+
+**Números Mágicos**
+- Números mágicos sugeridos: 05, 06, 07, 12, 13, 14, 19, 20, 21.
+- Escolher no mínimo 2 números mágicos que não foram sorteados nos últimos 49 concursos.
+
+### Passos de Seleção
+1. **Escolher no mínimo 3 e no máximo 5 números que não foram sorteados no miolo (07, 08, 09, 12, 13, 14, 17, 18, 19).**
+2. **Escolher no mínimo 3 e no máximo 5 números que não foram sorteados na moldura (01, 02, 03, 04, 05, 06, 10, 11, 15, 16, 20, 21, 22, 23, 24, 25).**
+
+### Consideração Final
+- **Números Primos:** Escolher no mínimo 3 números primos ausentes.
+- **Números de Fibonacci:** Escolher no mínimo 2 números de Fibonacci ausentes.
+- **Números Mágicos:** Escolher no mínimo 2 números mágicos ausentes.
+
+### Números Sugeridos para Não Serem Sorteados
+- Basear a escolha nos números que foram mais ausentes nos últimos 100 concursos.
+
+### Como Usar o Setup
+
+1. **Recolher Dados dos Últimos 100 Concursos**
+   - Analisar os números sorteados nos últimos 100 concursos.
+
+2. **Aplicar a Lógica**
+   - Seguir os passos de seleção para identificar números ausentes no miolo e na moldura.
+   - Considerar os números primos, Fibonacci e mágicos ausentes.
+
+3. **Gerar a Lista de Números Sugeridos**
+   - Basear-se na lógica de análise para sugerir números que provavelmente não serão sorteados.
+

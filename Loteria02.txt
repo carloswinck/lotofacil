@@ -1,0 +1,659 @@
+01 02 03 04 05
+06 07 08 09 10
+11 12 13 14 15
+16 17 18 19 20
+21 22 23 24 25
+
+Preciso de 7 números ausentes na cartela da Loto fácil de acordo com tudo isso e depois coloco os concursos anteriores para estudo!!!!!!
+
+3 no miolo(07 08 12 13 14 17 19) da cartela e 3 na moldura.
+
+PMF = Primos, Fibonacci, Mágicos
+PMF = 01f 02pf 03pf 05pfm 06m 07pm 08f 11p 12m 13pfm 14m 17p 19pm 20m 21fm 23p = 16
+PMF MIOLO = 07pm 08f 12m 13pfm 14m 17p 19pm (4 Primos, 2 Fibonacci, 5 Mágicos)
+
+Moldura do cartão: 	01 02 03 04 05 - 06 10 - 11 15 - 16 20 - 21 22 23 24 25
+Miolo do cartão: 	07 08 09 - 12 13 14 - 17 18 19
+
+ESTUDO DE TODOS OS NUMERO AUSENTES:
+
+Moldura do cartão: 	01 02 03 04 05 - 06 10 - 11 15 - 16 20 - 21 22 23 24 25
+Miolo do cartão: 	07 08 09 - 12 13 14 - 17 18 19
+1) Vamos escolher 7 números ausentes!
+3) Escolha nas linhas horizontais, na segunda, na terceira e na quarta coluna, 4 no miolo e mais 1 na moldura (apenas números ausentes)
+4) Escolha 1 ausente na 1 linha e 1 ausente na 5 linha
+5) Escolha no mínimo 2 primos e 2 Fibonacci nesses 7 números ausentes que vai escolher, sendo no máximo no miolo apenas 1 Fibonacci
+6) Escolha no mínimo 2 números mágicos ausentes 
+
+Utilizar os seguintes filtros: 
+
++Números de Fibonacci
++Números Primos
++Princípio de Pareto
+
+Números Primos:
+02 03 05 07 11 13 17 19 23 	- Caem 5 em média
+Números de Fibonacci:
+01 02 03 05 08 13 21 		- Caem 4 em média
+Números Mágicos:
+05 06 07 12 13 14 19 20 21 	- Caem no mínimo 5
+Números Múltiplos de 03: 
+03 06 09 12 15 18 21 24		- Caem 5 em média
+
+Repetidas do Concurso Anterior 	- mínimo 2 ausentes
+
+ESTUDO DO MIOLO:
+Números Primos:
+07 13 17 19  		- mínimo 2 ausentes, máximo 3 ausentes (MIOLO)
+Números de Fibonacci:
+08 13 			- mínimo 0 ausentes, máximo 2 ausentes (MIOLO) 		
+Números Mágicos:
+07 12 13 14 19 		- mínimo 2 ausentes, máximo 3 ausentes (MIOLO) 	
+Números Múltiplos de 03: 
+09 12 18 		- mínimo 1 ausentes, máximo 2 ausentes (MIOLO)  
+	
+Repetidos nos ausentes: mínimo 2, máximo 4 (MIOLO) 
+Repetidos dos repetidos nos ausentes: mínimo 1, máximo 2 (MIOLO) 
+Mínimo dos PFM (Primos, Fibonacci, Mágicos): 6
+
+
+- ausentes do concurso anterior: (escolher 2)
+
+
+- faltam cair (no ciclo de números sorteados)  
+
+ 
+prox seq de 2 : 02pf 03pf 08f 10 15 22 25				(vieram dos ausentes - 7)        
+prox seq de 3 : 07pm 14m 19pm
+prox seq de 4 : 01f 13pfm
+prox seq de 5 : 17p
+prox seq de 6 : 06m
+prox seq de 7 : 05pfm
+                                                                                                                                                                                      
+prox seq ausente de 2 : 04 [09] 11p 16 18+ 20m [24]			(não se repetiram dos sorteados - 7) (escolha 1 ou 2)
+prox seq ausente de 3 : 21fm						(repetiram do ausentes) (escolha 0 ou 1)
+prox seq ausente de 4 : 12m+
+prox seq ausente de 6 : 23p
+
+  
+- Escolhidas Ausentes:
+09 03pf [05pfm] 14m [16] 17p 24
+
+Nas ausentes:
+Moldura: [05pfm] 24
+Miolo: 
+
+Nas sorteadas:
+Moldura: 03pf
+Miolo: [09] 14m 17p
+
+- escolhidos PFM dos ausentes: 
+Primos: 	 3	-> 03pfx [05pfm] 17p 
+Fibonacci: 	 2	-> 03pfx [05pfm]
+Mágico: 	 3	-> 03pfx [05pfm] 14m
+Múltiplo: 	 3	-> 03pfx 09x 24x
+
+- resultado ausentes:
+01 05 10 13 15 16 19 20 22 23
+
+IA:
+Learn Fast: 	
+My Math Solver: 	
+Copilot: 	
+Loto Pro Web: 
+
+
+                
+-------------------------
+-------------------------
+                              
+JOGO 3315
+
+RESULTADOS:
+
+Números Sorteados: 		02pf 03pf 04 06m 07pm 08f 09 11p 12m 14m 17p 18 21fm 24 25					
+Números Repetidos: 		02pf 03pf 06m 07pm 08f 14m 17p 25
+Números Repetidos 2x: 		06m 07pm 14m 17p		
+Números Ausentes: 		01f 05pfm 10 13pfm 15 16 19pm 20m 22 23p 				
+Números Repetidos Ausentes: 	16 20m 23p
+Números Repetidos dos repetidos Ausentes(repete mais de 2 concursos): 23p		
+	        
+Soma: 181    	  
+Par/Impar: 8/7
+   
+Miolo: 7
+Miolo Ausentes: 2
+
+Ausentes:
+Miolo :	 	13pfm 19pm  	 	 	
+Moldura :	01f 05pfm 10 15 16 20m	22 23p  	
+
+Quantidade Repetidos Ausentes: 3
+Quantidade PFM dos Ausentes: 6
+Números PFM dos Ausentes:  01f 05pfm 13pfm 19pm 20m 23p
+	
+Atrasos: 6 22 1111111 000000000000000
+Atrasos Miolo:  
+
+PFM dos Ausentes:
+Primos: 	 2	-> 05pfm 13pfm 19pm 23p  
+Fibonacci: 	 1	-> 01f 05pfm 13pfm
+Mágico: 	 3	-> 05pfm 13pfm 19pm 20m
+Múltiplo: 	 5	-> 15x
+                            
+ESCOLHIDOS:
+
+ seq de 2 : 02pf 03pf 08f 10 15 22 25				(vieram dos ausentes - 7)        
+ seq de 3 : 07pm 14m 19pm
+ seq de 4 : 01f 13pfm
+ seq de 5 : 17p
+ seq de 6 : 06m
+ seq de 7 : 05pfm
+                                                                                                                                                                                      
+ seq ausente de 2 : 04 [09] 11p 16 18+ 20m [24]			(não se repetiram dos sorteados - 7) (escolha 1 ou 2)
+ seq ausente de 3 : 21fm					(repetiram do ausentes) (escolha 0 ou 1)
+ seq ausente de 4 : 12m+
+ seq ausente de 6 : 23p
+
+  
+- Escolhidas Ausentes:
+09 03pf [05pfm] 14m [16] 17p 24
+
+Nas ausentes:
+Moldura: [05pfm] 24
+Miolo: 
+
+Nas sorteadas:
+Moldura: 03pf
+Miolo: [09] 14m 17p
+
+- escolhidos PFM dos ausentes: 
+Primos: 	 3	-> 03pfx [05pfm] 17p 
+Fibonacci: 	 2	-> 03pfx [05pfm]
+Mágico: 	 3	-> 03pfx [05pfm] 14m
+Múltiplo: 	 3	-> 03pfx 09x 24x
+
+- resultado ausentes:
+01 05 10 13 15 16 19 20 22 23
+
+IA:
+Learn Fast: 	
+My Math Solver: 	
+Copilot: 	
+Loto Pro Web: 
+
+RESUMO:
+Ausentes 	= 
+Acertei 	= 
+Primos 		= 
+Fibonacci 	= 
+Mágicos		= 
+Múltiplo de 3	= 
+Miolo		= 
+Moldura		= 		
+           
+-------------------------
+-------------------------
+                              
+JOGO 3314
+
+RESULTADOS:
+
+Números Sorteados: 		01f 02pf 03pf 05pfm 06m 07pm 08f 10 13pfm 114m4 15 17p 19pm 22 25			
+Números Repetidos: 		01f 05pfm 06m 07pm 13pfm 14m 17p 19pm				
+Números Repetidos 2x: 		05pfm 06m 17p		
+Números Ausentes:  		04 09 11p 12m 16 18 20m 21fm 23p 24		
+Números Repetidos Ausentes: 	12m 21fm 23p
+Números Repetidos dos repetidos Ausentes(repete mais de 2 concursos): 12m 23p 		
+	        
+Soma: 167   	  
+Par/Impar: 6/9
+   
+Miolo: 6
+Miolo Ausentes: 3
+
+Ausentes:
+Miolo :	 	09 12m 18 	 	
+Moldura :	04 11p 16 20m 21fm 23p 24	
+
+Quantidade Repetidos Ausentes: 3
+Quantidade PFM dos Ausentes: 5
+Números PFM dos Ausentes:  11p 12m 20m 21fm 23p
+	
+Atrasos: 5 3 2 1111111 000000000000000
+Atrasos Miolo:  
+
+PFM dos Ausentes:
+Primos: 	 2	-> 11p 23p   
+Fibonacci: 	 1	-> 21fm
+Mágico: 	 3	-> 12mx 20m 21fmx
+Múltiplo: 	 5	-> 09x 12mx 18x 21fmx 24x
+                                        
+ESCOLHIDOS:
+
+ seq de 2 : 01f 04 05pfm 06m 07pm 09 11p 13pfm 14m 16 17p 18 19pm 20m 24	(vieram dos ausentes - 7)        
+ seq de 3 : 
+ seq de 4 : 
+ seq de 5 : 
+ seq de 6 : 
+ seq de 7 : 
+                                                                                                                                                                                      
+ seq ausente de 2 :  02pf 03pf 08f 10 12m 15 21fm 22 23p 25			(não se repetiram dos sorteados - 7) (escolha 1 ou 2)
+ seq ausente de 3 : 								(repetiram do ausentes) (escolha 0 ou 1)
+ seq ausente de 4 : 
+ seq ausente de 5 : 
+
+  
+- Escolhidas Ausentes:
+03pf 08f [12m] 14m 15 [18] [23p]
+
+Nas ausentes:
+Moldura: 03pf 15
+Miolo: 08f [12m] 
+
+Nas sorteadas:
+Moldura: [23p]
+Miolo: 14m [18]
+
+- escolhidos PFM dos ausentes: 
+Primos: 	 2	-> 03pfx [23px]
+Fibonacci: 	 2	-> 03pfx 08f
+Mágico: 	 2	-> [12mx] 14m
+Múltiplo: 	 ?	-> 03pfx [12mx] 15x [23px] [18x]
+
+- resultado ausentes:
+04 09 11 12 16 18 20 21 23 24
+
+RESUMO:
+Ausentes 	= 04 09x 11p 12mx 16 18x 20m 21fmx 23px 24x
+Acertei 	= [12mx] [18x] [23px]
+Primos 		= 
+Fibonacci 	= 
+Mágicos		= 
+Múltiplo de 3	= 
+Miolo		= 3
+Moldura		= 6
+
+IA:
+Learn Fast: 	
+My Math Solver: 	
+Copilot: 	
+Loto Pro Web: 		
+           
+-------------------------
+-------------------------
+               
+JOGO 3313
+
+RESULTADOS:
+
+Números Sorteados: 		01f 04 05pfm 06m 07pm 09 11p 13pfm 14m 16 17p 18 19pm 20m 24		
+Números Repetidos: 		01f 04 05pfm 06m 09 13pfm 16 17p 20m		
+Números Repetidos 2x: 		01 04 05 06 09 13 16 17 20
+Números Ausentes:  		02pf 03pf 08f 10 12m 15 21fm 22 23p 25	
+Números Repetidos Ausentes: 	10 12m 22 23p
+Números Repetidos dos repetidos Ausentes(repete mais de 2 concursos): 23 		
+	        
+Soma: 184  	  
+Par/Impar: 7/8
+    
+Miolo: 2
+Miolo Ausentes: 7
+
+Ausentes:
+Miolo :		08f 12m 22 23p 	
+Moldura : 	02pf 03pf 10 15 21fm 25
+
+Quantidade Repetidos Ausentes: 
+Quantidade PFM dos Ausentes: 6
+Números PFM dos Ausentes: 02pf 03pf 08f 12m 21fm 23p	 
+	
+Atrasos: 4 222 111111 000000000000000
+Atrasos Miolo:  
+
+PFM dos Ausentes:
+Primos: 	 3	-> 02pf 03pf 23p   
+Fibonacci: 	 4	-> 02pf 03pf 08f 21fm
+Mágico: 	 2	-> 12m 21fm
+Múltiplo: 	 ?	-> ?
+
+ESCOLHIDOS:
+
+ seq de 2 : 01f 08f?*** [13pfm] 15*** [16] 21fm*** 25***		(vieram dos ausentes - 7)        
+ seq de 3 : 03pf*** [09] 17p
+ seq de 4 : 04 06m 20m
+ seq de 5 : [02pf]*** 05pfm
+ seq de 6 : 
+ seq de 7 : 
+                                                                                                                                                                                      
+ seq ausente de 2 : 10*** 11p 12m*** 14m [19pm] [22]*** 24 		(não se repetiram dos sorteados - 7) (escolha 1 ou 2)
+ seq ausente de 3 : 07pm+ 18						(repetiram do ausentes) (escolha 0 ou 1)
+ seq ausente de 4 : 23p***
+ seq ausente de 5 : 
+  
+- Escolhidas Ausentes:
+[02pf] 09 13pfm 19pm 20m [22] 
+
+Nas ausentes:
+Moldura: [22]
+Miolo: 19pm  
+
+Nas sorteadas:
+Moldura: [02pf] 20m
+Miolo: 09 13pfm
+
+- escolhidos PFM dos ausentes: 
+Primos: 	 3	-> [02pf] 13pfm 19pm
+Fibonacci: 	 2	-> 02pf 13pfm
+Mágico: 	 3	-> 13pfm 19pm 20m
+Múltiplo: 	 ?	-> 
+
+RESUMO:
+Ausentes 	= 
+Acertei 	= 
+Primos 		= 
+Fibonacci 	= 
+Mágicos		= 
+Múltiplo de 3	= 
+Miolo		= 
+Moldura		= 
+
+- resultado ausentes:
+02 03 08 10 12 15 21 22 23 25
+
+IA:
+Learn Fast: 	
+My Math Solver: 	
+Copilot: 	
+Loto Pro Web: 		
+
+-------------------------
+-------------------------
+               
+JOGO 3312
+
+RESULTADOS:
+
+Números Sorteados: 		01f 02pf 03pf 04 05pfm 06m 08f 09 13pfm 15 16 17p 20m 21fm 25
+Números Repetidos: 		02 03 04 05 06 09 17 20
+Números Repetidos 2x: 		02 04 05 06 20
+Números Ausentes:  		07pm 10 11p 12m 14m 18 19pm 22 23p 24
+Números Repetidos Ausentes: 	07pm 18 23p
+Números Repetidos dos repetidos Ausentes: 23p		
+	        
+Soma: 165 	  
+Par/Impar: 6/9
+    
+Miolo: 4
+Miolo Ausentes: 5
+
+Ausentes:
+Miolo :	07pm 12m 14m 18 19pm 	
+Moldura : 10 11p 22 23p 24
+
+Quantidade Repetidos Ausentes: 3
+Quantidade PFM dos Ausentes: 6
+Números PFM dos Ausentes:  07pm 11p 12m 14m 19pm 23p  
+	
+Atrasos: 3 22 1111111 000000000000000
+Atrasos Miolo: 22 111 0000  
+
+PFM dos Ausentes:
+Primos: 	 4	-> 07pm 11p 19pm 23p 
+Fibonacci: 	 0	-> 
+Mágico: 	 1	-> 07pm 12m 14m 19pm
+Múltiplo: 	 ?	-> ?
+
+ESCOLHIDOS:
+
+ seq de 2 : 03pf+ [09] [11p]*** 14m+*** 17p+ [22]***          
+ seq de 3 : 04? 06m+ [12m]*** 20m+ [24]***
+ seq de 4 : 02pf? [05pfm] [19pm]***
+ seq de 5 : 
+ seq de 6 : 
+ seq de 7 : [10]***
+                                                                                                                                                                                      
+ seq ausente de 2 : 01f 07pm+*** 13pfm+ [16] 18*** 21fm 
+ seq ausente de 3 : 15+ [23p]*** 25
+ seq ausente de 4 : [08f]
+ seq ausente de 5 : 
+  
+- Escolhidas Ausentes:
+08f [11p] [12m] 16 [19pm] [23p]
+
+Nas ausentes:
+Moldura: 16 [23p]
+Miolo: 08f 
+
+Nas sorteadas:
+Moldura: [11p]
+Miolo: [12m] [19pm]
+
+- escolhidos PFM dos ausentes: 
+Primos: 	 3	-> 23p 11p 19pm
+Fibonacci: 	 2	-> 08f
+Mágico: 	 4	-> 12m 19pm
+Múltiplo: 	 ?	-> 
+
+RESUMO:
+Ausentes 	= 07pm 10 11p 12m 14m 18 19pm 22 23p 24
+Acertei 	= 4
+Primos 		= 4
+Fibonacci 	= 0
+Mágicos		= 4
+Múltiplo de 3	= 
+Miolo		= 5
+Moldura		= 4
+
+IA:
+Learn Fast: 	
+My Math Solver: 	
+Copilot: 	
+Loto Pro Web: 		
+
+-------------------------
+-------------------------
+JOGO 3311
+
+RESULTADOS:
+
+Números Sorteados: 		02pf 03pf 04 05pfm 06m 09 10 11p 12m 14m 17p 19pm 20m 22 24
+Números Repetidos: 		02 04 05 06 10 12 19 20 24
+Números Repetidos 2x: 		02 05 10 19  
+Números Ausentes:  		01f 07pm 08f 13pfm 15 16 18 21fm 23p 25
+Números Repetidos Ausentes: 	08 15 23 25
+Números Repetidos dos repetidos Ausentes: 08		
+	        
+Soma: 178	  
+Par/Impar: 9/6
+    
+Miolo: 5
+Miolo Ausentes: 4
+
+Miolo :	07pm 08f 13pfm 18 	
+Moldura : 01f 15 16 21fm 23p 25 
+
+Quantidade Repetidos Ausentes: 4
+Quantidade PFM dos Ausentes: 6
+Números PFM dos Ausentes: 01f 07pm 08f 13pfm 21fm 23p   
+	
+Atrasos: 3 222 111111 000000000000000
+
+PFM dos Ausentes:
+Primos: 	 4	-> 07pm 13pfm 23p
+Fibonacci: 	 2	-> 01f 08f 13pfm 21fm
+Mágico: 	 1	-> 07pm 13pfm 21fm
+Múltiplo: 	 ?	-> ?
+
+ESCOLHIDOS:
+
+ seq ausente de 2 : 03pf 09x 11p [14m] 15*** 22 23p*** 25***
+ seq ausente de 3 : 08f+***
+ seq ausente de 4 : 
+ seq ausente de 5 : 17p+
+      
+- Escolhidas Ausentes:
+05pfm, [07pm], 11p, 14m, [18], [21fm]
+
+Nas ausentes:
+Moldura: 11p
+Miolo: [07pm]*** 14m  
+
+Nas sorteadas:
+Moldura: 05pfm [21fm]***
+Miolo: [18]*** 
+
+- escolhidos PFM dos ausentes: 
+Primos: 	 3	-> 05pfm 07pm 11p
+Fibonacci: 	 2	-> 05pfm 21fm
+Mágico: 	 4	-> 05pfm 07pm 14m 21fm
+Múltiplo: 	 ?	-> 
+
+- resultado ausentes:
+01 07 08 13 15 16 18 21 23 25
+
+RESUMO:
+Ausentes 	= 01f 07pm 08f 13pfm 15 16 18 21fm 23p 25
+Acertei 	= 3
+Primos 		= 3
+Fibonacci 	= 2
+Mágicos		= 4
+Múltiplo de 3	= 15 18 21
+Miolo		= 07pm 08f 13pfm 18
+Moldura		= 01f 15 16 21fm 23p 25
+
+
+
+IA:
+Learn Fast: [01], 11, 09, 17, [18], [25]	
+My Math Solver: 02, 05, 06, [08], 09, 12	
+Copilot: 09, 12, [15], [16], 17, 22	
+Loto Pro Web: 09 14 17 04 [15] 22		
+
+                             
+-------------------------
+-------------------------
+JOGO 3310
+
+RESULTADOS:
+
+Números Sorteados: 01f 02pf 04 05pfm 06m 07pm 10 12m 13pfm 16 18 19pm 20m 21fm 24
+Números Ausentes:  03pf 08f 09 [11p] 14m 15 17p 22 23p 25
+Números Repetidos Ausentes: 08 17
+Números Repetidos dos repetidos Ausentes: 17		
+	        
+Soma: 178  
+Par/Impar: 9/6
+    
+Miolo: 5
+Miolo Ausentes: 4
+
+Miolo :		08f 09 14m 17p	
+Moldura :	03pf 11p 15 22 23p 25 
+
+Quantidade Repetidos Ausentes: 2
+Quantidade PFM dos Ausentes: 6
+Números PFM dos Ausentes: 03pf 08f 11p 14m 17p 23p   
+	
+Atrasos: 4 2 11111111 000000000000000
+
+PFM dos Ausentes:
+Primos: 	 4	-> 03pf 11p 17p 23p
+Fibonacci: 	 2	-> 03pf 08f
+Mágico: 	 1	-> 14m
+Múltiplo: 	 ?	-> ?
+
+ESCOLHIDOS:
+
+[01]*** 04*** 06*** [07]*** 08- [12]*** 16*** 17- 20*** 24***
+  
+ausente de 1 : 01f*** 06m*** 07pm*** 08f- 12m*** 16*** 24***
+ausente de 2 : 
+ausente de 3 : 04*** 17p-
+ausente de 4 : 20m***
+ausente de 6 : 
+  
+Nas ausentes:
+Moldura: 01f*** 
+Miolo: 07pm*** 12m***
+
+Nas sorteadas:
+Moldura: 21fm*** [11p]-
+Miolo: 18***
+
+RESUMO:
+Ausentes 	= 03pf 08f 09 11p 14m 15 17p 22 23p 25
+Acertei 	= 1
+Primos 		= 4
+Fibonacci 	= 2
+Mágicos		= 1
+Múltiplo de 3	= 3   
+Miolo		= 4 (08f, 09, 14m, 17p) 		= 1f, 1p, 1m
+Moldura		= 6 (03pf, 15, 25, 23p, 22, 11p) 	= 3p, 1f
+
+IA:
+Learn Fast: 		07, 13, [14], 01, 04, 16
+My Math Solver: 	04 06 07 [17] 20 24
+Copilot: 		[09] [17] 18 01 [11] [25]
+Loto Pro Web: 		07, 18, [22], 19, 12, 21
+
+
+
+
+
+
+
+
+
+
+
+
+
+  	      
+-------------------------
+-------------------------
+JOGO 3309
+Números Sorteados: 02pf 03pf 05pfm 09 10 11p 13pfm 14m 15 18 19pm 21fm 22 23p 25
+Números Ausentes:  01f 04 06m 07pm 08f 12m 16 17p 20m 24
+Números Repetidos Ausentes: 04 17p 20m
+Números Repetidos dos repetidos Ausentes: 04 17p 20m		
+	        
+Soma: 115 
+Par/Impar: 7/3
+    
+Miolo: 5
+Miolo Ausentes: 4
+
+Quantidade Repetidos Ausentes: 3
+Quantidade PFM dos Ausentes: 7
+Números PFM dos Ausentes: 01f 06m 07pm 08f 12m 17p 20m    
+	
+Atrasos: 4 33 1111111 000000000000000
+
+PFM dos Ausentes:
+Primos: 	 2	-> 07pm 17p 
+Fibonacci: 	 2	-> 01f 08f
+Mágico: 	 4	-> 06m 07pm 12m 20m
+Múltiplo: 	 ?	-> ?
+
+SEQUENCIA QUE NAO CAIU:
+       
+ seq ausente de 1 : 01f 06m 07pm 08f 12m 16 24
+ seq ausente de 2 : 
+ seq ausente de 3 : 04 17p
+ seq ausente de 4 : 20m
+ seq ausente de 6 : 
+
+miolo : 	07pm 08f 12m 17p
+moldura : 	01f 04 06m 16 20m 24
+     
+- escolhidas ausentes:
+?
+
+- resultado ausentes:
+01 04 06 07 08 12 16 17 20 24
+         
+-------------------------
+-------------------------
+
+

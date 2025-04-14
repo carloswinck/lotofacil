@@ -1,0 +1,3434 @@
+01 02 03 04 05
+06 07 08 09 10
+11 12 13 14 15
+16 17 18 19 20
+21 22 23 24 25
+
+?? 02 03 04 05
+06 07 08 09 10
+11 12 13 14 15
+16 17 18 19 20
+21 22 23 24 ??
+
+Dezenas por Linha
+Dezenas por Coluna
+Números de Fibonacci
+Números Primos
+Sequência grande de Números
+Sequência grande de Saltos
+Soma dos Números
+Princípio de Pareto
+Repetidas do Concurso Anterior
+Pares e Ímpares
+
+
+Números Primos:
+02 03 05 07 11 13 17 19 23 	- Caem 5 em média
+
+Números de Fibonacci:
+01 02 03 05 08 13 21 		- Caem 4 em média
+
+Números Mágicos:
+05 06 07 12 13 14 19 20 21 	- Caem no mínimo 5
+
+Números Múltiplos de 03: 
+03 06 09 12 15 18 21 24		- Caem 5 em média
+
+
+Soma das Dezenas:
+De 196 a 220 na melhor média
+
+Mínimo de repetidos: 9
+Mínimo de repetidos dos repetidos : 5
+Mínimo dos pfm: 9
+Mínimo de sequência de 2: 3
+
+Ciclos dos Números: 4 ou 5 Concursos
+
+Dicas:
+1) Dos que nao caem, acho que 5 que NÃO caem em média
+2) Escolher 6 pares e 7 impares
+3) ESCOLHER 4 OU 5 QUE NAO CAIRAM E 8 REPETIDOS
+
+Médias de Números Repetidos:
+9	35x	35%
+10	31x	31%
+
+
+NOVA DICA:
+1) JOGUE INVERSO, ESCOLHA OS QUE NAO CAEM. ESCOLHA 3 NA MOLDURA e 4 NO MIOLO
+
+pfm: 01f 02pf 03pf 05pfm 06m 07pm 08f 11p 12m 13pfm 14m 17p 19pm 20m 21fm 23p = 16
+
+
+JOGO INVERSO:
+MOLDURA: 01 02 03 04 05 - 21 22 23 24 25 - 06 10 - 11 15 - 16 20 (escolha 3)
+MIOLO: 07 08 09 - 12 13 14 - 17 18 19 (escolha 4)
+
+
+LIVRO DE LOTOFACIL, DICAS:
+Números Pares e Impares: 7 ou 8
+Números Primos: 5
+Números Fibonacci: 4
+Números Múltiplos de 3: 5 (3, 6, 9, 12, 15, 18, 21, 24)
+Números Moldura: 10 ou 9
+Números Miolo: 5 ou 6
+Números Repetidos: 8 ou 9
+Ciclo Principal: maior 11 concursos, medio 4.7 concursos
+Ciclo Pares: maior 12 concursos, medio 3.9 concursos
+Ciclo Impares: maior 11 concursos, medio 3.9 concursos
+Ciclo Primos: maior 11 concursos, medio 3.6 concursos
+Ciclo Fibonacci: maior 10 concursos, medio 3.4 concursos
+Ciclo Múltiplos de 3: maior 10 concursos, medio 3.5 concursos
+Ciclo Moldura: maior 11 concursos, medio 4.2 concursos
+Ciclo Miolo: maior 12 concursos, medio 3.6 concursos
+
+NOVAS DICAS:
+
+1) Escolha 4 que não vão cair no miolo
+2) Escolha 3 que não vão cair na moldura
+3) Escolha 7 no total q não vão cair
+4) Escolha 3 que não caíram
+4) Escolha 4 que caíram
+
+
+- sorteadas: (escolher 9)
+01f 02pf [03pf] 05pfm 06m [08f] [09] 10 11p [12m] 13pfm 15 19pm 24 25
+
+- repetidos: (escolher 5)	
+[03] 05 [08] 10 11 15 19 24 25
+
+- ausentes: (escolher 5)
+04 07pm [14m] 16 17p [18] 20m 21fm 22 [23p]
+
+- faltam cair (sempre cai mais da metade) (ciclo)  
+17 -> UM OU DOIS DESSES NAO CAI 
+                                                                                                                                                                                         
+prox seq de 2 : 04 07pm+ [16] [18] 20m+ 21fm 22 23p         
+prox seq de 3 : 02pf 06m 13pfm+
+prox seq de 4 : 
+prox seq de 5 : 05pfm [08f]
+prox seq de 6 : 
+prox seq de 7 : 03pf
+prox seq de 8 : [24]
+prox seq de 10 : 
+          
+prox seq ausente de 2 : 01f 09? 10? 11p [12m] 15 [19pm] 25
+prox seq ausente de 3 : 14m+
+prox seq ausente de 4 : 
+prox seq ausente de 5 : 17p
+
+- escolhidas:
+
+      
+- escolhidas ausentes:
+01f 12m :: [08f] [16] [18] 19pm [24]
+
+- escolhidos PFM:
+primos: 	 4	-> 
+fibonacci: 	 2	-> 
+magico: 	 4	-> 
+multiplo: 	 4	-> 
+
+- escolhidos PFM dos ausentes: 
+primos: 	 4	-> 
+fibonacci: 	 3	->
+magico: 	 4	-> 
+multiplo: 	 4	-> 
+
+- resultado ausentes:
+
+
+- resultado:
+
+                 
+-------------------------
+JOGO 3303
+Números Sorteados: 02pf 03pf 04 05pfm 06m 07pm 08f 13pfm 16 18 20m 21fm 22 23p 24
+Números Repetidos: 02 03 05 06 08 13 24
+Números Ausentes:  01f 09 10 11p 12m 14m 15 17p 19pm 25
+Números Repetidos Ausentes: 14 17
+Repetidos: 7		        
+Soma: 192
+Par/Impar: 9/6    
+Miolo: 4
+Miolo Ausentes: 5
+Quantidade Repetidos Ausentes: 2
+Quantidade PFM dos Ausentes: 6
+Números PFM dos Ausentes: 01f 11p 12m 14m 17p 19pm     
+	
+Atrasos: 
+
+PFM dos Ausentes:
+primos: 	 3	-> 11p 17p 19pm 
+fibonacci: 	 1	-> 01f
+magico: 	 3	-> 12m 14m 19pm
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 01f*** 02pf 06m [09]*** [12m]*** 13pfm         
+ seq de 3 : 10*** 19pm***
+ seq de 4 : 05pfm [08f] 11p***
+ seq de 5 : 25***
+ seq de 6 : [03pf]
+ seq de 7 : 24
+ seq de 8 : 15***
+ seq de 10 : 
+          
+ seq ausente de 2 : 04 07pm [14m]*** [18] 20m 22 
+ seq ausente de 3 : 16 21fm
+ seq ausente de 4 : 17p***
+ seq ausente de 6 : [23p]
+
+- escolhidas:
+02pf 04 05pfm 06m 07pm 10 11p 13pfm 16 17p 20m 21fm 22 24 19pm 24
+      
+- escolhidas ausentes:
+[14m] 18 23p :: 03pf 8f [09] [12m]
+
+- resultado ausentes:
+01 09 10 11 12 14 15 17 19 25
+
+- resultado:
+02 03 04 05 06 07 08 13 16 18 20 21 22 23 24
+               
+-------------------------
+-------------------------
+JOGO 3302
+Números Sorteados: 01f 02pf 03pf 05pfm 06m 08f 09 10 11p 12m 13pfm 15 19pm 24 25
+Números Repetidos: 03 05 08 10 11 15 19 24 25
+Números Ausentes:  04 07pm 14m 16 17p 18 20m 21fm 22 23p
+Números Repetidos Ausentes: 16 17 21 21
+Repetidos: 9         
+Soma: 163
+Par/Impar: 6/9   
+Miolo: 5
+Miolo Ausentes: 4
+Quantidade Repetidos Ausentes: 4
+Quantidade PFM dos Ausentes: 07pm 14m 17p 20m 21fm 23p 
+Números PFM dos Ausentes: 07pm 14m 17p 20m 21fm 23p     
+	
+Atrasos: 5 3 22 111111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 3	-> 07pm 17p 23p
+fibonacci: 	 1	-> 21fm
+magico: 	 4	-> 07pm 14m 20m 21fm
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 07pm+*** 10 19pm 20m***      
+ seq de 3 : 04*** 05pfm [08f] 11p 18***
+ seq de 4 : [14m]*** 25
+ seq de 5 : [03pf]
+ seq de 6 : 24
+ seq de 7 : 15
+ seq de 9 : 
+ seq de 10 : [22]***
+          
+ seq ausente de 2 : 02pf [12m] 16*** 21fm*** 
+ seq ausente de 3 : 01f [06m] 09 13pfm [17p]***
+ seq ausente de 4 : 
+ seq ausente de 5 : 23p***
+
+- escolhidas:
+      
+- escolhidas ausentes:
+06m 12m [17p] :: 03pf 08f [14m] [22]
+
+- resultado ausentes:
+04 07 14 16 17 18 20 21 22 23
+
+- resultado:
+01 02 03 05 06 08 09 10 11 12 13 15 19 24 25
+               
+-------------------------
+-------------------------
+-------------------------
+JOGO 3301
+Números Sorteados: 03pf 04 05pfm 07pm 08f 10 11p 14m 15 18 19pm 20m 22 24 25
+Números Repetidos: 03 04 05 08 11 14 15 18 22 24 25
+Números Ausentes:  01f 02pf 06m 09 12m 13pfm 16 17p 21fm 23p
+Números Repetidos Ausentes: 01 06 09 13 17 23
+Repetidos: 11       
+Soma: 205
+Par/Impar: 8/7   
+Miolo: 5
+Miolo Ausentes: 4
+Quantidade Repetidos Ausentes: 6
+Quantidade PFM dos Ausentes: 8
+Números PFM dos Ausentes:  01f 02pf 06m 12m 13pfm 17p 21fm 23p    
+	
+Atrasos: 4 22222 1111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 4	-> 02pf 13pfm 17p 23p
+fibonacci: 	 3	-> 01f 13pfm 21fm
+magico: 	 4	-> 06m 12m 13pfm 21fm
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 04+ [05pfm] 08f+ 11p 12m+*** 16*** [18] 21fm***   
+ seq de 3 : 02pf*** 14m+ 25
+ seq de 4 : 03pf
+ seq de 5 : [24]
+ seq de 6 : 15
+ seq de 7 : 
+ seq de 9 : [22]
+ seq de 10 : 
+          
+ seq ausente de 2 : 01f*** 06m*** [07pm] 09+*** 10 [13pfm]*** [17p]*** 20m 
+ seq ausente de 3 : 19pm
+ seq ausente de 4 : 23p***
+ seq ausente de 5 : 
+
+- escolhidas:
+           
+- escolhidas ausentes:
+07pm [13pfm] [17p] :: 05pfm 18 22 24
+
+- escolhidos PFM dos ausentes: 
+primos: 	 4	-> 07pm 13pfm 17p 05pfm  
+fibonacci: 	 2	-> 13pfm 05pfm
+magico: 	 3	-> 07pm 13pfm 05pfm
+
+- resultado ausentes:
+01 02 06 09 12 13 16 17 21 23
+
+- resultado:
+03 04 05 07 08 10 11 14 15 18 19 20 22 24 25
+               
+-------------------------
+-------------------------
+-------------------------
+JOGO 3300
+Números Sorteados: 02pf 03pf 04 05pfm 08f 11p 12m 14m 15 16 18 21fm 22 24 25
+Números Repetidos: 02 03 14 15 22 24 25
+Números Ausentes:  01f 06m 07pm 09 10 13pfm 17p 19pm 20m 23p
+Números Repetidos Ausentes: 
+Repetidos: 7      
+Soma: 200
+Par/Impar:  9/6   
+Miolo: 
+Miolo Ausentes: 
+Quantidade Repetidos Ausentes: 
+Quantidade PFM dos Ausentes: 8
+Números PFM dos Ausentes:  01f 06m 07pm 13pfm 17p 19pm 20m 23p    
+	
+Atrasos: 
+
+PFM dos Ausentes:
+primos: 	 4	-> 
+fibonacci: 	 4	-> 
+magico: 	 4	-> 
+
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 01f?? [03pf] 04+*** 11p+*** 18+*** 19pm+***     -> escolha 2
+ seq de 3 : [07pm] 24+			    		-> escolha 1
+ seq de 4 : 06m+ [15]
+ seq de 5 : [21fm]***
+ seq de 6 : [17p]
+ seq de 7 : 20m+ 22+
+ seq de 9 : 10?
+          
+ seq ausente de 2 : [05pfm]*** [09] 12m+*** 13pfm?? 23p+*** 25??
+ seq ausente de 3 : 02pf+ 08f+***
+ seq ausente de 4 : 16+***
+ seq ausente de 8 : [14m]
+               
+-------------------------
+
+JOGO 3299
+Números Sorteados: 01f 02pf 03pf 06m 07pm 09 10 13pfm 14m 15 17p 20m 22 24 25
+Números Repetidos: 01 03 06 07 10 15 17 20 22 24
+Números Ausentes:  04 05pfm 08f 11p 12m 16 18 19pm 21fm 23p
+Números Repetidos Ausentes: 05 08 12 16 23
+Repetidos: 10      
+Soma: 188
+Par/Impar: 7/8  
+Miolo: 5
+Miolo Ausentes: 4
+Quantidade Repetidos Ausentes: 5
+Quantidade PFM dos Ausentes: 7
+Números PFM dos Ausentes: 05pfm 08f 11p 12m 19pm 21fm 23p       
+	
+Atrasos: 
+
+PFM dos Ausentes:
+primos: 	 4	-> 05pfm 11p 19pm 23p 
+fibonacci: 	 4	-> 05pfm 08f 21fm
+magico: 	 4	-> 05pfm 12m 19pm 21fm
+
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 01f?? [03pf] 04+*** 11p+*** 18+*** 19pm+***     	-> escolha 2
+ seq de 3 : [07pm] 24+			    			-> escolha 1
+ seq de 4 : 06m+ [15]
+ seq de 5 : [21fm]***
+ seq de 6 : [17p]
+ seq de 7 : 20m+ 22+
+ seq de 9 : 10?
+          
+ seq ausente de 2 : [05pfm]*** [09] 12m+*** 13pfm?? 23p+*** 25??
+ seq ausente de 3 : 02pf+ 08f+***
+ seq ausente de 4 : 16+***
+ seq ausente de 8 : [14m]
+
+-------------------------
+
+
+JOGO 3298
+Números Sorteados: 01f 03pf 04 06m 07pm 10 11p 15 17p 18 19pm 20m 21fm 22 24
+Números Repetidos: 06 07 10 15 17 20 21 22 24
+Números Ausentes:  02pf 05pfm 08f 09 12m 13pfm 14m 16 23p 25
+Números Repetidos Ausentes: 02 08 14 16
+Repetidos: 9      
+Soma: 198
+Par/Impar: 7/8  
+Miolo: 4
+Miolo Ausentes: 5
+Quantidade Repetidos Ausentes: 4/10
+Quantidade PFM dos Ausentes: 7/10
+Números PFM dos Ausentes: 02pf 05pfm 08f 12m 13pfm 14m 23p        
+	
+Atrasos: 
+
+PFM dos Ausentes:
+primos: 	 4	-> 02pf 05pfm 13pfm 23p 
+fibonacci: 	 4	-> 02pf 05pfm 08f 13pfm
+magico: 	 4	-> 05pfm 12m 13pfm 14m
+
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 07pm 09*** 12m*** 23p*** 24 25?***    	-> escolha 2
+ seq de 3 : 06m [15]					-> escolha 2
+ seq de 4 : [5pfm]*** [17p] [21fm]
+ seq de 5 : 13pfm?***
+ seq de 6 : 20m 22?
+ seq de 8 : [10]
+          
+ seq ausente de 2 : 01f? 02pf+*** 08f+*** 11p? [18] [19pm]
+ seq ausente de 3 : [03pf] 16?***
+ seq ausente de 4 :	
+ seq ausente de 7 : 04+ 14m+***
+
+           
+- escolhidas ausentes:
+[02pf] [08f] 19pm :: [5pfm] 15 17p 21fm 22
+
+- escolhidos PFM dos ausentes:
+primos: 	 4	-> 02pf 5pfm 19pm 17p 
+fibonacci: 	 4	-> 02pf 5pfm 08f 21fm 
+magico: 	 3	-> 5pfm 19pm 21fm
+
+- resultado ausentes:
+02 05 08 09 12 13 14 16 23 25
+
+- resultado:
+01 03 04 06 07 10 11 15 17 18 19 20 21 22 24
+-------------------------
+-------------------------
+-------------------------
+JOGO 3297
+Números Sorteados: 05pfm 06m 07pm 09 10 12m 13pfm 15 17p 20m 21fm 22 23p 24 25
+Números Repetidos: 05 06 10 13 15 17 20 21 22
+Números Ausentes:  01f 02pf 03pf 04 08f 11p 14m 16 18 19pm
+Números Repetidos Ausentes: 03 04 14 16
+Repetidos: 9      
+Soma: 229
+Par/Impar: 6/9 
+Miolo: 5
+Miolo Ausentes: 4
+Quantidade Repetidos Ausentes: 4/10
+Quantidade PFM dos Ausentes: 7/10
+Números PFM dos Ausentes: 01f 02pf 03pf 08f 11p 14m 19pm          
+	
+Atrasos: 66 22 111111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 4	-> 02pf 03pf 11p 19pm 
+fibonacci: 	 4	-> 01f 02pf 03pf 08f
+magico: 	 2	-> 14m 19pm
+
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 06m [15] 18*** 19pm***     		-> escolha 2
+ seq de 3 : [05pfm] 08f*** 11p*** [21fm]	-> escolha 2
+ seq de 4 : 01f?*** 13pfm [17p]
+ seq de 5 : [02pf]*** 20m 22
+ seq de 6 : 
+ seq de 7 : 10?
+          
+ seq ausente de 2 : 03pf+*** [07pm] [16]*** 25?
+ seq ausente de 3 : 09 [12m] 24
+ seq ausente de 4 :	
+ seq ausente de 6 : 04?*** 14?*** 23p?
+           
+- escolhidas ausentes:
+07pm 12m [16] :: [02pf] 05pfm 15 17p 21fm
+
+- escolhidos PFM dos ausentes:
+primos: 	 3	-> 
+fibonacci: 	 2	-> 
+magico: 	 2	-> 
+
+- resultado ausentes:
+01 02 03 04 08 11 14 16 18 19
+
+- resultado:
+05 06 07 09 10 12 13 15 17 20 21 22 23 24 25
+-------------------------
+-------------------------
+
+
+
+JOGO 3296
+Números Sorteados: 01f 02pf 05pfm 06m 08f 10 11p 13pfm 15 17p 18 19pm 20m 21fm 22
+Números Repetidos: 01 02 05 08 10 11 13 17 20 21 22
+Números Ausentes:  03pf 04 07pm 09 12m 14 16 23p 24 25
+Números Repetidos Ausentes: 04 09 12m 14 23p 24
+Repetidos: 11    
+Soma: 188
+Par/Impar: 7/8 
+Miolo: 5
+Miolo Ausentes: 4
+Quantidade Repetidos Ausentes: 6/10
+Quantidade PFM dos Ausentes: 3/10
+Números PFM dos Ausentes: 03pf 07pm 12m 23p
+		
+Atrasos: 
+
+PFM dos Ausentes:
+primos: 	 3	-> 03pf 07pm 23p
+fibonacci: 	 1	-> 03pf
+magico: 	 2	-> 07pm 12m
+
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : [03pf]*** 05pfm+ 07pm+*** [08f] 11p+ 21fm+   	-> escolha 2
+ seq de 3 : 01f? 13pfm? 17p? 					-> escolha 2
+ seq de 4 : [02pf] 16?*** 20m? [22]
+ seq de 5 : 25?***
+ seq de 6 : [10]
+ seq de 7 : 
+          
+ seq ausente de 2 : [06m] 09+*** [12m]*** 18? [19pm] [24]***
+ seq ausente de 3 : 15+
+ seq ausente de 4 :	
+ seq ausente de 5 : 04+*** 14m+*** 23p+***
+           
+- escolhidas ausentes:
+06m [12m] 19pm [24] :: 02pf [03pf] 08f 22 ?? 10 [25]
+
+- escolhidos PFM dos ausentes:
+primos: 	 3	-> 
+fibonacci: 	 2	-> 
+magico: 	 2	-> 
+
+- resultado ausentes:
+03 04 07 09 12 14 16 23 24 25
+
+- resultado:
+01 02 05 06 08 10 11 13 15 17 18 19 20 21 22
+-------------------------
+
+-------------------------
+-------------------------
+
+
+JOGO 3295
+Números Sorteados: 01 02 03 05 07 08 10 11 13 16 17 20 21 22 25
+Números Repetidos: 01 02 10 13 16 17 20 22 25
+Números Ausentes:  04 06m 09 12m 14m 15 18 19pm 23p 24
+Números Repetidos Ausentes: 04 14 15 23
+Repetidos: 9  
+Soma: 181
+Par/Impar: 6/9  
+Miolo: 4
+Miolo Ausentes: 5
+Quantidade Repetidos Ausentes: 4/10
+Quantidade PFM dos Ausentes: 5/10
+Números PFM dos Ausentes: 06m 12m 14m 19pm 23p 
+		
+Atrasos: 
+
+PFM dos Ausentes:
+primos: 	 2	-> 19pm 23p
+fibonacci: 	 0	-> 
+magico: 	 4	-> 06m 12m 14m 19pm
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 01f? 06m+*** [13pfm] 17p+ 		-> escolha 2
+ seq de 3 : [02pf] 16? 20m? [22] 		-> escolha 2
+ seq de 4 : [09]*** 19pm?*** 24?*** 25? 
+ seq de 5 : 10?
+ seq de 6 : [12m]*** 18?***
+ seq de 7 : 
+          
+ seq ausente de 2 : [03pf] [07pm] 11p+ [15]***  
+ seq ausente de 3 : 05pfm? 08f? [21fm]
+ seq ausente de 4 : 04*** 14m*** 23p*** 
+           
+- escolhidas ausentes:
+07pm [15] 21fm :: 02pf [09] [12m] {13pfm} [19pm] ?? 03pf 22
+
+- escolhidos PFM dos ausentes:
+primos: 	 4	-> 07pm 02pf 19pm 03pf
+fibonacci: 	 3	-> 21fm 02pf 03pf
+magico: 	 3	-> 07pm 21fm 19pm
+
+- resultado ausentes:
+04 06 09 12 14 15 18 19 23 24
+
+- resultado:
+01 02 03 05 07 08 10 11 13 16 17 20 21 22 25
+-------------------------
+-------------------------
+
+JOGO 3294
+Números Sorteados: 01 02 06 09 10 12 13 16 17 18 19 20 22 24 25
+Números Repetidos: 02 09 10 12 16 18 19 20 22 24 25
+Números Ausentes:  03pf 04 05pfm 07pm 08f 11p 14m 15 21fm 23p
+Números Repetidos Ausentes: 04 05 08 14 21 23
+Repetidos: 11  
+Soma: 214
+Par/Impar: 9/6
+Miolo: 6
+Miolo Ausentes: 3
+Quantidade Repetidos Ausentes: 6/10
+Quantidade PFM dos Ausentes: 8/10
+Números PFM dos Ausentes: 03pf 05pfm 07pm 08f 11p 14m 21fm 23p
+		
+Atrasos: 333 222 1111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 5	-> 03pf 05pfm 07pm 11p 23p
+fibonacci: 	 4	-> 03pf 05pfm 08f 21fm
+magico: 	 4	-> 05pfm 07pm 14m 21fm
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 08f*** 09+ 13pfm+*** 19pm+ [21fm]*** 24+ 25+
+ seq de 3 : 03pf 05pfm*** 06m*** [10]
+ seq de 4 : [12m] [17p]*** 18?
+ seq de 5 : 
+ seq de 6 : 
+ seq de 7 : 
+ seq de 8 : 
+ seq de 9 : 01f?***
+          
+ seq de 2 : 02pf+ 07pm+ 11p+*** [15]*** [16] 20m+ 22+ 		-> escolha 2
+ seq de 3 : [09] [19pm] 24+ 25?  				-> escolha 2
+ seq de 4 : [03pf]*** 10+
+ seq de 5 : [12m] 18+
+ seq de 6 : 
+ seq de 7 : 
+          
+ seq ausente de 2 : 01f? [05pfm]*** [06m] 08f+ [13pfm] 17p? [21fm] ***
+ seq ausente de 3 : 04?*** 14m+*** 23p+***
+ seq ausente de 4 :	    
+           
+- escolhidas ausentes:
+[05pfm] {06m} 13pfm [21fm] :: [03pf] 09 12m [15] 16 {19pm}
+
+- escolhidos PFM dos ausentes:
+primos: 	 3	-> 03pf 05pfm 13pfm
+fibonacci: 	 2	-> 03pf 05pfm 13pfm {19pm} 21fm
+magico: 	 2	-> 05pfm {06m} 12m 13pfm {19pm} 21fm 
+
+- resultado ausentes:
+03pf 04 05pfm 07pm 08f 11p 14m 15 21fm 23p
+
+- resultado:
+01 02 06 09 10 12 13 16 17 18 19 20 22 24 25
+-------------------------
+-------------------------
+-------------------------
+JOGO 3293
+Números Sorteados: 02 03 07 09 10 11 12 15 16 18 19 20 22 24 25
+Números Repetidos: 03 09 10 12 18 19 24 25
+Números Ausentes:  01f 04 05pfm 06m 08f 13pfm 14m 17p 21fm 23p
+Números Repetidos Ausentes: 04 14m 23p
+Repetidos: 8      											
+Soma: 213
+Par/Impar: 8/7
+Miolo: 5
+Miolo Ausentes: 4
+Quantidade Repetidos Ausentes: 3/10
+Quantidade PFM dos Ausentes: 9/10
+Números PFM dos Ausentes: 01f 05pfm 06m 08f 13pfm 14m 17p 21fm 23p
+		
+Atrasos:  
+
+PFM dos Ausentes:
+primos: 	 4	-> 05pfm 13pfm 17p 23p
+fibonacci: 	 5	-> 01f 05pfm 08f 13pfm 21fm
+magico: 	 5	-> 05pfm 06m 13pfm 14m 21fm
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 08f*** 09+ 13pfm+*** 19pm+ [21fm]*** 24+ 25+
+ seq de 3 : 03pf 05pfm*** 06m*** [10]
+ seq de 4 : [12m] [17p]*** 18?
+ seq de 5 : 
+ seq de 6 : 
+ seq de 7 : 
+ seq de 8 : 
+ seq de 9 : 01f?***
+          
+ seq ausente de 2 : [04]*** 07pm? 14m+*** [15] [16] [20m] [23p]***
+ seq ausente de 3 : 11p+
+ seq ausente de 4 : [02pf] 22+      
+ seq ausente de 5 : 
+           
+- escolhidas ausentes:
+02pf [04] 15 [23p] :: 10 12m [17p] [21fm] ?? 20m 16
+
+- escolhidos PFM dos ausentes:
+primos: 	 3	-> 02pf 17p 23p
+fibonacci: 	 2	-> 02pf 21fm
+magico: 	 2	-> 12m 20m 21fm
+
+- resultado inversa:
+01f 04 05pfm 06m 08f 13pfm 14m 17p 21fm 23p
+
+- resultado:
+02 03 07 09 10 11 12 15 16 18 19 20 22 24 25
+-------------------------
+-------------------------
+JOGO 3292
+Números Sorteados: 01 03 05 06 08 09 10 12 13 17 18 19 21 24 25
+Números Repetidos: 01 03 05 06 10 12 17 18
+Números Ausentes:  02pf 04 07pm 11p 14m 15 16 20m 22 23p
+Números Repetidos Ausentes: 02pf 11p 22
+Repetidos: 8    											
+Soma: 191
+Par/Impar: 6/9
+Miolo: 7
+Miolo Ausentes: 2
+Quantidade Repetidos Ausentes: 3/10
+Quantidade PFM dos Ausentes: 6/10
+Números PFM dos Ausentes: 02pf 07pm 11p 14m 20m 23p
+		
+Atrasos:  33 2 1111111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 4	-> 02pf 07pm 11p 23p
+fibonacci: 	 1	-> 02pf
+magico: 	 3	-> 07pm 14m 20m
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : [03pf] 05pfm+ 06m+ [10] 16+*** 20m+*** [23p]***
+ seq de 3 : 12m+ 15?*** 17p+ [18]
+ seq de 4 : [07pm]***
+ seq de 5 : 
+ seq de 6 : 
+ seq de 7 : 
+ seq de 8 : 01f?
+ seq de 9 : 04?***
+ seq de 9 : 10 14m?***
+          
+ seq ausente de 2 : 08f? [11p]*** [13pfm] 19pm+ [21fm] [24] 25+
+ seq ausente de 3 : 02pf+*** 09? 22+***
+ seq ausente de 4 :	      
+ seq ausente de 5 : 
+           
+- escolhidas ausentes:
+[11p] 13pfm 21fm 24 :: 03pf 10 18 [23p] :: [07pm]
+
+- escolhidos PFM dos ausentes:
+primos: 	 4	-> 03pf 11p 13pfm 23p 07pm
+fibonacci: 	 2	-> 03pf 13pfm 21fm
+magico: 	 3	-> 13pfm 21fm 07pm
+
+- resultado inversa:
+02pf 04 07pm 11p 14m 15 16 20m 22 23p
+
+- resultado:
+01 03 05 06 08 09 10 12 13 17 18 19 21 24 25
+-------------------------
+-------------------------
+JOGO 3291
+Números Sorteados: 01 03 04 05 06 07 10 12 14 15 16 17 18 20 23
+Números Repetidos: 01 04 07 12 14 15 17 18
+Números Ausentes:  02 08 09 11 13 19 21 22 24 25
+Números Repetidos Ausentes: 02 09 22
+Repetidos: 8  											
+Soma: 171
+Par/Impar: 8/7
+Miolo: 5
+Miolo Ausentes: 4
+Quantidade Repetidos Ausentes: 3/10
+Quantidade PFM dos Ausentes: 6/10
+Números PFM dos Ausentes: 02pf 08f 11p 13pfm 19pm 21fm
+		
+Atrasos: 222 1111111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 4	-> 02pf 11p 13pfm 19pm 
+fibonacci: 	 4	-> 02pf 08f 13pfm 21fm
+magico: 	 3	-> 13pfm 19pm 21fm
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 08f+*** [12m] 15+ [17p] 18+ [25]*** 
+ seq de 3 : 07pm+ 19pm?*** 21fm?***
+ seq de 4 : 24***
+ seq de 5 : 
+ seq de 6 : 
+ seq de 7 : [01f] 11p*** 13pfm***
+ seq de 8 : [04]
+ seq de 9 : [14m]
+          
+ seq ausente de 2 : [02pf]*** [05pfm] 09+*** [16] 20m+ [22]***  
+ seq ausente de 3 : 03pf+ 06m+ 10+
+ seq ausente de 4 : 23p+
+ seq ausente de 5 : 							
+              
+- escolhidas inversa:
+[02pf] 05pfm 16 [22] :: 04 12m 14m 17p :: 01f [25]
+
+- resultado inversa:
+02pf 08f 09 11p 13pfm 19pm 21fm 22 24 25
+
+- resultado:
+01 03 04 05 06 07 10 12 14 15 16 17 18 20 23
+-------------------------
+-------------------------
+JOGO 3290
+Números Sorteados: 01 04 07 08 11 12 13 14 15 17 18 19 21 24 25
+Números Repetidos: 01 04 07 11 13 14 19 21 24
+Números Ausentes:  02 03 05 06 09 10 16 20 22 23 
+Números Repetidos Ausentes: 03 06 10 23
+Repetidos: 9											
+Soma: 209
+Par/Impar: 6/9
+Miolo: 8
+Miolo Ausentes: 1
+Quantidade Repetidos Ausentes: 4/10
+Quantidade PFM dos Ausentes: 6/10
+Números PFM dos Ausentes: 02pf 03pf 05pfm 06m 20m 23p
+		
+Atrasos: 3 222 111111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 4	-> 02pf 03pf 05pfm 23p
+fibonacci: 	 3	-> 02pf 03pf 05pfm
+magico: 	 3	-> 05pfm 06m 20m
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 05pfm*** 07pm 16+*** 19pm [20m]*** 21fm  
+ seq de 3 : 09*** 24+
+ seq de 4 : [02pf]*** [22]***
+ seq de 5 : 
+ seq de 6 : 01f 11p 13pfm
+ seq de 7 : 04
+ seq de 8 : [14m]
+          
+ seq ausente de 2 : [03pf]*** 06m+*** 08f+ 10+*** [12m] [18] 
+ seq ausente de 3 : 15+ [23p]*** 25+ 
+ seq ausente de 4 :	
+ seq ausente de 5 : 17p+
+ seq ausente de 8 : 							
+
+              
+- escolhidas inversa:
+[03pf] 12m 18 [23p] :: [02pf] 14m [20m] [22] :: 01 [09] 
+
+- resultado inversa:
+02pf 03pf 05pfm 06m 09 10 16 20m 22 23p
+
+- resultado:
+01 04 07 08 11 12 13 14 15 17 18 19 21 24 25
+-------------------------
+-------------------------
+JOGO 3289
+Números Sorteados: 01 02 04 05 07 09 11 13 14 16 19 20 21 22 24
+Números Repetidos: 01 02 04 09 11 13 14 22 24
+Números Ausentes:  03 06 08 10 12 15 17 18 23 25 
+Números Repetidos Ausentes: 15 17 23 25
+Repetidos: 9									
+Soma: 188
+Par/Impar: 7/8
+Miolo: 5
+Quantidade Repetidos Ausentes: 4/10
+Quantidade PFM dos Ausentes: 6/10
+Números PFM dos Ausentes: 03pf 06m 08f 12m 17p 23p
+		
+Atrasos: 4 222 111111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 3	-> 03pf 17p 23p
+fibonacci: 	 2	-> 03pf 08f
+magico: 	 2	-> 06m 12m
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 08f-*** 09? 10+*** 18*** 24-
+ seq de 3 : 02pf- 03pf*** 12m?*** 22-
+ seq de 4 : 
+ seq de 5 : 01f? 11p 13pfm-
+ seq de 6 : 04- 06m***
+ seq de 7 : 14m?
+          
+ seq ausente de 2 : 15+*** 16+ 20m- 23p+*** 25-*** 
+ seq ausente de 3 : 05pfm+ 07pm+ 21fm-
+ seq ausente de 4 : 17p-***
+ seq ausente de 5 : 19pm?
+ seq ausente de 8 : 							
+
+              
+- escolhidas inversa:
+[17p] 20m 21fm [25] :: 02pf [08f] 13pfm 22 :: 04 24
+
+- resultado inversa:
+03pf 06m 08f 10 12m 15 17p 18 23 23p
+
+- resultado:
+01 02 04 05 07 09 11 13 14 16 19 20 21 22 24
+-------------------------
+-------------------------
+JOGO 3288
+Números Sorteados: 01 02 03 04 06 08 09 10 11 12 13 14 18 22 24
+Números Repetidos: 01 02 03 04 06 11 12 13 14 22
+Números Ausentes:  05 07 15 16 17 19 20 21 23 25 
+Números Repetidos Ausentes: 05 07 17 19	21
+Repetidos: 10									
+Soma: 157
+Par/Impar: 10/5
+Miolo: 6
+Quantidade Repetidos Ausentes: 5/10
+Quantidade PFM dos Ausentes: 7/10
+Números PFM dos Ausentes: 05pfm 07pm 17p 19pm 20m 21fm 23p
+		
+Atrasos: 4 3 222 11111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 5	-> 05pfm 07pm 17p 19pm 23p
+fibonacci: 	 2	-> 05pfm 21fm
+magico: 	 5	-> 05pfm 07pm 19pm 20m 21fm
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 02pf+ 03pf? 12m+ 15+*** 16+*** 22?  
+ seq de 3 : 25?***
+ seq de 4 : 01f? 11p- 13pfm 23p***
+ seq de 5 : 04- 06m- 20m-***
+ seq de 6 : 14m
+ seq de 7 : 
+          
+ seq ausente de 2 : 05pfm?*** 07pm-*** 08f+ 18- 21fm-*** 24+
+ seq ausente de 3 : 09+ 10+ 17p-***
+ seq ausente de 4 : 19pm+***
+ seq ausente de 5 : 						
+              
+- escolhidas inversa:
+[{05pfm}] [07pm] [17p] 18 [21fm] :: 04 06m 11p [20m] {22}
+
+- resultado inversa:
+05pfm 07pm 15 16 17p 19pm 20m 21fm 23p 25
+
+- resultado:
+01 02 03 04 06 08 09 10 11 12 13 14 18 22 24
+-------------------------
+-------------------------
+JOGO 3287
+Números Sorteados: 01 02 03 04 06 11 12 13 14 15 16 20 22 23 25
+Números Repetidos: 01 04 06 11 13 14 20 23 25
+Números Ausentes:  05 07 08 09 10 17 18 19 21 24
+Números Repetidos Ausentes: 09 10 17 19		
+Repetidos: 9												
+Soma: 187
+Par/Impar: 8/7
+Miolo: 3
+Quantidade Repetidos Ausentes: 4/10
+Quantidade PFM dos Ausentes: 6/10
+Números PFM dos Ausentes: 05pfm 07pm 08f 17p 19pm 21fm 
+		
+Atrasos:  3 222 111111 000000000000000
+
+PFM dos Ausentes:
+primos: 	 4	-> 05pfm 07pm 17p 19pm
+fibonacci: 	 3	-> 05pfm 08f 21fm
+magico: 	 4	-> 05pfm 07pm 19pm 21fm
+
+SEQUENCIA QUE NAO CAIU:
+
+ seq de 2 : 05pfm*** 08f*** 18*** 21fm-*** 25 
+ seq de 3 : 01f 07pm-*** 11p- 13pfm 23p
+ seq de 4 : 04 06m 20m
+ seq de 5 : 14m-
+ seq de 6 : 
+ seq de 9 : 
+ seq de 15 : 24-***
+          
+ seq ausente de 2 : 03pf- 09-*** 10-*** 15 17p***
+ seq ausente de 3 : 16 19pm-*** 22
+ seq ausente de 5 : 12m
+ seq ausente de 7 : 02pf-
+ seq ausente de 8 : 
+              
+- escolhidas inversa:
+{02pf} 03pf [09] [10] [19pm] :: [07pm] 11p {14m} [21fm] [24]
+
+- resultado inversa:
+05pfm [07pm] 08f [09] [10] 17p 18 [19pm] [21fm] [24]
+
+- resultado:
+01 02 03 04 06 11 12 13 14 15 16 20 22 23 25
+-------------------------
+-------------------------
+JOGO 3286
+Números Sorteados: 01 04 05 06 07 08 11 13 14 18 20 21 23 24 25
+Números Repetidos: 01 04 06 07 11 13 14 20 23 24
+Números Ausentes:  02 03 09 10 12 15 16 17 19 22
+Números Repetidos Ausentes: 02 12 16 19 22		
+Repetidos: 10												
+Soma: 200
+Par/Impar: 7/8
+Miolo: 5
+Quantidade Repetidos Ausentes: 05/10
+Quantidade PFM dos Ausentes: 05/10
+Números PFM dos Ausentes: 02pf 03pf 12m 17p 19pm
+		
+Sequência: 
+Atrasos: 0 6 1 0 0 0 0 0 1 1 0 4 0 0 1 2 1 0 2 0 0 2 0 0 0 
+
+PFM dos Sorteados:
+primos: 	 5	-> 05 07 11 13 23
+fibonacci: 	 5	-> 01 05 08 13 21
+magico: 	 7	-> 05 06 07 13 14 20 21
+
+PFM dos Ausentes:
+primos: 	 3	-> 02 03 17 19
+fibonacci: 	 1	-> 02
+magico: 	 2	-> 12 19
+
+
+ seq de 2 : 01+*** 07+*** 09? 10+ 11+*** 13?*** 15- 23+*** 
+ seq de 3 : 03+ 04?*** 06-*** 20-***
+ seq de 4 : 14-***
+ seq de 5 : 
+ seq de 6 : 
+ seq de 9 : 17?
+ seq de 14 : 24+***
+          
+ seq ausente de 2 : 05+*** 08+*** 16+ 18-*** 19- 21+*** 22- 25?***
+ seq ausente de 4 : 12+
+ seq ausente de 6 : 02-
+ seq ausente de 8 : 
+
+              
+- escolhidas inversa:
+[02pf] 18 [19pm] [22] :: 06m 14m [15] 20m
+
+- resultado inversa:
+02pf 03pf 09 10 12m 15 16 17p 19pm 22
+
+- resultado:
+01 04 05 06 07 08 11 13 14 18 20 21 23 24 25
+-------------------------
+
+-------------------------
+JOGO 3285
+Números Sorteados: 01 03 04 06 07 09 10 11 13 14 15 17 20 23 24
+Números Repetidos: 03 04 06 14 17 20 24
+Números Ausentes:  02 05 08 12 16 18 19 21 22 25
+Números Repetidos Ausentes: 02 12 		
+Repetidos: 7												
+Soma: 177
+Par/Impar: 6/9
+Miolo: 4
+Quantidade Repetidos Ausentes: 2/10
+Quantidade PFM dos Ausentes: 6/10
+Números PFM dos Ausentes: 02pf 05pfm 08f 12m 19pm 21fm
+		
+Sequência: 
+Atrasos:  5 3 11111111 000000000000000
+
+PFM dos Sorteados:
+primos: 	 6	-> 03 07 11 13 17 23
+fibonacci: 	 3	-> 01 03 13
+magico: 	 5	-> 06 07 13 14 20
+
+PFM dos Ausentes:
+primos: 	 3	-> 02 05 19
+fibonacci: 	 4	-> 02 05 08 21
+magico: 	 4	-> 05 12 19 21
+
+
+ seq de 2 : 03pf*** 04*** 05pfm 06m*** 08f 20m***
+ seq de 3 : 14m***
+ seq de 4 : 18 19pm 25
+ seq de 5 : 16 21fm
+ seq de 6 : 
+ seq de 8 : 22 17p***
+ seq de 13 : 24***
+          
+ seq ausente de 2 : 09*** 10*** 11p*** 13pfm*** 15*** 23p***
+ seq ausente de 3 : 07pm*** 12m
+ seq ausente de 5 : 02pf
+ seq ausente de 8 : 01f***
+
+              
+- escolhidas inversa:
+04 09 11p 13pfm 17p [22] 23p 24
+
+- resultado inversa:
+02pf 05pfm 08f 12m 16 18 19pm 21fm 22 25
+
+- resultado:
+01 03 04 06 07 09 10 11 13 14 15 17 20 23 24
+-------------------------
+-------------------------
+
+JOGO 3284
+Números Sorteados: 03 04 05 06 08 14 16 17 18 19 20 21 22 24 25
+Números Repetidos: 14 16 17 18 19 21 22 24 25
+Números Ausentes:  01 02 07 09 10 11 12 13 15 23
+Números Repetidos Ausentes:  01	02 07 12		
+Repetidos: 9												
+Soma: 222			
+Par/Impar: 9/6
+Miolo: 5
+Repetidos Ausentes: 4/10
+Números PFM dos Ausentes: 7/10
+		
+Sequência: 
+Atrasos:  7 4 22 111111 000000000000000
+
+PFM dos Sorteados:
+primos: 	 4	-> 03 05 17 19
+fibonacci: 	 4	-> 03 05 08 21
+magico: 	 6	-> 05 06 14 19 20 21
+
+PFM dos Ausentes:
+primos: 	 5	-> 02 07 11 13 23
+fibonacci: 	 3	-> 01 02 13
+magico: 	 3	-> 07 12 13
+
+
+ seq de 2 : 13pfm- 14m*** 15+ 23p+  
+ seq de 3 : 10+ 18*** 19pm*** 25?***
+ seq de 4 : 09? 16+*** 21fm-***
+ seq de 5 : 11p-
+ seq de 6 : 
+ seq de 7 : 17p*** 22-***
+ seq de 12 : 24-***
+          
+ seq ausente de 2 : 06m+*** 07pm- 08f+*** 12m-
+ seq ausente de 3 : 03pf+*** 05pfm?***
+ seq ausente de 4 : 02pf- 04+*** 20m***
+ seq ausente de 7 : 01f+
+
+
+- escolhidas inversa:
+[02pf] [07pm] [11p] [12m] [13pfm] 21fm 22 24
+
+- resultado:
+03 04 05 06 08 14 16 17 18 19 20 21 22 24 25
+
+-------------------------
+-------------------------
+JOGO 3283
+Números Sorteados: 09 10 11 13 14 15 16 17 18 19 21 22 23 24 25
+Números Repetidos: 09 10 11 16 17 18 19 21 22 24 25
+Números Ausentes:  01 02 03 04 05 06 07 08 12 20		
+Repetidos: 11												
+Soma: 257			
+Par/Impar: 6/9
+Miolo: 6
+Repetidos ausente: 
+		
+Sequência: 
+Atrasos:   
+
+primos: 	 5	-> 11 13 17 19 23
+fibonacci: 	 2	-> 13 21
+magico: 	 4	-> 13 14 19 21
+TOTAL: 
+
+- escolhidas inversa:
+04*** 05pfm*** 13pfm 14m 17p 22 23p 24                                                                                                                                                                        
+            
+ seq de 2 : 07pm 10*** 18*** 19pm*** 25***
+ seq de 3 : 06m 09*** 16*** 21fm***
+ seq de 4 : 08f 11p*** 12m
+ seq de 5 : 
+ seq de 6 : 17p*** 22***
+ seq de 11 : 24***
+          
+ seq ausente de 2 : 03pf 05pfm 13pfm*** 14m*** 23p***
+ seq ausente de 3 : 02pf 04 15*** 20m
+ seq ausente de 4 : 
+ seq ausente de 6 : 01f
+
+- escolhidas:
+01f 03pf 14m*** 15*** {20m} 23p*** : {06m} 07pm 10*** 11p*** 16*** 19pm*** 21fm*** 22*** {25}***
+
+- resultado:
+09 10 11 13 14 15 16 17 18 19 21 22 23 24 25
+
+-------------------------
+-------------------------
+JOGO 3282
+Números Sorteados: 06 07 08 09 10 11 12 16 17 18 19 21 22 24 25
+Números Repetidos: 06 08 09 11 12 16 17 21 22 24
+Números Ausentes:  01 02 03 04 05 13 14 15 20 23		
+Repetidos: 10												
+Soma: 225			
+Par/Impar: 8/7
+Miolo: 7
+Repetidos ausente: 
+		
+Sequência: 10 55 333 2222 11111
+Atrasos:   5 2222 11111
+
+primos: 	 4	-> 07 11 17 19
+fibonacci: 	 2	-> 08 21
+magico: 	 5	-> 06 07 12 19 21
+TOTAL: 
+
+ seq de 2 : 03pf- [06m]*** [09]*** 13pfm? [16]*** 21fm-*** [23p] 
+ seq de 3 : [08f]*** [11p]*** [12m]***
+ seq de 4 : [14m]
+ seq de 5 : [05pfm] 17p-*** 22-***
+ seq de 6 : 
+ seq de 10 : 24-***
+          
+ seq ausente de 2 : 02pf? [04] 10-*** [15] 18-*** [20m] [25]***
+ seq ausente de 3 : [07pm]*** 19pm-***
+ seq ausente de 4 : 
+ seq ausente de 5 : [01f]
+
+     
+- escolhidas:
+01f 04 [07pm] {15} 20m [25] :: 05pfm [06m] [08f] {09} [11p] [12m] {14m} [16] 23p
+
+
+- resultado:
+06 07 08 09 10 11 12 16 17 18 19 21 22 24 25
+
+-------------------------
+-------------------------
+JOGO 3281
+Números Sorteados: 03 05 06 08 09 11 12 13 14 16 17 21 22 23 24
+Números Repetidos: 05 08 11 12 14 17 22 24
+Números Ausentes:  01 02 04 07 10 15 18 19 20 25		
+Repetidos: 8												
+Soma: 204			
+Par/Impar: 7/8
+Miolo: 6
+Repetidos ausente: 
+		
+Sequência: 
+Atrasos:   
+
+primos: 	 6	-> 03 05 11 13 17 23
+fibonacci: 	 5	-> 03 05 08 13 21
+magico: 	 6	-> 05 06 12 13 14 21
+TOTAL: 
+
+ seq de 2 : 08?]*** [11]]*** [12]]*** 15-- [20]]
+ seq de 3 : [02]] 04?- [10]] [14]]***
+ seq de 4 : [05]]*** 17--*** 22--***
+ seq de 5 : [18]] 25--
+ seq de 6 : 
+ seq de 9 : 24--***
+          
+ seq ausente de 2 : 07-- 09-] [19]- [21]]*** 23-]***
+ seq ausente de 3 : [06]]*** 13-]***
+ seq ausente de 4 : [01]] [03]]*** [16]-
+ seq ausente de 5 : 
+     
+- escolhidas:
+01f- [03pf]*** [06m]*** [16]*** 19pm {21fm}*** :: 02pf- [05pfm] 10 [11p]*** [12m]*** {14m}*** 18 20m
+
+01f [03pf]*** [06m]*** [09]*** {13pfm}*** [21fm]*** [23p]*** :: {02pf} [05pfm]*** [08f]*** 10 [11p]*** {12m}*** {14m}*** 18   
+
+
+- resultado:
+03 05 06 08 09 11 12 13 14 16 17 21 22 23 24
+
+-------------------------
+-------------------------
+JOGO 3280
+Números Sorteados: 02 04 05 08 10 11 12 14 15 17 18 20 22 24 25
+Números Repetidos: 02 04 05 10 14 17 18 22 24 25
+Números Ausentes:  01 03 06 07 09 13 16 19 21 23		
+Repetidos: 10												
+Soma: 207			
+Par/Impar: 10/5
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência: 8 44 333 2222 11111
+Atrasos:   333 22 11111
+
+primos: 	 4	-> 02 05 11 17
+fibonacci: 	 3	-> 02 05 08
+magico: 	 4	-> 05 12 14 20
+TOTAL: 
+
+ seq de 2 : 02pf-*** 04-*** [09] [10]*** [14m]*** [23p]
+ seq de 3 : 05pfm-*** [17p]*** [19pm] 22- ***
+ seq de 4 : [18]*** 21fm- [25]***
+ seq de 5 : [07pm]
+ seq de 6 : 
+ seq de 8 : 24-***
+          
+ seq ausente de 2 : 06m- [08f]*** [11p]*** [12m]*** 13pfm- [20m]*** 
+ seq ausente de 3 : [01f] 03pf- [15]*** 16-
+ seq ausente de 4 : 
+ seq ausente de 5 : 
+
+     
+- escolhidas:
+01f [08f] [11p] {12m} [15] [20m] :: 07pm 09 [10] [14m] {17p} {18} 19pm 23p [25]
+
+- resultado:
+02 04 05 08 10 11 12 14 15 17 18 20 22 24 25
+
+-------------------------
+JOGO 3279
+Números Sorteados: 02 04 05 07 09 10 14 17 18 19 21 22 23 24 25
+Números Repetidos: 05 07 17 18 19 21 22 24 25
+Números Ausentes:  01 03 06 08 11 12 13 15 16 20		
+Repetidos: 9											
+Soma: 220			
+Par/Impar: 7/8
+Miolo: 6
+Repetidos ausente: 
+		
+Sequência: 
+Atrasos:   
+
+primos: 	 6	-> 02 05 07 17 19 23
+fibonacci: 	 3	-> 02 05 21
+magico: 	 5	-> 05 07 14 19 21
+TOTAL: 
+
+ seq de 2 : [05pfm]*** [06m] [12m] [17p]*** 19pm-*** 22-*** 
+ seq de 3 : [11p] 18-*** [21fm]*** 25-***
+ seq de 4 : 07pm-*** [08f] 
+ seq de 5 : [13pfm]
+ seq de 6 : [20m]
+ seq de 7 : 24-*** 
+          
+ seq ausente de 2 : [01f] 03pf- [09]*** [10]*** 15? 16- 
+ seq ausente de 3 : [02pf]*** [04]*** 14-***
+ seq ausente de 4 : 23p?***
+ seq ausente de 5 : 
+
+     
+- escolhidas:
+01f 02pf 04 09 10 :: 05pfm 06m 08f 11p {12m} 13pfm {17p} 20m 21fm
+
+- resultado:
+02 04 05 07 09 10 14 17 18 19 21 22 23 24 25
+
+-------------------------
+-------------------------
+JOGO 3278
+Números Sorteados: 05 06 07 08 11 12 13 17 18 19 20 21 22 24 25
+Números Repetidos: 07 08 11 13 18 20 21 24 25
+Números Ausentes:  01 02 03 04 09 10 14 15 16 23		
+Repetidos: 9												
+Soma: 228			
+Par/Impar: 7/8
+Miolo: 7
+Repetidos ausente: 
+		
+Sequência: 
+Atrasos:   
+
+primos: 	 6	-> 05 07 11 13 17 19
+fibonacci: 	 4	-> 05 08 13 21
+magico: 	 8	-> 05 06 07 12 13 19 20 21
+TOTAL: 
+
+ seq de 2 : [01f] [03pf] [11p]*** 18-*** [21fm]*** 25-***
+ seq de 3 : 07pm-*** 08f-*** [16]
+ seq de 4 : 09? [10] 13pfm-*** [15]
+ seq de 5 : [20m]***
+ seq de 6 : 24?***
+ seq de 7 :  
+          
+ seq ausente de 2 : 02pf- 04- [05pfm]*** 14m- [19pm]*** 22-***
+ seq ausente de 3 : [06m]*** 23p-
+ seq ausente de 4 : 
+ seq ausente de 5 : [12m]*** [17p]***
+
+     
+- escolhidas:
+[05pfm] [06m] [12m] [17p] [19pm] :: 01f 03pf 10 [11p] 15 16 [20m] {21fm} 
+
+- resultado:
+05 06 07 08 11 12 13 17 18 19 20 21 22 24 25
+
+-------------------------
+-------------------------
+JOGO 3277
+Números Sorteados: 01 03 07 08 09 10 11 13 15 16 18 20 21 24 25
+Números Repetidos: 07 08 09 10 13 15 16 20 24
+Números Ausentes:  02 04 05 06 12 14 17 19 22 23		
+Repetidos: 9											
+Soma: 201			
+Par/Impar: 6/9
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência: 5 4 3333 222 111111
+Atrasos:   44 22 111111
+
+primos: 	 4	-> 03 07 11 13
+fibonacci: 	 5	-> 01 03 08 13 21
+magico: 	 4	-> 07 13 20 21
+TOTAL: 
+
+ seq de 2 : 02pf- [07pm]*** [08f]*** [16]***
+ seq de 3 : [09]*** [10]*** [13pfm]*** 15-*** [22]	
+ seq de 4 : 05pfm- 14m- [19pm] [20m]***
+ seq de 5 : 04- [24]***
+ seq de 6 : 
+ seq de 7 :  
+          
+ seq ausente de 2 : [03pf]*** 06m? [11p]*** 23p-
+ seq ausente de 3 : 01f?*** 25?***	
+ seq ausente de 4 : [12m] [17p] [21fm]***
+ seq ausente de 5 : 18-***
+
+     
+- escolhidas:
+[03pf]*** [11p]*** 12m 17p [21fm]*** :: {07pm}*** [08f]*** [09]*** [10]*** {13pfm}*** [16]*** {19pm} [20m]*** 22 [24]***
+
+- resultado:
+01 03*** 07*** 08*** 09*** 10*** 11*** 13*** 15 16*** 18 20*** 21*** 24*** 25
+
+-------------------------
+-------------------------
+JOGO 3276
+Números Sorteados: 02 04 05 07 08 09 10 13 14 15 16 19 20 22 24
+Números Repetidos: 04 05 09 10 13 14 15 19 20 22 24
+Números Ausentes:  01 03 06 11 12 17 18 21 23 25		
+Repetidos: 11												
+Soma: 188			
+Par/Impar: 9/6
+Miolo: 6
+Repetidos ausente: 
+		
+Sequência: 1 4 3 1 1 2 2 2 3 2 1 3 3 2 4
+Atrasos:   2 1 1 1 3 3 4 3 1 2
+
+primos: 	 5	-> 02 05 07 13 19
+fibonacci: 	 4	-> 02 05 08 13
+magico: 	 6	-> 05 07 13 14 19 20
+TOTAL: 
+
+prox seq de 2 : [06m] 09-*** [10]*** [13pfm]*** [15]*** 22-***
+prox seq de 3 : [03pf] [05pfm]*** 11p- [14m]*** 19pm-*** [20m]***
+prox seq de 4 : [04]*** [24]***
+prox seq de 5 : 
+prox seq de 6 : 23p-
+prox seq de 7 :  
+          
+prox seq ausente de 2 : [01f] 02pf-*** 07pm-*** [08f]*** 16-*** [25]
+prox seq ausente de 3 :	12m- 17p- [21fm]	
+prox seq ausente de 4 : [18]
+prox seq ausente de 6 : 
+
+     
+- escolhidas:
+01f [08f] 18 21fm 25 :: [04] 03pf [05pfm] 06m [10] [13pfm] {14m} [15] {20m} [24]
+
+- resultado:
+02 04 05 07 08 09 10 13 14 15 16 19 20 22 24
+
+-------------------------
+-------------------------
+JOGO 3275
+Números Sorteados: 03 04 05 06 09 10 11 13 14 15 19 20 22 23 24
+Números Repetidos: 03 04 05 11 14 19 20 23 24
+Números Ausentes:  01 02 07 08 12 16 17 18 21 25		
+Repetidos: 9												
+Soma: 198			
+Par/Impar: 7/8
+Miolo: 4
+Repetidos ausente: 
+		
+Sequência: 5 33 222222 111111
+Atrasos:   3 222 111111
+
+primos: 	 6	-> 03 05 11 13 19 23
+fibonacci: 	 3	-> 03 05 13
+magico: 	 6	-> 05 06 13 14 19 20
+TOTAL: 
+
+ seq de 2 : 01f- [03pf]*** 05pfm-*** [11p]*** [14m]*** [19pm]*** 20m-***
+ seq de 3 : [04]*** [24]***
+ seq de 4 : [02pf]
+ seq de 5 : 07pm- [08f] 23p-***
+ seq de 6 : 25-
+ seq de 7 : 
+ seq de 8 : 16?
+          
+ seq ausente de 2 : 06m-*** 10-*** [12m] [15]*** 17p- 21fm [22]***
+ seq ausente de 3 : [13pfm]*** 18 	
+ seq ausente de 4 : [09]***
+ seq ausente de 6 : 
+
+     
+- escolhidas:
+[09] 12m {13pfm} [15] [22] :: 02pf [03pf] [04] {08f} [11p] [14m] [19pm] [24]
+
+- resultado:
+03 04 05 06 09 10 11 13 14 15 19 20 22 23 24
+
+-------------------------
+-------------------------
+JOGO 3274
+Números Sorteados: 01 02 03 04 05 07 08 11 14 16 19 20 23 24 25
+Números Repetidos: 02 04 07 08 16 23 24 25
+Números Ausentes:  06 09 10 12 13 15 17 18 21 22		
+Repetidos: 8												
+Soma: 182			
+Par/Impar: 7/8
+Miolo: 4
+Repetidos ausente: 
+		
+Sequência: 7 5 444 3 22 1111111
+Atrasos:   3 22 1111111
+
+primos: 	 7	-> 02 03 05 07 11 19 23
+fibonacci: 	 5	-> 01 02 03 05 08
+magico: 	 5	-> 05 07 14 19 20
+TOTAL: 
+
+ seq de 2 : 04-*** 12m- [17p] 21fm 24***
+ seq de 3 : 02pf-*** [06m] 22-
+ seq de 4 : [07pm]*** [08f]*** 15- [23p]***
+ seq de 5 : [25]***
+ seq de 6 : 
+ seq de 7 :  16-***
+ seq de 11 : 10- 
+          
+ seq ausente de 2 : 01f-*** [03pf]*** [13pfm] -14m*** [18]
+ seq ausente de 3 : 05pfm-*** [09] [11p]***	
+ seq ausente de 4 : 19pm-***
+ seq ausente de 6 : [20m]***
+
+     
+- escolhidas:
+
+
+- resultado:
+01 02 03 04 05 07 08 11 14 16 19 20 23 24 25
+
+
+-------------------------
+-------------------------
+JOGO 3273
+Números Sorteados: 02 04 06 07 08 10 12 15 16 17 21 22 23 24 25
+Números Repetidos: 02 06 07 08 10 15 16 22 23 25
+Números Ausentes:  01 03 05 09 11 13 14 18 19 20		
+Repetidos: 10												
+Soma: 212			
+Par/Impar: 9/6
+Miolo: 4
+Repetidos ausente: 
+		
+Sequência: 0 2 0 1 0 2 3 3 0 10 0 1 0 0 3 6 1 0 0 0 1 2 3 1 4
+Atrasos:   1 0 1 0 2 0 0 0 2 0 2 0 1 1 0 0 0 1 3 5
+
+primos: 	 4	-> 02 07 17 23
+fibonacci: 	 3	-> 02 08 21
+magico: 	 4	-> 06 07 12 21
+TOTAL: 
+
+ seq de 2 : 02pf-*** [03pf] [06m]*** 14m- 22-***
+ seq de 3 : [13pfm] 15-*** 23p-***	
+ seq de 4 : [01f] [07pm]*** [08f]***
+ seq de 5 : [25]***
+ seq de 6 : 16-***
+ seq de 6 : [18]
+ seq de 10 : 10-***
+          
+ seq ausente de 2 : [04]*** [05pfm] 09- [11p] 21fm-***
+ seq ausente de 3 : 12m?*** [17p]*** [19pm]	
+ seq ausente de 4 : [24]***
+da seq ausente de 5 : [20m]
+     
+- escolhidas:
+[04] 05pfm 11p {17p} 19pm [24] 20m :: 01f 03pf [06m] {07pm} [08f] {13pfm} 18 [25]
+
+- resultado:
+02 04 06 07 08 10 12 15 16 17 21 22 23 24 25
+
+
+-------------------------
+-------------------------
+JOGO 3272
+Números Sorteados: 01 02 03 06 07 08 10 13 14 15 16 18 22 23 25
+Números Repetidos: 01 07 08 10 13 15 16 18 23 25
+Números Ausentes:  04 05 09 11 12 17 19 20 21 24		
+Repetidos: 10												
+Soma: 183			
+Par/Impar: 8/7
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência: 3 1 1 0 0 1 2 2 0 9 0 0 2 1 2 5 0 6 0 0 0 1 2 0 3
+Atrasos:   0 0 0 1 1 0 0 0 1 0 1 2 0 0 0 0 2 0 2 4 1 0 0 3 0
+
+primos: 	 5	-> 02 03 07 13 23
+fibonacci: 	 5	-> 01 02 03 08 13
+magico: 	 4	-> 06 07 13 14
+TOTAL: 
+
+ seq de 2 : [04] [07pm]*** 08f-*** [11p] [13pfm]*** [15]*** 21fm? [23p]***
+ seq de 3 : [01f]*** [09] 25?***	
+ seq de 4 : 05pfm-
+ seq de 5 : 16?***
+ seq de 6 : [18]***
+ seq de 9 : 10-***
+          
+ seq ausente de 2 : [02pf]*** [03pf]*** 06m-*** 12m- [14m]*** 17p- 19pm- [22]***
+ seq ausente de 3 : 24-	
+ seq ausente de 4 : [20m]
+ seq ausente de 5 : 
+     
+- escolhidas:
+[02pf] [03pf] [14m] 20m [22] :: [01f] 04 [07pm] 09 {11p} [13pfm] [15] [18] {23p}
+
+- resultado:
+
+01 02 03 06 07 08 10 13 14 15 16 18 22 23 25
+
+
+-------------------------
+-------------------------
+JOGO 3271
+Números Sorteados: 01 04 05 07 08 09 10 11 13 15 16 18 21 23 25
+Números Repetidos: 01 05 09 10 16 18 25
+Números Ausentes:  02 03 06 12 14 17 19 20 22 24		
+Repetidos: 7												
+Soma: 186			
+Par/Impar: 5/10
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência: 2 0 0 1 3 0 1 1 2 8 1 0 1 0 1 4 0 5 0 0 1 0 1 0 2
+Atrasos:   0 1 1 0 0 1 0 0 0 0 0 1 0 1 0 0 1 0 1 3 0 1 0 2 0
+
+primos: 	 5	-> 05 07 11 13 23
+fibonacci: 	 5	-> 01 05 08 13 21
+magico: 	 4	-> 05 07 13 21
+TOTAL: 
+
+ seq de 2 : [01f]***  [03pf] [06m] [09]***  [17p] 22- [25]*** 
+ seq de 3 : 05pfm-***  [19pm]	
+ seq de 4 : [02pf] 12m? [14m]***  16-*** 
+ seq de 5 : [18]*** 
+ seq de 6 : 
+ seq de 8 : 10-*** 
+          
+ seq ausente de 2 : 04-***  [07pm]***  [08f]***  11p-***  [21fm]***  23p-***  [24]
+ seq ausente de 3 :[20m]	
+ seq ausente de 4 : 13pfm-***  [15]*** 
+ seq ausente de 5 : 
+     
+- escolhidas:
+[07pm] [15] 20m [21fm] 24 :: [01f] 03pf 06m [09] 17p [18] [25]
+
+- resultado:
+01 04 05 07 08 09 10 11 13 15 16 18 21 23 25
+
+
+-------------------------
+-------------------------
+JOGO 3270
+Números Sorteados: 01 02 03 05 06 09 10 12 14 16 17 18 19 22 25
+Números Repetidos: 02 05 10 12 14 16 18 19
+Números Ausentes:  04 07 08 11 13 15 20 21 23 24		
+Repetidos: 8												
+Soma: 179			
+Par/Impar: 8/7
+Miolo: 6
+Repetidos ausente: 
+		
+Sequência: 1 3 1 0 2 1 0 0 1 7 0 3 0 3 0 3 1 4 2 0 0 1 0 0 1
+Atrasos:   0 0 0 1 0 0 1 1 0 0 1 0 3 0 3 0 0 0 0 2 1 0 1 1 0 
+
+primos: 	 5	-> 02 03 05 17 19
+fibonacci: 	 4	-> 01 02 03 05
+magico: 	 5	-> 05 06 12 14 19
+TOTAL: 
+
+prox seq de 2 : 04? 05pfm-*** [08f] [19pm]*** 21fm?
+prox seq de 3 : [02pf]*** [07pm] 12m-*** [14m]*** 16-***	
+prox seq de 4 : [18]*** 24-
+prox seq de 5 : [11p]
+prox seq de 6 : 
+prox seq de 7 : 10-*** [23p]
+          
+prox seq ausente de 2 : 01f-*** [06m]*** 17p-*** [20m] [25]***
+prox seq ausente de 3 :	[03pf]*** 13pfm- [15] [22]***	
+prox seq ausente de 4 : 09-***
+prox seq ausente de 5 : 
+     
+- escolhidas:
+[03pf] [06m] 15 20m [22] [25] :: [02pf] {07pm} 08f 11p [14m] [18] {19pm} 23p
+
+- resultado:
+
+01 02 03 05 06 09 10 12 14 16 17 18 19 22 25
+
+-------------------------
+-------------------------
+JOGO 3269
+Números Sorteados: 02 04 05 07 08 10 11 12 14 16 18 19 21 23 24
+Números Repetidos: 02 07 10 11 12 14 16 18 23 24
+Números Ausentes:  01 03 06 09 13 15 17 20 22 25		
+Repetidos: 10												
+Soma: 194			
+Par/Impar: 9/6
+Miolo: 6
+Repetidos ausente: 
+		
+Sequência: 2 1 1 2 1 6 4 2 2 2 3 1 1 6 3
+Atrasos:   1 2 1 3 2 2 1 1 2 1 
+
+primos: 	 5	-> 02 05 07 11 19 23
+fibonacci: 	 4	-> 02 05 08 21
+magico: 	 5	-> 05 07 12 14 19 21
+TOTAL: 
+
+ seq de 2 : [02pf]*** 06m- 07pm-*** [12m]*** [14m]*** [16]*** 17p 25	
+ seq de 3 : 18*** 24***
+ seq de 4 : [01f] 11p-***
+ seq de 5 : 
+ seq de 6 : [10]*** 23p***
+ seq de 8 : 20m
+          
+ seq ausente de 2 : 03pf- 04-*** [05pfm]*** 08f-*** [13pfm] 15- [19pm]*** [22]
+ seq ausente de 3 : [09]
+ seq ausente de 4 : 
+ seq ausente de 5 : [21fm]***
+     
+- escolhidas:
+[05pfm] 09 13pfm [19pm] [21fm] 22 :: 01f [02pf] [10] {12m} {14m} [16] 17p 20m [24]
+
+
+- resultado:
+02*** 04 05*** 07 08 10*** 11 12 14 16*** 18 19*** 21*** 23 24***
+
+-------------------------
+
+-------------------------
+-------------------------
+JOGO 3268
+Números Sorteados: 01 02 06 07 10 11 12 14 16 17 18 20 23 24 25
+Números Repetidos: 01 10 11 18 20 23 24
+Números Ausentes:  03 04 05 08 09 13 15 19 21 22		
+Repetidos: 7												
+Soma: 206			
+Par/Impar: 9/6
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência: 3 1 1 1 5 3 1 1 1 1 2 7 5 2 1 
+Atrasos:   1 1 1 1 2 1 1 1 4 1 
+
+primos: 	 5	-> 02 07 11 17 23
+fibonacci: 	 2	-> 01 02
+magico: 	 5	-> 06 07 12 14 20
+TOTAL: 
+
+ seq de 2 : [08f] [15] [18]*** 19pm [22] [24]***
+ seq de 3 : [01f]*** 04- [11p]*** 
+ seq de 4 : 
+ seq de 5 : 03pf- [05pfm] [10]*** 23p-***
+ seq de 6 : 
+ seq de 7 : 13pfm- [20m]***
+          
+ seq ausente de 2 : [06m]*** 09 [12m]*** 14m*** [16]*** 17p***
+ seq ausente de 3 : 02pf*** 07pm***
+ seq ausente de 4 : [21fm] [25]***
+ seq ausente de 5 : 
+     
+- escolhidas:
+[06m] [12m] [16] 21fm [25] :: [01f] 05pfm 08f [10] [11p] 15 [18] [20m] 22 
+
+
+- resultado:
+01 02 06 07 10 11 12 14 16 17 18 20 23 24 25
+-------------------------
+
+-------------------------
+-------------------------
+JOGO 3267
+Números Sorteados: 01 03 04 05 08 10 11 13 15 18 19 20 22 23 24
+Números Repetidos: 01 03 04 05 10 11 13 20 23
+Números Ausentes:  02 06 07 09 12 14 16 17 21 25		
+Repetidos: 9												
+Soma: 196			
+Par/Impar: 7/8
+Miolo: 4
+Repetidos ausente: 
+		
+Sequência: 2 0 4 2 4 0 0 1 0 4 2 0 6 0 1 0 0 1 1 6 0 1 4 1 0 
+Atrasos:   0 2 0 0 0 1 2 0 1 0 0 1 0 1 0 1 1 0 0 0 3 0 0 0 3
+
+primos: 	 6	-> 03 05 11 13 19 23
+fibonacci: 	 5	-> 01 03 05 08 13 
+magico: 	 4	-> 05 13 19 20
+TOTAL: 
+
+ seq de 2 : [01f]*** 04-*** [09] [11p]*** [12m] 14m-
+ seq de 3 : [17p]
+ seq de 4 : [03pf]*** [05pfm]*** 10-*** [23p]***
+ seq de 5 : [16]
+ seq de 6 : 13pfm-*** 20-***
+ seq de 8 : 06m-
+          
+ seq ausente de 2 : 02pf- [07pm] [08f]*** [15]*** 19pm-*** [24]***	 
+ seq ausente de 3 : [21fm] 25-
+ seq ausente de 4 : [22]***
+ seq ausente de 5 : 18-***
+     
+- escolhidas:
+07pm [08f] [15] 21fm {22} [24]:: [01f] [03pf] [05pfm] 09 [11p] 12m 16 {17p} [23p]
+
+
+- resultado:
+01 03 04 05 08 10 11 13 15 18 19 20 22 23 24
+
+-------------------------
+-------------------------
+JOGO 3266
+Números Sorteados: 01 03 04 05 06 09 10 11 12 13 14 16 17 20 23
+Números Repetidos: 03 05 06 10 13 16 17 20 23
+Números Ausentes:  02 07 08 15 18 19 21 22 24 25		
+Repetidos: 9												
+Soma: 164			
+Par/Impar: 7/8
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência: 1 3 1 3 8 1 3 1 1 5 1 4 2 5 3 
+Atrasos:   1 1 1 1 4 1 2 3 1 2
+
+primos: 	 6	-> 03 05 11 13 17 23 
+fibonacci: 	 4	-> 01 03 05 13 
+magico: 	 6	-> 05 06 12 13 14 20 
+TOTAL: 
+
+ seq de 2 : [02pf] 08f- 15- [17p]*** [19pm] [24]
+ seq de 3 : 03pf-*** [05pfm]*** [07pm] [10]*** 23p-***
+ seq de 4 : [16]***
+ seq de 5 : [13pfm]*** 20m?***
+ seq de 6 : 
+ seq de 8 : 06m-***
+          
+ seq ausente de 2 : 04-*** 09-*** 11p-*** [14m]*** 21fm- [25]	 
+ seq ausente de 3 : [22]
+ seq ausente de 4 : [01f]*** [12m]*** 18-
+     
+- escolhidas:
+[01f] [12m] [14m] 22 25 :: 02pf [05pfm] 07pm [10] {13pfm} [16] [17p] {19pm} 24
+
+
+- resultado:
+01 03 04 05 06 09 10 11 12 13 14 16 17 20 23
+
+-------------------------
+-------------------------
+JOGO 3265
+Números Sorteados: 02 03 05 06 07 08 10 13 15 16 17 19 20 23 24
+Números Repetidos: 03 05 06 07 10 13 16 20 23
+Números Ausentes:  01 04 09 11 12 14 18 21 22 25		
+Repetidos: 9											
+Soma: 188			
+Par/Impar: 7/8
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência:  7 44 3 22222 111111
+Atrasos:   333 2 111111
+
+primos: 	 8	->  02 03 05 07 13 17 19 23
+fibonacci: 	 5	->  02 03 05 08 13
+magico: 	 7	->  05 06 07 13 19 20
+TOTAL: 
+
+ seq de 2 : 03pf-*** [05pfm]*** [07pm]*** [09] 10-*** 23p-*** 25
+ seq de 3 : 04 [11p] [16]*** 21fm
+ seq de 4 : [13pfm]*** [20m]***
+ seq de 5 : 
+ seq de 6 : 
+ seq de 7 : [06m]*** 14m-
+          
+ seq ausente de 2 : [02pf]*** 08f-*** 15-*** 17p-*** [19pm]*** [22] [24]***	 
+ seq ausente de 3 : [01f] [12m] 18-
+ seq ausente de 4 :
+     
+- escolhidas:
+01f [02pf] 12m [19pm] 22 [24] :: [05pfm] [06m] {07pm} 09 11p {13pfm} [16] [20m]
+
+
+- resultado:
+02 03 05 06 07 08 10 13 15 16 17 19 20 23 24
+-------------------------
+-------------------------
+JOGO 3264
+Números Sorteados: 03 04 05 06 07 09 10 11 13 14 16 20 21 23 25isso
+Números Repetidos: 04 06 11 13 14 16 20 21
+Números Ausentes:  01 02 08 12 15 17 18 19 22 24		
+Repetidos: 8												
+Soma: 187			
+Par/Impar: 6/9
+Miolo: 4
+Repetidos ausente: 
+		
+Sequência:    
+Atrasos:    
+
+primos: 	 6	->  03 05 07 11 13 23
+fibonacci: 	 4	->  03 05 13 21
+magico: 	 7	->  05 06 07 13 14 20 21
+TOTAL: 
+
+ seq de 2 : [02pf] [04]*** 11p*** 16*** 17p [21fm]*** [22]
+ seq de 3 : [13pfm]*** 19pm [20m]***
+ seq de 4 : [08f]
+ seq de 5 : 24
+ seq de 6 : 06m*** 14m*** 15
+ seq de 7 :  
+          
+ seq ausente de 2 : 01f 03pf*** [07pm]*** 09*** 10*** [12m] [18]	 
+ seq ausente de 3 : [05pfm]*** [23p]*** 25***
+ seq ausente de 4 :
+          
+- escolhidas:
+   
+[05pfm] [07pm] 12m 18 [23p] :: 02pf [04] 08f [13pfm] [20m] [21fm] 22
+
+- resultado:
+03 04 05 06 07 09 10 11 13 14 16 20 21 23 25
+-------------------------
+-------------------------
+JOGO 3263
+Números Sorteados: 02 04 06 08 11 13 14 15 16 17 19 20 21 22 24
+Números Repetidos: 06 08 13 14 15 19 20 24
+Números Ausentes:  01 03 05 07 09 10 12 18 23 25		
+Repetidos: 8												
+Soma: 212			
+Par/Impar: 9/6
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência: 555 4 3 222 1111111   
+Atrasos:   3 22 1111111 
+
+primos: 	 5	->  02 11 13 17 19
+fibonacci: 	 4	->  02 08 13 21
+magico: 	 6	->  06 13 14 19 20 21
+TOTAL: 
+
+ seq de 2 : 01f- 09 [13pfm]*** [18] 19pm-*** [20m]***
+ seq de 3 : [03pf] 07pm- [08f]*** 10- [12m]
+ seq de 4 : 24-***
+ seq de 5 : [06m]*** [14m]*** 15-***
+ seq de 6 : 
+ seq de 7 :  
+          
+ seq ausente de 2 : [04]*** 05pfm- 11p-*** [16]*** 21fm-*** [25] 
+ seq ausente de 3 : [02pf]*** [17p]*** [22]*** 23p-
+ seq ausente de 4 : 
+ seq ausente de 6 :   
+               
+- escolhidas:
+[02pf] [04] [16] [17p] [22] -{25} :: 03pf [06m] [08f] 12m [13pfm] [14m] 18 [20m]
+
+- resultado:
+02 04 06 08 11 13 14 15 16 17 19 20 21 22 24
+-------------------------
+-------------------------
+JOGO 3262
+Números Sorteados: 03 04 05 06 07 08 10 11 12 14 15 16 21 24 25
+Números Repetidos: 03 06 07 08 10 12 14 15 24
+Números Ausentes:  02 04 05 11 16 17 21 22 23 25		
+Repetidos: 9															
+Soma: 179			
+Par/Impar: 8/7
+Miolo: 4
+Repetidos ausente: 
+		
+Sequência:  444 3 22222 111111 
+Atrasos:    2222 111111
+
+primos: 	 4	->  03 07 13 19
+fibonacci: 	 4	->  01 03 08 13
+magico: 	 7	->  06 07 12 13 14 19 20
+TOTAL: 
+
+ seq de 2 : 03pf?*** [05pfm] 07pm-*** [08f]*** 10-*** [12m]***
+ seq de 3 : [16] 21fm- [24]
+ seq de 4 : [06m]*** [14m]*** 15-***
+ seq de 5 : 04-
+ seq de 6 : [25]
+ seq de 7 : 11p- 
+          
+ seq ausente de 2 : [01f]*** 02pf- 17p- 18-*** 22- [23p]
+ seq ausente de 3 : 09-***
+ seq ausente de 4 : [13pfm]*** [19pm]*** [20m]***
+ seq ausente de 6 : 
+        
+
+- escolhidas:
+[01f] [13pfm] [19pm] [20m] 23p :: 05pfm [06m] [08f] [12m] {14m} 16 [24] 25
+
+- resultado:
+03 04 05 06 07 08 10 11 12 14 15 16 21 24 25
+-------------------------
+-------------------------
+JOGO 3261
+Números Sorteados: 03 04 05 06 07 08 10 11 12 14 15 16 21 24 25
+Números Repetidos: 04 06 11 14 15 16 21 24 25
+Números Ausentes:  01 02 09 13 17 18 19 20 22 23		
+Repetidos: 9																	
+Soma: 181			
+Par/Impar: 8/7 
+Miolo: 4
+Repetidos ausente: 
+		
+Sequência: 6 5 4 333 222 111111
+Atrasos:   333 2 111111
+
+primos: 	 4	->  03 05 07 11
+fibonacci: 	 4	->  03 05 08 21
+magico: 	 6	->  05 06 07 12 14 21
+TOTAL: 
+
+ seq de 2 : [02pf] [16]*** 17p- [21fm]*** 24***
+ seq de 3 : [01f] [06m]*** 14m-*** [15]*** 18- 22-
+ seq de 4 : [04]*** [23p] 
+ seq de 5 : 25-***
+ seq de 6 : 11p-*** 23p
+ seq de 7 :  
+          
+ seq ausente de 2 : 03pf-*** [08f]*** 09- 10- [12m]***
+ seq ausente de 3 : [05pfm]*** 07pm-*** [13pfm] [19pm] 20m-	
+ seq ausente de 4 : 
+ seq ausente de 6 : 
+        
+
+- escolhidas:
+[05pfm] [08f] [12m] 13pfm 19pm :: 01f 02pf [04] [06m] [15] [16] [21fm] 23p
+
+- resultado:
+03 04 05 06 07 08 10 11 12 14 15 16 21 24 25
+-------------------------
+-------------------------
+JOGO 3260
+Números Sorteados: 01 02 04 06 11 14 15 16 17 18 21 22 23 24 25
+Números Repetidos: 01 04 06 11 14 15 18 22 23 25
+Números Ausentes:  03 05 07 08 09 10 12 13 19 20		
+Repetidos: 10															
+Soma: 219			
+Par/Impar: 8/7 
+Miolo: 3
+Repetidos ausente: 
+		
+Sequência: 5 4 33 222222 11111
+Atrasos:   22222 11111 
+
+primos: 	 4	-> 02 11 17 23 
+fibonacci: 	 3	-> 01 02 21 
+magico: 	 3	-> 06 14 21 
+TOTAL: 
+
+ seq de 2 : [01f]*** [06m]*** 08f- 14m*** [15]*** 18-*** [22]*** 23p***
+ seq de 3 : [04]*** [12m] 23-***
+ seq de 4 : [25]***
+ seq de 5 : [03pf] 11p-***
+ seq de 6 : 09-
+ seq de 7 : [10] 
+          
+ seq ausente de 2 : 02pf*** [05pfm] 07pm [13pfm] 19pm- [20m] 21fm***
+ seq ausente de 3 : [16]***
+ seq ausente de 4 : 24***
+ seq ausente de 6 : [17p]***
+        
+
+- escolhidas:
+05pfm 13pfm [16] [17p] 20m :: [01f] 03pf [04] [06m] 10 12m {15} [22] [25]
+
+- resultado:
+01 02 04 06 11 14 15 16 17 18 21 22 23 24 25
+-------------------------
+-------------------------
+JOGO 3259
+Números Sorteados: 01 03 04 06 08 09 10 11 12 14 15 18 22 23 25
+Números Repetidos: 03 04 09 10 11 12 23 25
+Números Ausentes:  02 05 07 13 16 17 19 20 21 24		
+Repetidos: 8													
+Soma: 181			
+Par/Impar: 8/7 
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência: 5 3 2 1111111
+Atrasos:   5 6 44 3 222 1111111
+
+primos: 	 3	->  03 11 23
+fibonacci: 	 3	->  01 03 08
+magico: 	 3	->  06 12 14
+TOTAL: 
+
+ seq de 2 : [04]*** 07pm 12m*** [20m] 21fm? [23p]***
+ seq de 3 : [05pfm] 25-***
+ seq de 4 : [03pf]*** 11p*** 13pfm
+ seq de 5 : 02pf- 09***
+ seq de 6 : 10 ***
+ seq de 7 : 19pm
+          
+ seq ausente de 2 : 01f-*** [06m]*** 08f-*** 14m-*** [16] 22-*** 
+ seq ausente de 3 : [15]*** [18]*** 24-
+ seq ausente de 5 : [17p]
+
+
+- escolhidas:
+[06m] [15] 16 17p [18] :: [03pf] [04] 05pfm [10] [11p] [12m] 19pm 20m [23p]
+
+- resultado:
+01 03 04 06 08 09 10 11 12 14 15 18 22 23 25
+-------------------------
+-------------------------
+JOGO 3258
+Números Sorteados: 02 03 04 05 07 09 10 11 12 13 19 20 21 23 25
+Números Repetidos: 02 03 05 09 10 11 13 19 25
+Números Ausentes:  01 06 08 14 15 16 17 18 22 24		
+Repetidos: 9												
+Soma: 184 		
+Par/Impar: 5/10
+Miolo: 5
+Repetidos ausente: 
+		
+Sequência: 6 5 44 333 22 111111
+Atrasos:   4 222 111111 
+
+primos: 	 8	-> 02 03 05 07 11 13 19 23
+fibonacci: 	 5	-> 02 03 05 13 21
+magico: 	 7	-> 05 07 12 13 19 20 21
+TOTAL: 
+
+ de 1:   (mínimo de 5)
+
+ seq de 2 : 05pfm*** [08f] [22] [25]***
+ seq de 3 : [03pf]*** [11p]*** 13pfm*** 14m
+ seq de 4 : [01f] 02pf*** 09***
+ seq de 5 : [06m] 10*** 16
+ seq de 6 : [19pm]***
+          
+ seq ausente de 2 : [15] 18- 21fm*** [24]	 
+ seq ausente de 3 : 07pm*** [12m]*** [20m]***
+ seq ausente de 4 : [04]*** 17p
+ seq ausente de 5 : 23p***
+            
+
+- escolhidas:
+[04] [12m] 15 [20m] 24 :: 01f [03pf] 06m 08f [11p] [19pm] 22 [25]
+
+- resultado:
+02 03 04 05 07 09 10 11 12 13 19 20 21 23 25
+-------------------------
+-------------------------
+JOGO 3257
+Números Sorteados: 01 02 03 05 06 08 09 10 11 13 14 16 19 22 25
+Números Repetidos: 01 02 03 06 09 10 11 13 14 16 19
+Números Ausentes:  04 07 12 15 17 18 20 21 23 24		
+Repetidos: 11												
+Soma: 164 		
+Par/Impar: 7/8
+Miolo: 5
+Repetidos ausente: 4
+		
+Sequência: 5 444 333 2222 1111
+Atrasos:   4 33 222 1111
+
+primos: 	 6	-> 02 03 05 11 13 19
+fibonacci: 	 6	-> 01 02 03 05 08 13
+magico: 	 5	-> 05 06 13 14 19
+TOTAL: 
+
+ de 1:  04 [05pfm] 07pm 08f [12m] 17p [20m] [22] [23p] 25 (mínimo de 5)
+
+ seq de 2 : 03pf-*** 11p-*** [13pfm]*** [14m]*** [15] 18-
+ seq de 3 : [01f]*** [02pf]*** 09-***
+ seq de 4 : [06m]*** [10]*** 16-***
+ seq de 5 : [19pm]***
+ seq de 6 : 24
+ seq de 8 : 21fm
+          
+ seq ausente de 2 : [05pfm]*** 07pm- 08f-*** [12m] [20m] 25-***	 
+ seq ausente de 3 : 04- 17p [22]***
+ seq ausente de 4 : 23p
+      
+
+- escolhidas:
+[05pfm] 12m 20m [22] {23p} :: [01f] [02pf] [06m] [10] [13pfm] [14m] 15 [19pm]
+
+- resultado:
+01 02 03 05 06 08 09 10 11 13 14 16 19 22 25
+
+-------------------------
+-------------------------
+JOGO 3256
+Números Sorteados: 01 02 03 06 09 10 11 13 14 15 16 18 19 21 24
+Números Repetidos: 01 02 06 09 10 16 19 21 24	
+Números Ausentes:  04 05 07 08 12 17 20 22 23 25		
+Repetidos: 9												
+Soma: 182 		
+Par/Impar: 7/8
+Miolo: 5
+		
+Sequência: 6 5 4 333 222 111111 
+Atrasos:   3 222 111111 
+
+primos: 	 5	-> 02 03 11 13 19
+fibonacci: 	 5	-> 01 02 03 13 21
+magico: 	 5	-> 06 13 14 19 21
+TOTAL: 
+
+ de 1:  (escolher 5)
+
+ seq de 2 : [01f]*** [02pf]*** [09]*** 12m- 20m 25
+ seq de 3 : [05pfm] [06m]*** 07pm- 08f [10]*** 16***
+ seq de 4 : [19pm]*** [21fm]*** [24]***
+          
+ seq ausente de 2 : 03pf-*** [04] 11p-*** [17p] 18*** 22	
+ seq ausente de 3 : 13pfm-*** [15]*** 23p
+ seq ausente de 4 : [14m]***
+
+
+- escolhidas:
+04 {14m} [15] 17p :: [01f] [02pf] 05pfm [06m] [09] [10] [19pm] [21fm] [24]
+
+- resultado:
+01 02 03 06 09 10 11 13 14 15 16 18 19 21 24
+
+-------------------------
+-------------------------
+JOGO 3255
+Números Sorteados: 01 02 05 06 07 08 09 10 12 16 19 20 21 24 25
+Números Repetidos: 05 06 07 08 10 16 19 21 24	
+Números Ausentes:  03 04 11 13 14 15 17 18 22 23		
+Repetidos: 9												
+Soma: 185 		
+Par/Impar: 8/7
+Miolo: 5
+		
+Sequência: 5 4 3 222222 111111
+Atrasos:   3 222 111111
+
+primos: 	 4	-> 02 05 07 19
+fibonacci: 	 5	-> 01 02 05 08 21
+magico: 	 7	-> 05 06 07 12 19 20 21
+TOTAL: 
+
+ de 1: 01f [02pf] [09] [12m] 13pfm 14m 15 [20m] 23p [25] (escolher 5)
+
+ seq de 2 : [04] [05pfm]*** 06m*** 07pm*** [08f]*** [10]*** 16*** 22
+ seq de 3 : 03pf [19pm]***
+ seq de 4 : [11p] 24***
+ seq de 5 : [17p] [18] 21fm-***
+          
+ seq ausente de 2 : 01f-*** [09]*** [12m]*** 13pfm- 15- [20m]*** 23p- [25]***
+ seq ausente de 3 : 14m
+ seq ausente de 4 : [02pf]***
+
+
+- escolhidas:
+[02pf] [09] [12m] [20m] [25] :: 04 [05pfm] [08f] [10] 11p {17p} 18 [19pm]
+
+- resultado:
+01 02 05 06 07 08 09 10 12 16 19 20 21 24 25
+
+-------------------------
+-------------------------
+JOGO 3254
+Números Sorteados: 03 04 05 06 07 08 10 11 16 17 18 19 21 22 24
+Números Repetidos: 03 11 17 18 19 21 24		
+Números Ausentes:  01 02 09 12 13 14 15 20 23 25		
+Repetidos: 7												
+Soma: 191 		
+Par/Impar: 8/7
+Miolo: 5
+		
+Sequência: 444 33 22 11111111 
+Atrasos:   3 2 11111111   
+
+primos: 	 6	-> 03 05 07 11 17 19
+fibonacci: 	 4	-> 03 05 08 21
+magico: 	 5	-> 05 06 07 19 21
+TOTAL: 10
+
+ de 1: [02pf] [04] 05pfm 06m 07pm 08f [10] 14m [16] [22] 	(escolher 5)
+
+ seq de 2 : 01f- [03pf]*** 09 [13pfm] [19pm]***
+ seq de 3 : [11p]*** 12m 15 24*** 25 
+ seq de 4 : 17p*** [18]*** [20m] [21fm]***
+ seq de 5 : [23p]
+          
+ seq ausente de 2 : 05pfm-*** 08f-*** [10]*** 14m- [16]***
+ seq ausente de 3 : [02pf] 06m-*** 07pm-***
+ seq ausente de 4 : [04]*** [22]***
+
+
+- escolhidas:
+02pf [04] [10] [16] [22] :: [03pf] [11p] 13pfm [18] [19pm] 20m [21fm] 23p
+
+- resultado:
+03 04 05 06 07 08 10 11 16 17 18 19 21 22 24
+
+-------------------------
+-------------------------
+JOGO 3253
+Números Sorteados: 01 03 09 11 12 13 15 17 18 19 20 21 23 24 25
+Números Repetidos: 11 12 15 17 18 20 21 23 24 25		
+Números Ausentes:  02 04 05 06 07 08 10 14 16 22		
+Repetidos: 10												
+Soma: 231		
+Par/Impar: 4/11
+Miolo: 6
+		
+Sequência: 4 3333 22222 11111
+Atrasos:   33 222 11111   
+
+primos: 	 6	-> 03 11 13 17 19 23
+fibonacci: 	 4	-> 01 03 13 21
+magico: 	 5	-> 12 13 19 20 21
+TOTAL: 11
+
+ de 1:  01 02 03 04 06 07 09 13 19 22 	(escolher 4)
+
+ seq de 2 : [05pfm] 11p-*** [12m]*** 14m- [15]*** [24]*** 25-*** 
+ seq de 3 : [16] [17p]*** 18?*** 20m-*** [21fm]***
+ seq de 4 : [23p]***
+ seq de 5 : 
+ seq de 8 : 08f- [10]
+          
+ seq ausente de 2 : 01f-*** [02pf] 03pf-*** 06m- [07pm] 09-*** [19pm]
+ seq ausente de 3 : 04- 13pfm*** [22]
+ seq ausente de 4 : 
+ seq ausente de 5 : 
+ seq ausente de 6 : 
+
+- escolhidas:
+02pf 07pm [19pm] 22 :: 05pfm 10 [12m] [15] 16 -{17p} [21fm] [23p] [24]
+
+- resultado:
+01 03 09 11 12*** 13 15*** 17 18 19*** 20 21*** 23*** 24*** 25
+
+-------------------------
+-------------------------
+JOGO 3252
+Números Sorteados: 05 08 10 11 12 14 15 16 17 18 20 21 23 24 25
+Números Repetidos: 08 10 16 17 18 20 21 23		
+Números Ausentes:  01 02 03 04 06 07 09 13 19 22		
+Repetidos: 8															
+Soma: 239		
+Par/Impar: 8/7
+Miolo: 5
+		
+Sequência: 10 77 3 22222 11111111
+Atrasos:   222 1111111   
+
+primos: 	 4	-> 05 11 17 23
+fibonacci: 	 3	-> 05 08 21
+magico: 	 5	-> 05 12 14 20 21
+TOTAL: 11
+
+ de 1: 04 05pfm 11p 12m 13pfm 14m 15 22 24 25 (escolher 4)
+
+ seq de 2 : 06m- [16] [17p] 18- [20m] 21fm
+ seq de 3 : 02pf- [09] [19pm] 23p-
+ seq de 4 : [07pm]
+ seq de 5 : [01f] 03pf?
+ seq de 7 : [08f] 10-
+          
+ seq ausente de 2 : 04- 11p- [12m] 13pfm- 14m- [22]
+ seq ausente de 3 : [05pfm]
+ seq ausente de 4 : 25
+ seq ausente de 5 : [15]
+ seq ausente de 6 : 24
+
+
+- escolhidas:
+[05pfm] [12m] [15] 22 :: 01f 07pm [08f] 09 [16] [17p] 19pm [20m] [21fm]
+
+- resultado:
+[05] [08] 10 11 [12] 14 [15] [16] [17] 18 [20] [21] 23 24 25
+-------------------------
+-------------------------
+JOGO 3251
+Números Sorteados: 01 02 03 06 07 08 09 10 16 17 18 19 20 21 23
+Números Repetidos: 01 02 03 07 08 09 10 19 23	
+Números Ausentes:  04 05 11 12 13 14 15 22 24 25		
+Repetidos: 9													
+Soma: 180		
+Par/Impar: 7/8 
+Miolo: 6
+		
+Sequência: 66 44 3 2222 111111
+Atrasos:   5 4 3 2 111111
+
+primos: 	 6	-> 02 03 07 17 19 23
+fibonacci: 	 5	-> 01 02 03 08 21
+magico: 	 5	-> 06 07 19 20 21
+TOTAL: 11
+
+ de 1: 	05pfm [06m]*** 15 [16]*** [17p]*** 18*** 20m*** 21fm-*** [24] 25
+
+ seq de 2 : [02pf]*** [04] 09-*** [19pm]*** 23p-***
+ seq de 3 : 07pm-*** [13pfm] [22]	
+ seq de 4 : [01f]*** 03pf***		
+ seq de 5 : 11p [12m]
+ seq de 6 : 08f*** 10*** 14 
+          
+ seq ausente de 2 : 05pfm [06m]*** [16]*** 20m*** 21fm-***
+ seq ausente de 3 : 18-*** [25]
+ seq ausente de 4 : 15
+ seq ausente de 5 : [24]
+ seq ausente de 7 : [17p]***
+
+- escolhidas:
+[04] 15 17p [19pm] 24 :: [01f] [03pf] [10] [13pfm] 16 20m 21fm
+
+- resultado:
+01 02 03 04 07 08 09 10 11 12 13 14 19 22 23
+-------------------------
+-------------------------
+JOGO 3250
+Números Sorteados: 01 02 03 04 07 08 09 10 11 12 13 14 19 22 23
+Números Repetidos: 01 03 07 08 10 11 12 13 14 22	
+Números Ausentes:  05 06 15 16 17 18 20 21 24 25		
+Repetidos: 10														
+Soma: 158		
+Par/Impar: 7/8 
+Miolo: 7
+		
+Sequência: 555 44 33 222 11111
+Atrasos:   6 4 3 22 11111
+
+primos: 	 7	-> 02 03 07 11 13 19 23
+fibonacci: 	 5	-> 01 02 03 08 13
+magico: 	 5	-> 07 12 13 14 19
+TOTAL: 11
+
+ seq de 2 : 07pm*** [13pfm]*** [21fm] 22***	
+ seq de 3 : [01f]*** [03pf]*** 05pfm [20m]	
+ seq de 4 : 11p*** [12m]***		
+ seq de 5 : 08f*** [10]*** 14m*** [16]
+ seq de 6 : 
+ seq de 7 : 06m 
+            
+ seq ausente de 2 : [04]*** 18 [19pm]*** 25
+ seq ausente de 3 : 02pf*** [15] 23pV
+ seq ausente de 4 : [24]
+ seq ausente de 5 : 09***
+ seq ausente de 6 : [17p]
+
+
+- escolhidas:
+[04] 15 17p [19pm] 24 :: [01f] [03pf] [10] [13pfm] 16 20m 21fm
+
+- resultado:
+01 02 03 04 07 08 09 10 11 12 13 14 19 22 23
+-------------------------
+-------------------------
+JOGO 3249
+Números Sorteados: 01 03 05 06 07 08 10 11 12 13 14 16 20 21 22
+Números Repetidos: 01 03 05 06 08 10 11 12 14 16 20	
+Números Ausentes:  02 04 09 15 17 18 19 23 24 25 		
+Repetidos: 11												
+Soma: 169		
+Par/Impar: 8/7
+Miolo: 5
+		
+Sequência: 5 4 3 222 1111
+Atrasos:   6 4444 33 2222 1111  
+
+primos: 	 5	-> 03 05 07 11 13
+fibonacci: 	 6	-> 01 03 05 08 13 21
+magico: 	 8	-> 05 06 07 12 13 14 20 21
+TOTAL: 10
+
+ seq de 2 : [01f]*** 03pf*** 04 [05pfm]*** [20m]***	
+ seq de 3 : 11p-*** [12m]*** [18]		
+ seq de 4 : 08f- [10] 14m- [16]		
+ seq de 5 : 
+ seq de 6 : 06m*** [19pm]
+ seq de 9 : 25-
+            
+ seq ausente de 2 : [02pf] 15- 21fm*** 22*** [23p]	(escolha 2 em média)
+ seq ausente de 3 : 07pm-*** 24- 			(escolha 1 em média)
+ seq ausente de 4 : [09] 13pfm*** [17p]
+ seq ausente de 5 : 
+
+
+- escolhidas:
+02pf 09 17p [22] 23p :: [01f] [05pfm] [10] [12m] [16] 18 19pm [20m]
+
+- resultado:
+01 03 05 06 07 08 10 11 12 13 14 16 20 21 22
+-------------------------
+-------------------------
+JOGO 3248
+Números Sorteados: 01 03 04 05 06 08 10 11 12 14 16 18 19 20 25
+Números Repetidos: 06 08 10 11 12 14 16 18 19 25	
+Números Ausentes:  02 07 09 13 15 17 21 22 23 24 		
+Repetidos: 10												
+Soma: 172		
+Par/Impar: 9/6
+Miolo: 5
+		
+Sequência: 8 55 3333 222 11111  
+Atrasos:   4 22 33 11111   
+
+primos: 	 4	-> 03 05 11 19
+fibonacci: 	 4	-> 01 03 05 08
+magico: 	 6	-> 05 06 12 14 19 20
+TOTAL: 10
+
+ seq de 2 : [02pf] 11p-*** [12m]*** [18]*** 		(escolha 3 em média)
+ seq de 3 : [08f]*** [10]*** 14m?*** [16]*** [22]	(escolha 2 em média)
+ seq de 4 : 21fm- 23p-					(escolha 1 em média)
+ seq de 5 : 06m-*** 15- [19pm]***
+ seq de 8 : [25]***
+            
+ seq ausente de 2 : 04?*** [07pm] 20m-*** [24]			(escolha 2 em média)
+ seq ausente de 3 : [01f]*** 03pf?*** 05pfm*** 09- [13pfm]	(escolha 1 em média)
+ seq ausente de 4 : [17p]
+ seq ausente de 5 : 
+
+
+- escolhidas:
+[01f] 07pm 13pfm 17p 24 :: 02pf [08f] [10] [12m] [16] [18] [19pm] 22 [25]
+
+- resultado:
+01 03 04 05 06 08 10 11 12 14 16 18 19 20 25
+-------------------------
+ -------------------------
+JOGO 3247
+Números Sorteados: 02 06 08 10 11 12 14 15 16 18 19 21 22 23 25
+Números Repetidos: 06 08 10 14 15 16 19 21 22 23 25	
+Números Ausentes:  01 03 04 05 07 09 13 17 20 24 		
+Repetidos: 11													
+Soma: 222		
+Par/Impar: 9/6
+Miolo: 5
+		
+Sequência:  7 444 33 22222 1111
+Atrasos:    3 22222 1111
+
+primos: 	 4	-> 02 11 19 23
+fibonacci: 	 3	-> 02 08 21
+magico: 	 5	-> 06 12 14 19 21
+TOTAL: 9
+
+ seq de 2 : 07pm- [08f]*** 10-*** 14m-*** [16]*** [22]*** 	(escolha 3 em média)
+ seq de 3 : 20m- [21fm]*** 23p-*** [24] 			(escolha 2 em média)
+ seq de 4 : [04] 06m?*** 15-*** [19pm]*** [25]***		(escolha 1 em média)
+ seq de 5 : 
+            
+ seq ausente de 2 : 01f- 03pf- [05] [09] 13pfm- 18-***		(escolha 2 em média)
+ seq ausente de 3 : [02pf]*** [12m]*** 17p-			(escolha 1 em média)
+ seq ausente de 4 : [11p]***
+ seq ausente de 5 : 
+
+
+- escolhidas:
+ [02pf] 05 09 [11p] [12m] :: 04 [08f] [16] [19pm] [21fm] [22] 24 [25]
+
+- resultado:
+02*** 06 08*** 10 11*** 12*** 14 15 16*** 18 19*** 21*** 22*** 23 25***
+-------------------------
+-------------------------
+JOGO 3246
+Números Sorteados: 04 06 07 08 10 14 15 16 19 20 21 22 23 24 25
+Números Repetidos: 04 06 15 19 20 21 23 24 25	
+Números Ausentes:  01 02 03 05 09 11 12 13 17 18		
+Repetidos: 9													
+Soma: 234		
+Par/Impar: 9/6
+Miolo: 4
+
+- escolhidas:
+02pf [07pm] 11p 12m 17p :: 03pf [04] 09 [19pm] [20m] [21fm] [24]
+
+- resultado:
+04. 06 07. 08 10 14 15 16 19. 20. 21. 22 23 24. 25 	-> 6
+		
+		
+Sequência: 6 3333 2222 111111  
+Atrasos: 3 222 111111 		
+
+primos: 	 3	-> 07 19 23
+fibonacci: 	 2	-> 08 21
+magico: 	 6	-> 06 07 14 19 20 21
+TOTAL: 10
+
+ seq de 2 : [05pfm] 13pfm 18 [20m]*** [21fm]*** 23p*** 24***	(escolha 3 em média)
+ seq de 3 : [03pf] [04]*** 06m*** 15*** [19pm]***		(escolha 2 em média)
+ seq de 4 : [09]						(escolha 1 em média)
+ seq de 5 : 01f?
+ seq de 6 : 25?***
+          
+ seq ausente de 2 : [02pf]*** [07pm] 10 [12m]*** 14m 16 [17p]***		(escolha 2 em média)
+ seq ausente de 3 : 08f? [11p]*** 22						(escolha 1 em média)
+-------------------------
+-------------------------
+JOGO 3245
+Números Sorteados: 01 03 04 05 06 09 13 15 18 19 20 21 23 24 25
+Números Repetidos: 01 03 04 06 09 15 19 25	
+Números Ausentes:  02 07 08 10 11 12 14 16 17 22		
+Repetidos: 8													
+Soma: 206		
+Par/Impar: 5/10
+Miolo: 4
+		
+- sorteadas: (escolher 8)
+01- 02+ 03 05- 07 10+ 12 15+ 16+ 17 18+ 20+ 21+ 23+ 25 -> OK	
+
+- repetidos: (escolher 5)
+02+ 05- 07? 10+ 12 16+ 18+ 23+ 25 -> OK	
+
+- repetidos dos repetidos: (escolher 3)
+02+ 05 12 18+ 23+ -> OK
+
+- ausentes: (escolher 5)
+04 06+ 08+ 09 11+ 13 14+ 19+ 22 24 -> OK
+
+- repetidos dos ausentes: 
+06+ 09 11+ 19+ -> OK
+
+- faltam cair (sempre cai mais da metade) (ciclo)
+06+ 19+ -> OK
+
+
+- escolhidas:
+[05pfm] 11p [13pfm] [21fm] [23p] :: [03pf] [04] [06m] 07pm [09] 10 12m 
+
+- resultado:
+01 [03] [04] [05] [06] [09] [13] 15 18 19 20 [21] [23] 24 25
+		
+		
+Sequência: 5 4 3 22222 1111111
+Atrasos: 222 1111111   		
+
+Repetidos dos Repetidos: 
+
+primos: 	 5	-> 03 05 13 19 23
+fibonacci: 	 5	-> 01 03 05 13 21
+magico: 	 6	-> 05 06 13 19 20 21
+TOTAL: 10
+
+ seq de 2 : 02pf [03pf] [04] [06m] 15 16 [19pm]	(escolha 3 em média)
+ seq de 3 : [09] 14m				(escolha 2 em média)
+ seq de 4 : 01f 17p				(escolha 1 em média)
+ seq de 5 : [07pm] [10] 25
+ seq de 6 : [12m]
+      
+ seq ausente de 2 : [05pfm] 08f [11p] 20m-  22- [23p] 24-	(escolha 2 em média)
+ seq ausente de 3 : 18 [21fm]					(escolha 1 em média)
+ seq ausente de 4 : [13pfm]
+
+	
+------------------------- 
+ -------------------------
+JOGO 3244
+Números Sorteados: 01 02 03 04 06 07 09 10 12 14 15 16 17 19 25
+Números Repetidos: 01 07 09 10 12 14 17 25	
+Números Ausentes:  05 08 11 13 18 20 21 22 23 24		
+Repetidos: 8															
+Soma: 165	
+Par/Impar: 5/5
+Miolo: 
+		
+- sorteadas: (escolher 8)
+01- 02+ 03 05- 07 10+ 12 15+ 16+ 17 18+ 20+ 21+ 23+ 25 -> OK	
+
+- repetidos: (escolher 5)
+02+ 05- 07? 10+ 12 16+ 18+ 23+ 25 -> OK	
+
+- repetidos dos repetidos: (escolher 3)
+02+ 05 12 18+ 23+ -> OK
+
+- ausentes: (escolher 5)
+04 06+ 08+ 09 11+ 13 14+ 19+ 22 24 -> OK
+
+- repetidos dos ausentes: 
+06+ 09 11+ 19+ -> OK
+
+- faltam cair (sempre cai mais da metade) (ciclo)
+06+ 19+ -> OK
+
+
+- escolhidas:
+
+
+
+Resultado:
+		
+		
+Sequência: 5 444 33 22 1111111  
+Atrasos: 3 22 1111111   		
+
+Repetidos dos Repetidos: 
+
+primos: 	 5	-> 02 03 07 17 19
+fibonacci: 	 3	-> 01 02 03
+magico: 	 5	-> 06 07 12 14 19
+TOTAL: 10
+
+ seq de 2 : [08f] 09- [11p] 14m- [22] [24]		(escolha 3 em média)
+ seq de 3 : [01f] 17p 20m				(escolha 2 em média)
+ seq de 4 : 07pm- [10] 25?				(escolha 1 em média)
+ seq de 5 : [05pfm] [12m] 23p-
+          
+ seq ausente de 2 : 02pf- [03pf] 15- [16] 18- [21fm]		(escolha 2 em média)
+ seq ausente de 3 : 04- [13pfm]					(escolha 1 em média)
+ seq ausente de 4 : 
+ seq ausente de 5 : 
+ seq ausente de 6 : 
+ seq ausente de 7 : [06m]
+ seq ausente de 9 : 19pm- 
+	
+-------------------------          
+-------------------------
+JOGO 3243
+Números Sorteados: 01 05 07 08 09 10 11 12 14 17 20 22 23 24 25	
+Números Repetidos: 01 05 07 10 12 17 20 23 25	
+Números Ausentes:  02 03 04 06 13 15 16 18 19 21		
+Repetidos: 9													
+Soma: 208	
+Par/Impar: 7/8
+Miolo: 6
+		
+- sorteadas: (escolher 8)
+01- 02+ 03 05- 07 10+ 12 15+ 16+ 17 18+ 20+ 21+ 23+ 25 -> OK	
+
+- repetidos: (escolher 5)
+02+ 05- 07? 10+ 12 16+ 18+ 23+ 25 -> OK	
+
+- repetidos dos repetidos: (escolher 3)
+02+ 05 12 18+ 23+ -> OK
+
+- ausentes: (escolher 5)
+04 06+ 08+ 09 11+ 13 14+ 19+ 22 24 -> OK
+
+- repetidos dos ausentes: 
+06+ 09 11+ 19+ -> OK
+
+- faltam cair (sempre cai mais da metade) (ciclo)
+06+ 19+ -> OK
+
+
+- escolhidas:
+[08f]*** [14m]*** [11p]*** 06m 19pm :: 02pf [10]*** 15 16 18 [20m]*** 21fm [23p]***
+
+
+Resultado:
+01 05 07 08 09 10 11 12 14 17 20 22 23 24 25		
+		
+Sequência: 444 333 222 111111
+Atrasos:   8 6 22 111111		
+
+Repetidos dos Repetidos: 
+
+primos: 	 5	-> 05 07 11 17 23
+fibonacci: 	 3	-> 01 05 08
+magico: 	 5	-> 05 07 12 14 20
+TOTAL: 10
+
+ seq de 2 : 01f*** 03pf [15] 17p*** [20m]*** [21fm] 	(escolha 3 em média)
+ seq de 3 : 07pm*** [10]*** [16] 25***			(escolha 2 em média)
+ seq de 4 : 05pfm*** 12m*** [23p]***			(escolha 1 em média)
+ seq de 5 : [02pf]
+ seq de 6 : 
+ seq de 7 : 
+ seq de 8 : [18]
+ seq de 9 : 
+
+ seq ausente de 2 : 04 [08f]*** 13pfm [14m]*** 22*** 24***	(escolha 2 em média)
+ seq ausente de 3 : 09*** [11p]***				(escolha 1 em média)
+ seq ausente de 4 : 
+ seq ausente de 5 : 
+ seq ausente de 6 : [06m]
+ seq ausente de 7 :
+ seq ausente de 8 : [19pm] 
+	
+-------------------------
+-------------------------
+JOGO 3242
+Números Sorteados: 01 02 03 05 07 10 12 15 16 17 18 20 21 23 25		
+Números Repetidos: 02 05 07 10 12 16 18 23 25	
+Números Ausentes:  04 06 08 09 11 13 14 19 22 24		
+Repetidos: 9											
+Soma: 195	
+Par/Impar: 6/9
+Miolo: 4
+		
+- sorteadas: (escolher 9)
+02+ 03+ 05 08+ 09 11 12+ 13 14+ 15 17 18+ 20+ 22+ 23
+
+- repetidos: (escolher 5) (caiu x da ultima vez)
+02+ 03 08+ 09 11 14+ 15 17 18+ 22+
+
+- repetidos dos repetidos: (escolher 3) (caiu x da ultima vez)
+09 11 14+ 17 18+ 22+
+
+- ausentes: (escolher 5) (caiu x da ultima vez)
+01+ 04 06+ 07+ 10 16+ 19+ 21 24 25
+
+- repetidos dos ausentes: (caiu x da ultima vez)
+01+ 06+ 19+ 21 25 
+
+- faltam cair (sempre cai mais da metade) (ciclo)
+
+
+- escolhidas:
+
+
+
+Resultado:
+01 02 03 05 07 10 12 15 16 17 18 20 21 23 25	
+		
+Sequência: 7 4 333 2222 111111	
+Atrasos: 7 5 22 111111		
+
+Repetidos dos Repetidos: 
+
+primos: 	 6	-> 02 03 05 07 17 23
+fibonacci: 	 5	-> 01 02 03 05 21
+magico: 	 5	-> 05 07 12 20 21
+TOTAL: 8
+
+ seq de 2 : 04 [07pm]*** [10]*** 16*** [24] 25*** 	
+ seq de 3 : [05pfm]*** [12m]*** [13pfm] 23 	
+ seq de 4 : [02pf]*** [08f]		
+ seq de 5 : 14m [22]
+ seq de 6 : 
+ seq de 7 : 18***
+ seq de 8 : 
+ seq de 9 : 
+
+ seq ausente de 2 : 03pf*** 09 [11p] [15]*** 17p*** 20m	***
+ seq ausente de 3 : 				
+ seq ausente de 4 : [01f]*** [21fm]***
+ seq ausente de 5 : [06m]
+ seq ausente de 6 : 
+ seq ausente de 7 : 19pm	
+
+-------------------------
+-------------------------
+
+JOGO 3241
+Números Sorteados: 02 04 05 07 08 10 12 13 14 16 18 22 23 24 25		
+Números Repetidos: 02 05 08 12 13 14 18 22 23		
+Números Ausentes:  01 03 06 09 11 15 17 19 20 21		
+Repetidos: 9									
+Soma: 203	
+Par/Impar: 10/5	
+Miolo: 6
+		
+- sorteadas: (escolher 9)
+02+ 03+ 05 08+ 09 11 12+ 13 14+ 15 17 18+ 20+ 22+ 23
+
+- repetidos: (escolher 5) (caiu x da ultima vez)
+02+ 03 08+ 09 11 14+ 15 17 18+ 22+
+
+- repetidos dos repetidos: (escolher 3) (caiu x da ultima vez)
+09 11 14+ 17 18+ 22+
+
+- ausentes: (escolher 5) (caiu x da ultima vez)
+01+ 04 06+ 07+ 10 16+ 19+ 21 24 25
+
+- repetidos dos ausentes: (caiu x da ultima vez)
+01+ 06+ 19+ 21 25 
+
+- faltam cair (sempre cai mais da metade) (ciclo)
+
+
+- escolhidas:
+01f*** 06m*** [07pm] [16] 19pm*** :: [02pf] 03pf*** [08f] [12m] [18] 20m*** [22]***
+
+
+Resultado:
+02 04 05 07 08 10 12 13 14 16 18 22 23 24 25 
+		
+Sequência: 	6 44 33 2222 111111
+Atrasos: 	6 4 33 111111 	
+
+Repetidos dos Repetidos: 5
+
+primos: 	 5	-> 02 05 07 13 23
+fibonacci: 	 4	-> 02 05 08 13
+magico: 	 5	-> 05 07 12 13 14
+TOTAL: 8
+
+ seq de 2 : 05pfm 12m+ 13pfm 20m+ 23p 	(escolha 3 em média)
+ seq de 3 : 02pf+ 03pf 08f+ 15 		(escolha 2 em média)
+ seq de 4 : 14m 17p 22+			(escolha 1 em média)
+ seq de 5 : 
+ seq de 6 : 09 18
+ seq de 7 : 
+ seq de 8 : 
+ seq de 9 : 11p
+
+ seq ausente de 2 : 04- 07pm+ 10- 16+ 24- 	(escolha 2 em média)
+ seq ausente de 3 : 01f+ 21fm-			(escolha 1 em média)
+ seq ausente de 4 : 06m+
+ seq ausente de 5 : 25
+ seq ausente de 6 : 19pm+	
+
+-------------------------
+-------------------------
+-------------------------
+JOGO 3240
+Números Sorteados: 	02 03 05 08 09 11 12 13 14 15 17 18 20 22 23	
+Números Repetidos: 	02 03 08 09 11 14 15 17 18 22	
+Números Ausentes: 	01 04 06 07 10 16 19 21 24 25	
+Repetidos: 10							
+Soma: 192	
+Par/Impar: 7/8	
+Miolo: 7
+		
+- sorteadas: (escolher 9)
+02+ 03 04+ 07+ 08+ 09+ 10 11+ 14 15+ 16- 17- 18+ 22+ 24
+
+- repetidos: (escolher 5) (caiu 6 da ultima vez)
+04+ 09+ 10 11+ 14 16- 17 18+ 22+ 24
+
+- repetidos dos repetidos: (escolher 3) (caiu 6 da ultima vez)
+09+ 10 11+ 16- 18+ 24
+
+- ausentes: (escolher 5) (caiu 5 da ultima vez)
+01+ 05+ 06+ 12 13 19+ 20+ 21- 23- 25
+
+- repetidos dos ausentes: (caiu 3 da ultima vez)
+06+ 12+ 19 23 25
+
+- faltam cair (sempre cai mais da metade) (ciclo)
+
+
+- escolhidas:
+01f [05pfm]*** 06m 19pm [20m]*** :: [02pf] 04 07pm [08]*** [09]*** [11p]*** [15]*** [18]*** [22]***
+
+Resultado 02. 03 05. 08. 09. 11. 12 13 14 15. 17 18. 20. 22. 23
+		
+Sequência: 8 55 333 2222 11111
+Atrasos: 5 4 3 2222 11111 	
+
+Repetidos dos Repetidos: 6
+
+primos: 	 7	-> 02 03 05 11 13 17 23
+fibonacci: 	 5	-> 02 03 05 08 13
+magico: 	 5	-> 05 12 13 14 20
+TOTAL: 11
+	
+ seq de 2 : [02pf]*** 03pf*** [07pm] [08f]*** [15]***
+ seq de 3 : [04] 14m*** 17p*** [22]*** 
+ seq de 4 : 
+ seq de 5 : [09]*** [18]*** 
+ seq de 6 :  
+ seq de 7 : 10 
+ seq de 8 : [11p]*** 24
+ seq de 9 : 
+ seq de 11 : 16
+-------------------------
+-------------------------
+-------------------------
+JOGO 3239
+Números Sorteados: 	02 03 04 07 08 09 10 11 14 15 16 17 18 22 24	
+Números Repetidos: 	04 09 10 11 14 16 17 18 22 24	
+Números Ausentes: 	01 05 06 12 13 19 20 21 23 25	
+Repetidos: 10					
+Soma: 180	
+Par/Impar: 9/6	
+Miolo: 6
+		
+- sorteadas: (escolher 9)
+01 04+ 05+ 09- 10+ 11 13+ 14+ 16 17+ 18+ 20+ 21+ 22+ 24
+
+- repetidos: (escolher 5) (caiu 9 da ultima vez)
+01 05+ 09- 10+ 11 13+ 16 18+ 20+ 21+ 24
+
+- repetidos dos repetidos: (escolher 3) (caiu 5 da ultima vez)
+01 09- 10+ 11 13+ 16 18+ 20+ 24
+
+- ausentes: (escolher 5) (caiu 4 da ultima vez)
+02 03- 06+ 07- 08+ 12+ 15+ 19+ 23 25-
+
+- repetidos dos ausentes: (caiu 2 da ultima vez)
+03- 08+ 12 15 19 25-
+
+- faltam cair (sempre cai mais da metade) (ciclo)
+08+
+
+- escolhidas:
+[04] 05pfm 06m [08f] [10] 13pfm [14] [16] [17p] 21fm 20m [22]
+		
+Sequência: 10 77 6 44 2222 11111
+Atrasos: 4 33 22 11111  	
+
+Repetidos dos Repetidos: 
+
+primos: 	 5	-> 02 03 07 11 17
+fibonacci: 	 4	-> 02 03 08
+magico: 	 2	-> 07 14
+TOTAL: 7
+	
+ seq de 2 :  [04]*** 14m*** [17p]*** [22]***
+ seq de 3 :  [05pfm] [21fm]
+ seq de 4 :  01f 09*** [13pfm] [18]***
+ seq de 5 :  [20m]
+ seq de 6 :  [10]***
+ seq de 7 :  24***	
+ seq de 8 : 
+ seq de 9 : 
+ seq de 10 : 16***
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+JOGO 3238
+Números Sorteados: 	01 04 05 09 10 11 13 14 16 17 18 20 21 22 24
+Números Repetidos: 	01 05 09 10 11 13 16 18 20 21 24
+Números Ausentes: 	02 03 06 07 08 12 15 19 23 25
+Repetidos: 11			
+Soma: 205	
+Par/Impar: 8/7	
+Miolo: 5
+		
+- sorteadas:
+01 02+ [05] 06+ 07 [09] [10] [11] [13] 16 18 [20] 21 23 [24]
+
+- repetidos:
+01 [09] 10 [11] [13] 16 18 [20] 23 [24]
+
+- repetidos dos repetidos:
+10 [11] 16 [20] [24]
+
+- ausentes:
+03 [04] 08+ 12+ 14 15+ [17] 19 22 25
+
+- repetidos dos ausentes:
+03 [04] 08+ 14 19 
+
+- faltam cair 
+08+
+
+- escolhidas:
+02 [04] [05] 06 08 [10] [11] 12 [13] 15 [20m] [24] - 7
+		
+Sequência: 9 66 533 4 33 22 1111 
+Atrasos: 9 33 222 1111 	
+
+Repetidos dos Repetidos: 9
+
+primos: 	 4	-> 05 11 13 17
+fibonacci: 	 4	-> 01 05 13 21
+magico: 	 5	-> 05 13 14 20 21
+TOTAL: 9
+	
+ seq de 2 : [02pf] [05pfm]*** [06m] 07pm 21fm***  
+ seq de 3 : 01f*** [09]*** [13pfm]*** 18*** 23p
+ seq de 4 : [20m]***
+ seq de 5 : 10***
+ seq de 6 : [11p]*** [24]***
+ seq de 7 : 	
+ seq de 8 : 
+ seq de 9 : 16]***
+ seq de 10 : 
+-------------------------
+-------------------------
+-------------------------
+
+
+-------------------------
+JOGO 3237
+Repetidos: 10			
+Soma: 186		
+Par/Impar: 7/8	
+Miolo: 4		
+
+Sequência: 8 55 4 3 22222 11111 
+Atrasos: 8 4 3 22 11111		
+
+Sequência Repetidas: 0 0 2 4 0 0 0 8 0 0 0 1 0 3 1 0 1 0 2 0 0 1 0 0 1
+Atrasos Repetidos: 2 1 0 0 1 1 1 0 2 4 5 0 2 0 0 8 0 2 0 3 1 0 2 5 0   
+
+Repetidos dos Repetidos: 7
+
+primos: 	 6	-> 02 05 07 11 13 23
+fibonacci: 	 5	-> 01 02 05 13 21
+magico: 	 6	-> 05 06 07 13 20 21
+TOTAL: 10
+	
+ seq de 2 : [01f]*** [09]*** [13pfm]*** 18*** 23p*** 25
+ seq de 3 : [15] [20m]***
+ seq de 4 : 10*** [12m] 17p 22
+ seq de 5 : 11p*** 24***
+-------------------------
+-------------------------
+JOGO 3236
+Repetidos: 	9
+Soma: 		236
+Par/Impar: 	7/8 
+Miolo: 		5
+
+Sequência: 7 44 3333 22 111111    
+Atrasos: 7 3 22 111111			
+
+Sequência Repetidas: 2 3 2 1 6 2 1 2 3
+Atrasos Repetidos: 10 10 7 6 5 444 33 222 111    
+
+Repetidos dos Repetidos: 7
+
+primos: 	 4	-> 11 13 17 23
+fibonacci: 	 2	-> 01 13
+magico: 	 3	-> 12 13 20
+TOTAL: 10
+	
+ seq de 2 : 02pf [03pf] [07pm] 15*** [20m]***
+ seq de 3 : 10*** [12m]*** [17p]*** 22*** 
+ seq de 4 : 11p*** [19pm] 21fm 24***
+ seq de 5 : 
+ seq de 6 : 
+ seq de 7 : 06m 16***	
+-------------------------
+-------------------------
+JOGO 3235
+Repetidos: 	10
+Soma: 		205
+Par/Impar: 	8/7 
+Miolo: 		4
+
+Sequência: 66 3333 222 11111    
+Atrasos: 6 333 2 11111  				
+
+Sequência Repetidas: 55 2222 1111
+Atrasos Repetidos: 99 8 6 5 4 333 222 111     
+
+Repetidos dos Repetidos: 6
+
+primos: 	 6	-> 02 03 07 11 17 19
+fibonacci: 	 3	-> 02 03 21
+magico: 	 6	-> 06 07 12 19 20 21
+TOTAL: 10
+	
+ seq de 2 : 09 [10]*** [12m]*** [17p]*** 18 22***
+ seq de 3 : 11p*** [19pm]*** 21fm*** [23p] 24***
+ seq de 4 : [14m]
+ seq de 5 : 
+ seq de 6 : 06m*** [16]***
+ seq de 7 : 	
+ seq de 8 : 
+ seq de 9 : 
+ seq de 10 : 
+-------------------------
+-------------------------
+JOGO 3234
+Repetidos: 	9
+Soma: 		227
+Par/Impar: 	8/7 
+Miolo: 6
+
+Sequência: 555 3 22222 111111  
+Atrasos: 5 222 111111 				
+
+Sequência Repetidas: 444 2 11111    
+Atrasos Repetidos: 9 88 7 5 444 3 2222 111    
+
+Repetidos dos Repetidos: 9
+
+primos: 	 5	-> 05 11 17 19 23
+fibonacci: 	 2	-> 05 21
+magico: 	 6	-> 05 06 12 14 19 21
+TOTAL: 9
+	
+ seq de 2 : 02pf [03pf] 11p*** [15] 19pm*** [21fm]*** [23p]*** 24***
+ seq de 3 : [07pm] 14m***
+ seq de 4 : 
+ seq de 5 : 05pfm*** [06m]*** [16]***
+ seq de 6 : 
+ seq de 7 : 	
+ seq de 8 : 
+ seq de 9 : 
+ seq de 10 : [04]
+-------------------------
+-------------------------
+JOGO 3233
+Repetidos: 	7
+Soma: 		190
+Par/Impar: 	7/8 
+Miolo: 
+
+Sequência: 16 9 444 22 11111111  
+Atrasos: 4 2 11111111				
+
+Sequência Repetidas: 15 8 333      
+Atrasos Repetidos: 11 8 77 6 5 44 3333 22    
+
+Repetidos dos Repetidos: 7
+
+primos: 	 7	-> 02 03 05 07 11 19 23	
+fibonacci: 	 4	-> 02 03 05 21	
+magico: 	 7	-> 05 06 07 14 19 20 21
+TOTAL: 11
+	
+ seq de 2 : 07pm*** 10 12m 13pfm 14m*** 17p
+ seq de 3 : 25
+ seq de 4 : 05pfm*** 06m*** 09 16***
+ seq de 5 : 01f 22
+ seq de 6 : 
+ seq de 7 : 	
+ seq de 8 : 
+ seq de 9 : 04***
+-------------------------
+-------------------------
+JOGO 3232
+Repetidos: 	9
+Soma: 		181
+Par/Impar: 	8/7
+Miolo: 3 
+
+Sequência: 15 8 44 3333 2 111111        
+Atrasos: 5 3 22 111111 			
+
+Sequência Repetidas: 10 7 33 2222       
+Atrasos Repetidos: 10 7 66 55 4 333 2222        
+
+Repetidos dos Repetidos: 8
+
+primos: 	 4	-> 05 07 13 17	
+fibonacci: 	 3	-> 01 05 13	
+magico: 	 7	-> 05 06 07 12 13 14 20
+TOTAL: 9
+	
+prox seq de 2 : 02pf 18 23p 24 25***
+prox seq de 3 : 03pf 05pfm*** 06m*** 09*** 16***
+prox seq de 4 : 01*** 22***
+prox seq de 5 : 
+prox seq de 6 : 
+prox seq de 7 : 19pm	
+prox seq de 8 : 04***
+prox seq de 9 : 
+
+-------------------------
+-------------------------
+JOGO 3231
+Repetidos: 10
+Soma: 187
+Par/Impar: 8/7 
+
+Sequência: 14 7 6 33 22222       
+Atrasos: 4 2222				
+
+Sequência Repetidas: 10 6 5 22           
+Atrasos Repetidos: 9 6 55 44 3 2222     
+
+Repetidos dos Repetidos: 5
+
+primos: 	 5	-> 02 03 05 19 23	
+fibonacci: 	 4	-> 01 02 03 05	
+magico: 	 4	-> 05 06 19 20
+TOTAL: 10
+	
+ seq de 2 : 03pf 05pfm 06m 09 16 21m*** 
+ seq de 3 : 01f 13pfm*** 22 
+ seq de 4 : 10*** 11p***
+ seq de 5 : 
+ seq de 6 : 19pm
+ seq de 7 : 04 12m***
+ seq de 8 : 
+ seq de 9 : 
+ seq de 14 : 20***
+
+-------------------------
+-------------------------
+JOGO 3230
+Repetidos: 9
+Soma: 172
+Par/Impar: 7/8 
+
+Sequência: 13 66 5 33 222   
+Atrasos: 8 44 3					
+
+Sequência Repetidas: 10 55 4 22           
+Atrasos Repetidos: 8 55 444 33 2222          
+
+Repetidos dos Repetidos: 6
+
+primos: 	 5	-> 03 05 11 13 19	
+fibonacci: 	 5	-> 01 03 05 13 21	
+magico: 	 7	-> 05 06 12 13 19 20 21
+TOTAL: 10
+	
+
+seq de 2 : 01f 13pfm [14m] [17p] 22
+seq de 3 : 10 11p [23p] [25]
+seq de 4 : [07pm] 
+seq de 5 : 19pm
+seq de 6 : 04 12m
+-------------------------
+-------------------------
+JOGO 3229
+Repetidos: 10
+Soma: 206
+Par/Impar: 7/8 
+
+Sequência: 12 9 55 4 3 2222   
+Atrasos: 7 333 2 					
+
+Sequência Repetidas: 10 8 44 3 2         
+Atrasos Repetidos: 8 7 44 3333 222        
+
+Repetidos dos Repetidos: 6
+
+primos: 	 6	-> 07 11 13 17 19 23	
+fibonacci: 	 3	-> 01 08 13	
+magico: 	 6	-> 07 12 13 14 19 20	
+TOTAL: 11
+-------------------------
+-------------------------
+JOGO 3228
+Repetidos: 10
+Soma: 196
+Par/Impar: 7/8 
+
+Sequência: 11 8 44 333 222       
+Atrasos: 6 2222 					
+
+Sequência Repetidas: 10 7 33 222   
+Atrasos Repetidos: 77 6 4 333 22222         
+
+Repetidos dos Repetidos: 7
+
+primos: 	 5	-> 05 07 11 19 23	
+fibonacci: 	 3	-> 05 08 21	
+magico: 	 7	-> 05 06 07 12 19 20 21	
+TOTAL: 10
+
+seq de 2 : 05pfm 07pm [13pfm] [17p] 21fm
+seq de 3 : 06m 09 [14m] 19pm
+seq de 4 : 04 12m [15]
+seq de 5 : 
+seq de 6 : 
+seq de 7 : 
+seq de 8 : 08f
+-------------------------
+-------------------------
+JOGO 3227
+Repetidos: 10
+Soma: 171
+Par/Impar: 6/9 
+
+Sequência: 10 9 7 333 2222       
+Atrasos: 5 33 22					
+
+Sequência Repetidas: 9 8 6 222     
+Atrasos Repetidos: 9 66 55 4 3 222          
+
+Repetidos dos Repetidos: 6
+
+primos: 	 5	-> 05 07 13 17 19	
+fibonacci: 	 5	-> 01 05 08 13 21	
+magico: 	 9	-> 05 06 07 12 13 14 19 20 21	
+TOTAL: 12
+
+seq de 2 : 06m 09 14m 19pm
+seq de 3 : 04 [11p] 12m 15
+seq de 4 : [02pf]
+seq de 5 : [03pf] [22]
+seq de 6 : 18
+seq de 7 : 08f
+-------------------------
+-------------------------
+JOGO 3226
+Repetidos: 11
+Soma: 164
+Par/Impar: 9/6 
+
+Sequência: 9 8 6 5 44 3 2222        
+Atrasos: 4 33 222					
+
+Sequência Repetidas: 8 7 5 4 33 2     
+Atrasos Repetidos: 10 8 55 44 333 22           
+
+Repetidos dos Repetidos: 7
+
+primos: 	 4	-> 02 03 11 19	
+fibonacci: 	 4	-> 01 02 03 08	
+magico: 	 5	-> 06 12 14 19 20	
+TOTAL: 10
+
+seq de 2 : 04 11p 12m 15 [21]
+seq de 3 : 02pf [17p]
+seq de 4 : 03pf 22 [25]
+seq de 5 : 18
+seq de 6 : 08f [16] 
+-------------------------
+-------------------------
+JOGO 3225
+Repetidos: 10
+Soma: 195
+Par/Impar: 8/7 
+
+Sequência: 8 7 55 4 333 22     
+Atrasos: 3 2222					
+
+Sequência Repetidas: 76443222     
+Atrasos Repetidos: 10 744443332222             
+
+Repetidos dos Repetidos: 8
+
+primos: 	 4	-> 02 03 11 17	
+fibonacci: 	 5	-> 01 02 03 08 21	
+magico: 	 3	-> 12 20 21	
+TOTAL: 9
+-------------------------
+-------------------------
+JOGO 3224
+Repetidos: 10
+Soma: 190
+Par/Impar: 9/6
+
+Sequência: 7 6 5 444 3 222       
+Atrasos: 33 222 					
+
+Sequência Repetidas: 6543332     
+Atrasos Repetidos: 10 10 633332222                
+
+Repetidos dos Repetidos: 7
+
+primos: 	 5	-> 02 03 05 17 23	
+fibonacci: 	 5	-> 01 02 03 05 08	
+magico: 	 4	-> 05 06 14 20	
+TOTAL: 10
+-------------------------
+
+
+
